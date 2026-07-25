@@ -108,7 +108,7 @@ export default function Home() {
         <nav className="nav">
           <a className="brand" href="#top" aria-label="返回顶部">
             <span className="brand-mark">声</span>
-            <span>场景词汇点读</span>
+            <span>雅思听力场景词汇</span>
           </a>
           <div className="nav-actions">
             <button
@@ -127,16 +127,16 @@ export default function Home() {
         </nav>
 
         <div className="hero-content" id="top">
-          <div className="eyebrow"><span /> 让 42 页词表真正开口说话</div>
+          <div className="eyebrow"><span /> 雅思听力高频场景 · 点击即读</div>
           <h1>听见每一个词，<br /><em>记住每一个场景。</em></h1>
           <p>
-            点击任意单词即可听标准英语发音。按住宿、旅游、课程、讲座等场景学习，
-            让词汇从纸上走进耳朵里。
+            点击任意单词即可听标准英语发音。按住宿、旅游、课程、讲座等雅思听力
+            高频场景学习，让词汇从纸上走进耳朵里。
           </p>
           <div className="hero-stats">
             <div><strong>{words.length}</strong><span>个场景词汇</span></div>
             <i />
-            <div><strong>{categories.length}</strong><span>大学听力场景</span></div>
+            <div><strong>{categories.length}</strong><span>雅思听力场景</span></div>
             <i />
             <div><strong>42</strong><span>页原始词表</span></div>
           </div>
@@ -208,7 +208,7 @@ export default function Home() {
 
         <div className="section-heading">
           <div>
-            <p>{showFavorites ? "YOUR COLLECTION" : "SCENE VOCABULARY"}</p>
+            <p>{showFavorites ? "YOUR COLLECTION" : "IELTS LISTENING VOCABULARY"}</p>
             <h2>{showFavorites ? "我的收藏" : category === "全部" ? "全部场景词汇" : `${category}场景`}</h2>
           </div>
           <span>找到 {filtered.length} 个词 · 点击卡片播放</span>
@@ -282,7 +282,7 @@ export default function Home() {
 
       <footer>
         <span className="brand-mark">声</span>
-        <p>由《听力场景词汇表》整理 · 发音由你的浏览器实时生成</p>
+        <p>雅思听力场景词汇 · 由原始词表整理 · 发音由你的浏览器实时生成</p>
         <button onClick={openRandom}>开始随机练习 ↗</button>
       </footer>
 

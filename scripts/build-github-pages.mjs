@@ -25,6 +25,10 @@ if (!response.ok) {
 
 let html = await response.text();
 html = html
+  .replaceAll(
+    "https://example.github.io/og.png",
+    "https://gracegejiaqi.github.io/listening-vocab-reader/og.png",
+  )
   .replaceAll("/assets/", "./assets/")
   .replaceAll("/favicon.svg", "./favicon.svg")
   .replaceAll('href="/', 'href="./')

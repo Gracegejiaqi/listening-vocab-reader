@@ -28,7 +28,8 @@ test("renders the vocabulary reader", async () => {
   assert.match(response.headers.get("content-type") ?? "", /^text\/html\b/i);
 
   const html = await response.text();
-  assert.match(html, /<title>场景词汇点读｜听见每一个词<\/title>/);
+  assert.match(html, /<title>雅思听力场景词汇｜点击即读<\/title>/);
+  assert.match(html, /雅思听力高频场景/);
   assert.match(html, /听见每一个词/);
   assert.match(html, /914/);
   assert.match(html, /搜索英文或中文释义/);
