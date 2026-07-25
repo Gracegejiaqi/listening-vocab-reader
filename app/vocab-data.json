@@ -1,0 +1,8228 @@
+[
+  {
+    "id": "word-1",
+    "word": "accommodation",
+    "translation": "住处",
+    "ipa": "/e. Kom.e'dei.afn/",
+    "cefr": "B1",
+    "category": "住宿",
+    "page": 1
+  },
+  {
+    "id": "word-2",
+    "word": "apartment",
+    "translation": "公寓套房",
+    "ipa": "/a pa.t.mant/",
+    "cefr": "A2",
+    "category": "住宿",
+    "page": 1
+  },
+  {
+    "id": "word-3",
+    "word": "bedsit",
+    "translation": "卧室兼客厅两用租间",
+    "ipa": "/ bed.sit/",
+    "cefr": "",
+    "category": "住宿",
+    "page": 1
+  },
+  {
+    "id": "word-4",
+    "word": "cassette player",
+    "translation": "盒式磁带放音机",
+    "ipa": "/ke'set pleia/",
+    "cefr": "B1",
+    "category": "住宿",
+    "page": 1
+  },
+  {
+    "id": "word-5",
+    "word": "community",
+    "translation": "社区；群体；社团，团体，界",
+    "ipa": "/ke'mju:na.ti/",
+    "cefr": "B2",
+    "category": "住宿",
+    "page": 1
+  },
+  {
+    "id": "word-6",
+    "word": "cupboard",
+    "translation": "橱柜",
+    "ipa": "/'kabad/",
+    "cefr": "A2",
+    "category": "住宿",
+    "page": 1
+  },
+  {
+    "id": "word-7",
+    "word": "deluxe apartment",
+    "translation": "公寓套房",
+    "ipa": "/di laks e pa:t.mant/",
+    "cefr": "A2",
+    "category": "住宿",
+    "page": 1
+  },
+  {
+    "id": "word-8",
+    "word": "dish washer",
+    "translation": "洗碗机",
+    "ipa": "/ di/wofe/",
+    "cefr": "A2",
+    "category": "住宿",
+    "page": 1
+  },
+  {
+    "id": "word-9",
+    "word": "dorm",
+    "translation": "（尤指寄宿学校或大学的）宿舍",
+    "ipa": "/do:m/",
+    "cefr": "",
+    "category": "住宿",
+    "page": 1
+  },
+  {
+    "id": "word-10",
+    "word": "dormitory",
+    "translation": "（寄宿学校的）宿舍",
+    "ipa": "/do: mi.ter.i/",
+    "cefr": "",
+    "category": "住宿",
+    "page": 1
+  },
+  {
+    "id": "word-11",
+    "word": "dryer",
+    "translation": "干衣机；电吹风",
+    "ipa": "/ draia/",
+    "cefr": "A2",
+    "category": "住宿",
+    "page": 1
+  },
+  {
+    "id": "word-12",
+    "word": "family-stay",
+    "translation": "家庭寄宿式",
+    "ipa": "/ fam.al.i ster/",
+    "cefr": "A1",
+    "category": "住宿",
+    "page": 1
+  },
+  {
+    "id": "word-13",
+    "word": "flat",
+    "translation": "公寓，单元房",
+    "ipa": "/flat/",
+    "cefr": "",
+    "category": "住宿",
+    "page": 1
+  },
+  {
+    "id": "word-14",
+    "word": "fridge",
+    "translation": "冰箱",
+    "ipa": "/fridz/",
+    "cefr": "A1",
+    "category": "住宿",
+    "page": 1
+  },
+  {
+    "id": "word-15",
+    "word": "gadget",
+    "translation": "小装置",
+    "ipa": "/ gadzit/",
+    "cefr": "C1",
+    "category": "住宿",
+    "page": 1
+  },
+  {
+    "id": "word-16",
+    "word": "home-stay",
+    "translation": "寄宿家庭式",
+    "ipa": "/haum stei/",
+    "cefr": "",
+    "category": "住宿",
+    "page": 1
+  },
+  {
+    "id": "word-17",
+    "word": "host family",
+    "translation": "寄宿家庭",
+    "ipa": "/haust 'fæm.al.i",
+    "cefr": "",
+    "category": "住宿",
+    "page": 1
+  },
+  {
+    "id": "word-18",
+    "word": "hostel",
+    "translation": "免费或廉价的旅社，客栈",
+    "ipa": "/hos.tal/",
+    "cefr": "B1",
+    "category": "住宿",
+    "page": 1
+  },
+  {
+    "id": "word-19",
+    "word": "hotel",
+    "translation": "宾馆，酒店",
+    "ipa": "/hau'tel/",
+    "cefr": "A1",
+    "category": "住宿",
+    "page": 1
+  },
+  {
+    "id": "word-20",
+    "word": "inn",
+    "translation": "（通常位于乡间可过夜的）酒馆",
+    "ipa": "/In/",
+    "cefr": "",
+    "category": "住宿",
+    "page": 1
+  },
+  {
+    "id": "word-21",
+    "word": "landlord",
+    "translation": "房东；地主",
+    "ipa": "/lænd.lo:d/",
+    "cefr": "B2",
+    "category": "住宿",
+    "page": 1
+  },
+  {
+    "id": "word-22",
+    "word": "motel",
+    "translation": "汽车旅馆",
+    "ipa": "/mau'tel/",
+    "cefr": "",
+    "category": "住宿",
+    "page": 1
+  },
+  {
+    "id": "word-23",
+    "word": "oven",
+    "translation": "烤箱",
+    "ipa": "/^v(a)n/",
+    "cefr": "A2",
+    "category": "住宿",
+    "page": 1
+  },
+  {
+    "id": "word-24",
+    "word": "property",
+    "translation": "房产，地产，房地产",
+    "ipa": "/prop.e.ti/",
+    "cefr": "B1",
+    "category": "住宿",
+    "page": 1
+  },
+  {
+    "id": "word-25",
+    "word": "refrigerator",
+    "translation": "冰箱",
+    "ipa": "/ri fridgereite/",
+    "cefr": "A2",
+    "category": "住宿",
+    "page": 1
+  },
+  {
+    "id": "word-26",
+    "word": "residence",
+    "translation": "住所；住房；宅第",
+    "ipa": "/rez.i.dans/",
+    "cefr": "C2",
+    "category": "住宿",
+    "page": 1
+  },
+  {
+    "id": "word-27",
+    "word": "satellite TV",
+    "translation": "卫星电视",
+    "ipa": "/'satalit TV/",
+    "cefr": "",
+    "category": "住宿",
+    "page": 1
+  },
+  {
+    "id": "word-28",
+    "word": "shared house",
+    "translation": "合用合租的房子",
+    "ipa": "/fead haust/",
+    "cefr": "",
+    "category": "住宿",
+    "page": 1
+  },
+  {
+    "id": "word-29",
+    "word": "stereo",
+    "translation": "立体声音响",
+    "ipa": "/sterieu, stieriau/",
+    "cefr": "B1",
+    "category": "住宿",
+    "page": 1
+  },
+  {
+    "id": "word-30",
+    "word": "stove",
+    "translation": "炉",
+    "ipa": "/stauv/",
+    "cefr": "A2",
+    "category": "住宿",
+    "page": 1
+  },
+  {
+    "id": "word-31",
+    "word": "tape recorder",
+    "translation": "磁带录音机",
+    "ipa": "/teip ri ko:da/",
+    "cefr": "B2",
+    "category": "住宿",
+    "page": 1
+  },
+  {
+    "id": "word-32",
+    "word": "tenant",
+    "translation": "租户；佃户；房客",
+    "ipa": "/'ten.ant/",
+    "cefr": "C2",
+    "category": "住宿",
+    "page": 1
+  },
+  {
+    "id": "word-33",
+    "word": "amenity",
+    "translation": "便利设施",
+    "ipa": "/e mi:niti/",
+    "cefr": "C1",
+    "category": "住宿",
+    "page": 2
+  },
+  {
+    "id": "word-34",
+    "word": "barber",
+    "translation": "理发师",
+    "ipa": "/ ba: bal",
+    "cefr": "B1",
+    "category": "住宿",
+    "page": 2
+  },
+  {
+    "id": "word-35",
+    "word": "bathtub",
+    "translation": "浴缸",
+    "ipa": "/ ba: Otab/",
+    "cefr": "A2",
+    "category": "住宿",
+    "page": 2
+  },
+  {
+    "id": "word-36",
+    "word": "blanket",
+    "translation": "毯子",
+    "ipa": "/'blankit/",
+    "cefr": "B1",
+    "category": "住宿",
+    "page": 2
+  },
+  {
+    "id": "word-37",
+    "word": "boutique",
+    "translation": "时装店",
+    "ipa": "/bu: ti:k/",
+    "cefr": "B2",
+    "category": "住宿",
+    "page": 2
+  },
+  {
+    "id": "word-38",
+    "word": "bulb",
+    "translation": "电灯泡",
+    "ipa": "/balb/",
+    "cefr": "B1",
+    "category": "住宿",
+    "page": 2
+  },
+  {
+    "id": "word-39",
+    "word": "caf",
+    "translation": "咖啡馆",
+    "ipa": "/ kafei/",
+    "cefr": "A2",
+    "category": "住宿",
+    "page": 2
+  },
+  {
+    "id": "word-40",
+    "word": "closet",
+    "translation": "壁橱",
+    "ipa": "/'klozit/",
+    "cefr": "B1",
+    "category": "住宿",
+    "page": 2
+  },
+  {
+    "id": "word-41",
+    "word": "convenience store",
+    "translation": "便利店",
+    "ipa": "/kan vinjans sto(e)r/",
+    "cefr": "B1",
+    "category": "住宿",
+    "page": 2
+  },
+  {
+    "id": "word-42",
+    "word": "country",
+    "translation": "乡下",
+    "ipa": "/ kantri/",
+    "cefr": "A1",
+    "category": "住宿",
+    "page": 2
+  },
+  {
+    "id": "word-43",
+    "word": "curtain",
+    "translation": "窗帘",
+    "ipa": "/'ka:t(a)n/",
+    "cefr": "B1",
+    "category": "住宿",
+    "page": 2
+  },
+  {
+    "id": "word-44",
+    "word": "downtown",
+    "translation": "市中心",
+    "ipa": "/ dauntaun/",
+    "cefr": "A2",
+    "category": "住宿",
+    "page": 2
+  },
+  {
+    "id": "word-45",
+    "word": "grand cinema",
+    "translation": "电影院",
+    "ipa": "/grand sinime/",
+    "cefr": "B1",
+    "category": "住宿",
+    "page": 2
+  },
+  {
+    "id": "word-46",
+    "word": "grocery",
+    "translation": "食品杂货店",
+    "ipa": "/ graus(e)ri/",
+    "cefr": "A2",
+    "category": "住宿",
+    "page": 2
+  },
+  {
+    "id": "word-47",
+    "word": "heating",
+    "translation": "暖气设备",
+    "ipa": "/'hi tin/",
+    "cefr": "B1",
+    "category": "住宿",
+    "page": 2
+  },
+  {
+    "id": "word-48",
+    "word": "lighting",
+    "translation": "照明设备",
+    "ipa": "/'lartin/",
+    "cefr": "B1",
+    "category": "住宿",
+    "page": 2
+  },
+  {
+    "id": "word-49",
+    "word": "mart",
+    "translation": "集市",
+    "ipa": "/ma:t/",
+    "cefr": "B2",
+    "category": "住宿",
+    "page": 2
+  },
+  {
+    "id": "word-50",
+    "word": "mattress",
+    "translation": "床垫",
+    "ipa": "/'matris/",
+    "cefr": "B1",
+    "category": "住宿",
+    "page": 2
+  },
+  {
+    "id": "word-51",
+    "word": "parking lot",
+    "translation": "停车场",
+    "ipa": "/pa:kin lot/",
+    "cefr": "A2",
+    "category": "住宿",
+    "page": 2
+  },
+  {
+    "id": "word-52",
+    "word": "pillow",
+    "translation": "枕头",
+    "ipa": "/pilau/",
+    "cefr": "A2",
+    "category": "住宿",
+    "page": 2
+  },
+  {
+    "id": "word-53",
+    "word": "recreation centre",
+    "translation": "娱乐中心",
+    "ipa": "/,rekri er|(e)n 'senta/",
+    "cefr": "B2",
+    "category": "住宿",
+    "page": 2
+  },
+  {
+    "id": "word-54",
+    "word": "rural area",
+    "translation": "乡村地区",
+    "ipa": "/ruar(a) '&:ria/",
+    "cefr": "B2",
+    "category": "住宿",
+    "page": 2
+  },
+  {
+    "id": "word-55",
+    "word": "shampoo",
+    "translation": "洗发剂",
+    "ipa": "/Jam pu/",
+    "cefr": "A2",
+    "category": "住宿",
+    "page": 2
+  },
+  {
+    "id": "word-56",
+    "word": "shopping mall",
+    "translation": "购物中心",
+    "ipa": "/Jopin mal/",
+    "cefr": "B1",
+    "category": "住宿",
+    "page": 2
+  },
+  {
+    "id": "word-57",
+    "word": "shower",
+    "translation": "淋浴",
+    "ipa": "/fave/",
+    "cefr": "A2",
+    "category": "住宿",
+    "page": 2
+  },
+  {
+    "id": "word-58",
+    "word": "surroundings",
+    "translation": "环境",
+    "ipa": "/se raundinz/",
+    "cefr": "B1",
+    "category": "住宿",
+    "page": 2
+  },
+  {
+    "id": "word-59",
+    "word": "theatre",
+    "translation": "剧场；电影院",
+    "ipa": "/'Orata/",
+    "cefr": "A2",
+    "category": "住宿",
+    "page": 2
+  },
+  {
+    "id": "word-60",
+    "word": "towel",
+    "translation": "纸巾",
+    "ipa": "/'taval,/",
+    "cefr": "A2",
+    "category": "住宿",
+    "page": 2
+  },
+  {
+    "id": "word-61",
+    "word": "utensil",
+    "translation": "器皿",
+    "ipa": "/ju: tens(a)l/",
+    "cefr": "B2",
+    "category": "住宿",
+    "page": 2
+  },
+  {
+    "id": "word-62",
+    "word": "vendor",
+    "translation": "小贩",
+    "ipa": "/vende/",
+    "cefr": "B2",
+    "category": "住宿",
+    "page": 2
+  },
+  {
+    "id": "word-63",
+    "word": "ventilation",
+    "translation": "通风设备",
+    "ipa": "/ ventr lei (e)n/",
+    "cefr": "B2",
+    "category": "住宿",
+    "page": 2
+  },
+  {
+    "id": "word-64",
+    "word": "wardrobe",
+    "translation": "衣柜",
+    "ipa": "/ wo:draub/",
+    "cefr": "B1",
+    "category": "住宿",
+    "page": 2
+  },
+  {
+    "id": "word-65",
+    "word": "address",
+    "translation": "地址",
+    "ipa": "/e dres/",
+    "cefr": "B1",
+    "category": "住宿",
+    "page": 3
+  },
+  {
+    "id": "word-66",
+    "word": "avenue",
+    "translation": "大街",
+    "ipa": "/ævinju: /",
+    "cefr": "B1",
+    "category": "住宿",
+    "page": 3
+  },
+  {
+    "id": "word-67",
+    "word": "bill",
+    "translation": "账单",
+    "ipa": "/bil /",
+    "cefr": "A2",
+    "category": "住宿",
+    "page": 3
+  },
+  {
+    "id": "word-68",
+    "word": "boulevard",
+    "translation": "林荫大道",
+    "ipa": "/ bu:lva: /",
+    "cefr": "B2",
+    "category": "住宿",
+    "page": 3
+  },
+  {
+    "id": "word-69",
+    "word": "cafeteria",
+    "translation": "自助餐厅",
+    "ipa": "/kafi tieria/",
+    "cefr": "A2",
+    "category": "住宿",
+    "page": 3
+  },
+  {
+    "id": "word-70",
+    "word": "cash",
+    "translation": "现金",
+    "ipa": "/kaf /",
+    "cefr": "A2",
+    "category": "住宿",
+    "page": 3
+  },
+  {
+    "id": "word-71",
+    "word": "check/cheque",
+    "translation": "支票",
+    "ipa": "tsk /",
+    "cefr": "B1",
+    "category": "住宿",
+    "page": 3
+  },
+  {
+    "id": "word-72",
+    "word": "credit card",
+    "translation": "信用卡",
+    "ipa": "/'kredit ka:d /",
+    "cefr": "A2",
+    "category": "住宿",
+    "page": 3
+  },
+  {
+    "id": "word-73",
+    "word": "deposit",
+    "translation": "存款",
+    "ipa": "/di pozit/",
+    "cefr": "B2",
+    "category": "住宿",
+    "page": 3
+  },
+  {
+    "id": "word-74",
+    "word": "identification number",
+    "translation": "身份证件号码",
+    "ipa": "/ai, dentift keilen",
+    "cefr": "B2",
+    "category": "住宿",
+    "page": 3
+  },
+  {
+    "id": "word-75",
+    "word": "In advance",
+    "translation": "提前",
+    "ipa": "/in ad vains /",
+    "cefr": "A1",
+    "category": "住宿",
+    "page": 3
+  },
+  {
+    "id": "word-76",
+    "word": "insurance",
+    "translation": "保险",
+    "ipa": "/in'fuerans/",
+    "cefr": "B1",
+    "category": "住宿",
+    "page": 3
+  },
+  {
+    "id": "word-77",
+    "word": "lease",
+    "translation": "租约",
+    "ipa": "/lits /",
+    "cefr": "B2",
+    "category": "住宿",
+    "page": 3
+  },
+  {
+    "id": "word-78",
+    "word": "loan",
+    "translation": "借款；贷款",
+    "ipa": "/laun/",
+    "cefr": "A2",
+    "category": "住宿",
+    "page": 3
+  },
+  {
+    "id": "word-79",
+    "word": "maximum price",
+    "translation": "最高价",
+    "ipa": "/maks prais /",
+    "cefr": "B1",
+    "category": "住宿",
+    "page": 3
+  },
+  {
+    "id": "word-80",
+    "word": "minimum price",
+    "translation": "最低价",
+    "ipa": "/ minimam prais",
+    "cefr": "B1",
+    "category": "住宿",
+    "page": 3
+  },
+  {
+    "id": "word-81",
+    "word": "passport",
+    "translation": "护照",
+    "ipa": "/pa:spot /",
+    "cefr": "B1",
+    "category": "住宿",
+    "page": 3
+  },
+  {
+    "id": "word-82",
+    "word": "pathway",
+    "translation": "小路",
+    "ipa": "/ pa:Ower/",
+    "cefr": "C1",
+    "category": "住宿",
+    "page": 3
+  },
+  {
+    "id": "word-83",
+    "word": "post code",
+    "translation": "邮政编码英",
+    "ipa": "/paust kaud/",
+    "cefr": "B1",
+    "category": "住宿",
+    "page": 3
+  },
+  {
+    "id": "word-84",
+    "word": "rent",
+    "translation": "租金",
+    "ipa": "/rent /",
+    "cefr": "A2",
+    "category": "住宿",
+    "page": 3
+  },
+  {
+    "id": "word-85",
+    "word": "rental price",
+    "translation": "租金",
+    "ipa": "/ rentl prais /",
+    "cefr": "A2",
+    "category": "住宿",
+    "page": 3
+  },
+  {
+    "id": "word-86",
+    "word": "road",
+    "translation": "道路",
+    "ipa": "/raud /",
+    "cefr": "A1",
+    "category": "住宿",
+    "page": 3
+  },
+  {
+    "id": "word-87",
+    "word": "snack bar",
+    "translation": "快餐店；快餐柜台",
+    "ipa": "/snak ba: /",
+    "cefr": "A1",
+    "category": "住宿",
+    "page": 3
+  },
+  {
+    "id": "word-88",
+    "word": "zip code",
+    "translation": "邮政编码美",
+    "ipa": "/zip kaud/",
+    "cefr": "B1",
+    "category": "住宿",
+    "page": 3
+  },
+  {
+    "id": "word-89",
+    "word": "airport tax",
+    "translation": "机场税",
+    "ipa": "/ sapoit taks/",
+    "cefr": "",
+    "category": "旅游",
+    "page": 4
+  },
+  {
+    "id": "word-90",
+    "word": "arrangement",
+    "translation": "安排",
+    "ipa": "/e'reind3.ment/",
+    "cefr": "B1",
+    "category": "旅游",
+    "page": 4
+  },
+  {
+    "id": "word-91",
+    "word": "book",
+    "translation": "预定",
+    "ipa": "/buk/",
+    "cefr": "A1",
+    "category": "旅游",
+    "page": 4
+  },
+  {
+    "id": "word-92",
+    "word": "booking",
+    "translation": "预定",
+    "ipa": "/bukin/",
+    "cefr": "A1",
+    "category": "旅游",
+    "page": 4
+  },
+  {
+    "id": "word-93",
+    "word": "business class",
+    "translation": "商务舱",
+    "ipa": "/bizanis, kla.s/",
+    "cefr": "",
+    "category": "旅游",
+    "page": 4
+  },
+  {
+    "id": "word-94",
+    "word": "business trip",
+    "translation": "商务旅行",
+    "ipa": "",
+    "cefr": "",
+    "category": "旅游",
+    "page": 4
+  },
+  {
+    "id": "word-95",
+    "word": "destination",
+    "translation": "目的地",
+    "ipa": "/, des.ti'nei.fen/",
+    "cefr": "B1",
+    "category": "旅游",
+    "page": 4
+  },
+  {
+    "id": "word-96",
+    "word": "duty-free shop",
+    "translation": "免税店",
+    "ipa": "/'du:ti: fri: jop/",
+    "cefr": "",
+    "category": "旅游",
+    "page": 4
+  },
+  {
+    "id": "word-97",
+    "word": "economy class",
+    "translation": "经济舱",
+    "ipa": "/I'kon.a.mi kla.s/",
+    "cefr": "",
+    "category": "旅游",
+    "page": 4
+  },
+  {
+    "id": "word-98",
+    "word": "entertainment",
+    "translation": "娱乐节目/活动；",
+    "ipa": "/en.ta'tein.mant/",
+    "cefr": "B1",
+    "category": "旅游",
+    "page": 4
+  },
+  {
+    "id": "word-99",
+    "word": "extra charge",
+    "translation": "附加费",
+    "ipa": "/'ekstra tfa:d3/",
+    "cefr": "",
+    "category": "旅游",
+    "page": 4
+  },
+  {
+    "id": "word-100",
+    "word": "fare",
+    "translation": "车票，票价",
+    "ipa": "/fear/",
+    "cefr": "B1",
+    "category": "旅游",
+    "page": 4
+  },
+  {
+    "id": "word-101",
+    "word": "first class",
+    "translation": "头等舱",
+    "ipa": "/ fa.st kla.s/",
+    "cefr": "",
+    "category": "旅游",
+    "page": 4
+  },
+  {
+    "id": "word-102",
+    "word": "fully-booked",
+    "translation": "预定满的",
+    "ipa": "/'fuli bu:kt/",
+    "cefr": "",
+    "category": "旅游",
+    "page": 4
+  },
+  {
+    "id": "word-103",
+    "word": "guide",
+    "translation": "皇品為鴻麻游指南",
+    "ipa": "/gard/",
+    "cefr": "B1",
+    "category": "旅游",
+    "page": 4
+  },
+  {
+    "id": "word-104",
+    "word": "journey",
+    "translation": "旅程",
+    "ipa": "/ d33:.ni/",
+    "cefr": "A2",
+    "category": "旅游",
+    "page": 4
+  },
+  {
+    "id": "word-105",
+    "word": "lounge",
+    "translation": "候机厅，休息厅",
+    "ipa": "/laund3/",
+    "cefr": "C1",
+    "category": "旅游",
+    "page": 4
+  },
+  {
+    "id": "word-106",
+    "word": "membership",
+    "translation": "会员身份、资格",
+    "ipa": "/ mem.ba.fip/",
+    "cefr": "B1",
+    "category": "旅游",
+    "page": 4
+  },
+  {
+    "id": "word-107",
+    "word": "one-way ticket",
+    "translation": "单程票",
+    "ipa": "/. wAn' wel/",
+    "cefr": "",
+    "category": "旅游",
+    "page": 4
+  },
+  {
+    "id": "word-108",
+    "word": "package tour",
+    "translation": "包价旅行",
+    "ipa": "/pak.id3 ,tuer/",
+    "cefr": "",
+    "category": "旅游",
+    "page": 4
+  },
+  {
+    "id": "word-109",
+    "word": "passenger",
+    "translation": "旅客",
+    "ipa": "/pæs.an.dgar/",
+    "cefr": "A2",
+    "category": "旅游",
+    "page": 4
+  },
+  {
+    "id": "word-110",
+    "word": "recreation",
+    "translation": "娱乐",
+    "ipa": "/.rek.ri'er.fon/",
+    "cefr": "B2",
+    "category": "旅游",
+    "page": 4
+  },
+  {
+    "id": "word-111",
+    "word": "reservation",
+    "translation": "预定",
+    "ipa": "/ rez.e'ver.fen/",
+    "cefr": "B1",
+    "category": "旅游",
+    "page": 4
+  },
+  {
+    "id": "word-112",
+    "word": "reserve",
+    "translation": "预定",
+    "ipa": "/ri' z3.V/",
+    "cefr": "B1",
+    "category": "旅游",
+    "page": 4
+  },
+  {
+    "id": "word-113",
+    "word": "return ticket",
+    "translation": "往返票",
+    "ipa": "/ri'ts.n",
+    "cefr": "",
+    "category": "旅游",
+    "page": 4
+  },
+  {
+    "id": "word-114",
+    "word": "scenic spot",
+    "translation": "风景区，名胜",
+    "ipa": "/'si:nik spot/",
+    "cefr": "",
+    "category": "旅游",
+    "page": 4
+  },
+  {
+    "id": "word-115",
+    "word": "seat reservation",
+    "translation": "预定位置",
+    "ipa": "/si:t reza veifan/",
+    "cefr": "",
+    "category": "旅游",
+    "page": 4
+  },
+  {
+    "id": "word-116",
+    "word": "terminal",
+    "translation": "终点站",
+    "ipa": "/'t3.minl/",
+    "cefr": "",
+    "category": "旅游",
+    "page": 4
+  },
+  {
+    "id": "word-117",
+    "word": "tour",
+    "translation": "旅行，观光",
+    "ipa": "/tuar/",
+    "cefr": "A2",
+    "category": "旅游",
+    "page": 4
+  },
+  {
+    "id": "word-118",
+    "word": "travel",
+    "translation": "旅行，旅游",
+    "ipa": "/træv.al/",
+    "cefr": "A1",
+    "category": "旅游",
+    "page": 4
+  },
+  {
+    "id": "word-119",
+    "word": "travel agency",
+    "translation": "旅行社",
+    "ipa": "/'trav.al ,er.dgan.si/",
+    "cefr": "",
+    "category": "旅游",
+    "page": 4
+  },
+  {
+    "id": "word-120",
+    "word": "trip",
+    "translation": "旅行",
+    "ipa": "/trip/",
+    "cefr": "A2",
+    "category": "旅游",
+    "page": 4
+  },
+  {
+    "id": "word-121",
+    "word": "vacant seat",
+    "translation": "空位置",
+    "ipa": "/ veikant si:t/",
+    "cefr": "",
+    "category": "旅游",
+    "page": 4
+  },
+  {
+    "id": "word-122",
+    "word": "amusement park",
+    "translation": "游乐场",
+    "ipa": "/e'mju.zmant pa:k/",
+    "cefr": "",
+    "category": "旅游",
+    "page": 5
+  },
+  {
+    "id": "word-123",
+    "word": "ancient temple",
+    "translation": "古寺庙",
+    "ipa": "/ ein.fant templ",
+    "cefr": "",
+    "category": "旅游",
+    "page": 5
+  },
+  {
+    "id": "word-124",
+    "word": "aquarium",
+    "translation": "水族馆",
+    "ipa": "/a'kwea.ri.em/",
+    "cefr": "",
+    "category": "旅游",
+    "page": 5
+  },
+  {
+    "id": "word-125",
+    "word": "art gallery",
+    "translation": "美术馆",
+    "ipa": "/'a.t.gæl.ar.i/",
+    "cefr": "",
+    "category": "旅游",
+    "page": 5
+  },
+  {
+    "id": "word-126",
+    "word": "bay",
+    "translation": "湾",
+    "ipa": "/ber/",
+    "cefr": "B1",
+    "category": "旅游",
+    "page": 5
+  },
+  {
+    "id": "word-127",
+    "word": "botanical garden",
+    "translation": "植物园",
+    "ipa": "/be tan.ik 'ga..den/",
+    "cefr": "",
+    "category": "旅游",
+    "page": 5
+  },
+  {
+    "id": "word-128",
+    "word": "camping",
+    "translation": "露莒",
+    "ipa": "/'kæm.pin/",
+    "cefr": "A2",
+    "category": "旅游",
+    "page": 5
+  },
+  {
+    "id": "word-129",
+    "word": "castle",
+    "translation": "城堡",
+    "ipa": "/ka.sl/",
+    "cefr": "A2",
+    "category": "旅游",
+    "page": 5
+  },
+  {
+    "id": "word-130",
+    "word": "cathedral",
+    "translation": "大教堂",
+    "ipa": "/ka'Oi.dral/",
+    "cefr": "A2",
+    "category": "旅游",
+    "page": 5
+  },
+  {
+    "id": "word-131",
+    "word": "coast",
+    "translation": "海岸；海滨",
+    "ipa": "/kaust/",
+    "cefr": "B1",
+    "category": "旅游",
+    "page": 5
+  },
+  {
+    "id": "word-132",
+    "word": "concert",
+    "translation": "音乐会",
+    "ipa": "/'kon.sat/",
+    "cefr": "A2",
+    "category": "旅游",
+    "page": 5
+  },
+  {
+    "id": "word-133",
+    "word": "dam",
+    "translation": "坝，堤",
+    "ipa": "/dam/",
+    "cefr": "",
+    "category": "旅游",
+    "page": 5
+  },
+  {
+    "id": "word-134",
+    "word": "dock",
+    "translation": "码头",
+    "ipa": "/dok/",
+    "cefr": "C1",
+    "category": "旅游",
+    "page": 5
+  },
+  {
+    "id": "word-135",
+    "word": "excursion",
+    "translation": "短途旅行，远足",
+    "ipa": "/ik ska..fen/",
+    "cefr": "",
+    "category": "旅游",
+    "page": 5
+  },
+  {
+    "id": "word-136",
+    "word": "harbour",
+    "translation": "港口",
+    "ipa": "/'ha.: bar/",
+    "cefr": "",
+    "category": "旅游",
+    "page": 5
+  },
+  {
+    "id": "word-137",
+    "word": "heritage",
+    "translation": "遗产",
+    "ipa": "/ heritidz/",
+    "cefr": "C2",
+    "category": "旅游",
+    "page": 5
+  },
+  {
+    "id": "word-138",
+    "word": "hiking",
+    "translation": "徒步旅行",
+    "ipa": "/ haikin/",
+    "cefr": "A2",
+    "category": "旅游",
+    "page": 5
+  },
+  {
+    "id": "word-139",
+    "word": "historical interest",
+    "translation": "历史景点，名胜古迹；",
+    "ipa": "/his'torikal 'intrist/",
+    "cefr": "",
+    "category": "旅游",
+    "page": 5
+  },
+  {
+    "id": "word-140",
+    "word": "hot spring",
+    "translation": "温泉",
+    "ipa": "/hot sprin/",
+    "cefr": "",
+    "category": "旅游",
+    "page": 5
+  },
+  {
+    "id": "word-141",
+    "word": "landscape",
+    "translation": "风景",
+    "ipa": "/ land.skeip/",
+    "cefr": "B1",
+    "category": "旅游",
+    "page": 5
+  },
+  {
+    "id": "word-142",
+    "word": "museum",
+    "translation": "博物馆",
+    "ipa": "/mju:zi.:.em/",
+    "cefr": "A1",
+    "category": "旅游",
+    "page": 5
+  },
+  {
+    "id": "word-143",
+    "word": "organic farm",
+    "translation": "有机农场",
+    "ipa": "/o: gænik park/",
+    "cefr": "",
+    "category": "旅游",
+    "page": 5
+  },
+  {
+    "id": "word-144",
+    "word": "outdoors",
+    "translation": "在户外/野外",
+    "ipa": "adv./ n",
+    "cefr": "B1",
+    "category": "旅游",
+    "page": 5
+  },
+  {
+    "id": "word-145",
+    "word": "post office",
+    "translation": "邮政局",
+    "ipa": "/paust ofis/",
+    "cefr": "",
+    "category": "旅游",
+    "page": 5
+  },
+  {
+    "id": "word-146",
+    "word": "relics",
+    "translation": "遗产，遗物",
+    "ipa": "/reliks/",
+    "cefr": "",
+    "category": "旅游",
+    "page": 5
+  },
+  {
+    "id": "word-147",
+    "word": "reservoir",
+    "translation": "水库",
+    "ipa": "/rez.a.vwa.r/",
+    "cefr": "",
+    "category": "旅游",
+    "page": 5
+  },
+  {
+    "id": "word-148",
+    "word": "resort",
+    "translation": "度假胜地",
+    "ipa": "/ri' zo.t/",
+    "cefr": "B1",
+    "category": "旅游",
+    "page": 5
+  },
+  {
+    "id": "word-149",
+    "word": "scenery",
+    "translation": "风景",
+    "ipa": "/'si:nari/",
+    "cefr": "C1",
+    "category": "旅游",
+    "page": 5
+  },
+  {
+    "id": "word-150",
+    "word": "sightseeing",
+    "translation": "观光",
+    "ipa": "/sait, si.in/",
+    "cefr": "A2",
+    "category": "旅游",
+    "page": 5
+  },
+  {
+    "id": "word-151",
+    "word": "theme park",
+    "translation": "主题公园",
+    "ipa": "/Pi:m pa:k/",
+    "cefr": "",
+    "category": "旅游",
+    "page": 5
+  },
+  {
+    "id": "word-152",
+    "word": "town hall",
+    "translation": "市政厅",
+    "ipa": "/taun ho:l/",
+    "cefr": "",
+    "category": "旅游",
+    "page": 5
+  },
+  {
+    "id": "word-153",
+    "word": "viewpoint point",
+    "translation": "观景点",
+    "ipa": "/ ju: point point/",
+    "cefr": "",
+    "category": "旅游",
+    "page": 5
+  },
+  {
+    "id": "word-154",
+    "word": "water mill",
+    "translation": "水磨",
+    "ipa": "/wo:ta mil/",
+    "cefr": "",
+    "category": "旅游",
+    "page": 5
+  },
+  {
+    "id": "word-155",
+    "word": "barbecue",
+    "translation": "烧烤",
+    "ipa": "/ ba: br.kju:/",
+    "cefr": "A2",
+    "category": "旅游",
+    "page": 6
+  },
+  {
+    "id": "word-156",
+    "word": "boat / ship",
+    "translation": "船",
+    "ipa": "/baut/ / Jip /",
+    "cefr": "A1",
+    "category": "旅游",
+    "page": 6
+  },
+  {
+    "id": "word-157",
+    "word": "cab / taxi",
+    "translation": "的士",
+    "ipa": "/kæb/ /tæk.si/",
+    "cefr": "A1",
+    "category": "旅游",
+    "page": 6
+  },
+  {
+    "id": "word-158",
+    "word": "cabin",
+    "translation": "小木屋，小仓",
+    "ipa": "",
+    "cefr": "B1",
+    "category": "旅游",
+    "page": 6
+  },
+  {
+    "id": "word-159",
+    "word": "caravan",
+    "translation": "房车",
+    "ipa": "/ kær.a.van/",
+    "cefr": "",
+    "category": "旅游",
+    "page": 6
+  },
+  {
+    "id": "word-160",
+    "word": "classical",
+    "translation": "经典的",
+    "ipa": "/ klas.1.kal/",
+    "cefr": "C2",
+    "category": "旅游",
+    "page": 6
+  },
+  {
+    "id": "word-161",
+    "word": "coach",
+    "translation": "大巴",
+    "ipa": "/kaut//",
+    "cefr": "B1",
+    "category": "旅游",
+    "page": 6
+  },
+  {
+    "id": "word-162",
+    "word": "comedy",
+    "translation": "喜剧",
+    "ipa": "/ kom.a.di/",
+    "cefr": "B1",
+    "category": "旅游",
+    "page": 6
+  },
+  {
+    "id": "word-163",
+    "word": "cottage",
+    "translation": "小屋；村舍",
+    "ipa": "",
+    "cefr": "B1",
+    "category": "旅游",
+    "page": 6
+  },
+  {
+    "id": "word-164",
+    "word": "cycling",
+    "translation": "骑自行车",
+    "ipa": "/ sarklin/",
+    "cefr": "A2",
+    "category": "旅游",
+    "page": 6
+  },
+  {
+    "id": "word-165",
+    "word": "drama",
+    "translation": "戏剧",
+    "ipa": "/ dra.me/",
+    "cefr": "B1",
+    "category": "旅游",
+    "page": 6
+  },
+  {
+    "id": "word-166",
+    "word": "expedition",
+    "translation": "探险（队）；远征；短途旅行；",
+    "ipa": "/ekspa' dijn/",
+    "cefr": "B1",
+    "category": "旅游",
+    "page": 6
+  },
+  {
+    "id": "word-167",
+    "word": "express",
+    "translation": "特快列车；长途汽车",
+    "ipa": "/ik spres/",
+    "cefr": "B2",
+    "category": "旅游",
+    "page": 6
+  },
+  {
+    "id": "word-168",
+    "word": "ferry",
+    "translation": "渡船",
+    "ipa": "/'fer.i/",
+    "cefr": "B1",
+    "category": "旅游",
+    "page": 6
+  },
+  {
+    "id": "word-169",
+    "word": "jazz",
+    "translation": "爵士",
+    "ipa": "/dzæz/",
+    "cefr": "A2",
+    "category": "旅游",
+    "page": 6
+  },
+  {
+    "id": "word-170",
+    "word": "lodge",
+    "translation": "乡间小屋，小舍",
+    "ipa": "/odz/",
+    "cefr": "",
+    "category": "旅游",
+    "page": 6
+  },
+  {
+    "id": "word-171",
+    "word": "magic",
+    "translation": "魔术",
+    "ipa": "/mad3.ik/",
+    "cefr": "A2",
+    "category": "旅游",
+    "page": 6
+  },
+  {
+    "id": "word-172",
+    "word": "mime",
+    "translation": "哑剧",
+    "ipa": "/maim/",
+    "cefr": "",
+    "category": "旅游",
+    "page": 6
+  },
+  {
+    "id": "word-173",
+    "word": "mini bus",
+    "translation": "小巴士",
+    "ipa": "/ mini: bas/",
+    "cefr": "A1",
+    "category": "旅游",
+    "page": 6
+  },
+  {
+    "id": "word-174",
+    "word": "musical instrument",
+    "translation": "乐器",
+    "ipa": "/,mju.zikl 'instramant'",
+    "cefr": "",
+    "category": "旅游",
+    "page": 6
+  },
+  {
+    "id": "word-175",
+    "word": "picnic",
+    "translation": "野炊",
+    "ipa": "/pik.nik/",
+    "cefr": "A1",
+    "category": "旅游",
+    "page": 6
+  },
+  {
+    "id": "word-176",
+    "word": "plane",
+    "translation": "飞机",
+    "ipa": "/plein/",
+    "cefr": "A1",
+    "category": "旅游",
+    "page": 6
+  },
+  {
+    "id": "word-177",
+    "word": "ride bicycle",
+    "translation": "骑自行车",
+    "ipa": "/raid baisikl/",
+    "cefr": "",
+    "category": "旅游",
+    "page": 6
+  },
+  {
+    "id": "word-178",
+    "word": "rock",
+    "translation": "摇滚",
+    "ipa": "/rok/",
+    "cefr": "B1",
+    "category": "旅游",
+    "page": 6
+  },
+  {
+    "id": "word-179",
+    "word": "sea view",
+    "translation": "海景",
+    "ipa": "/si: vju:/",
+    "cefr": "",
+    "category": "旅游",
+    "page": 6
+  },
+  {
+    "id": "word-180",
+    "word": "shuttle bus",
+    "translation": "往返穿梭巴士",
+    "ipa": "/'Intl bas/",
+    "cefr": "",
+    "category": "旅游",
+    "page": 6
+  },
+  {
+    "id": "word-181",
+    "word": "subway",
+    "translation": "地铁（美）",
+    "ipa": "/sabwei/",
+    "cefr": "A1",
+    "category": "旅游",
+    "page": 6
+  },
+  {
+    "id": "word-182",
+    "word": "traffic",
+    "translation": "交通",
+    "ipa": "/'trafik/",
+    "cefr": "",
+    "category": "旅游",
+    "page": 6
+  },
+  {
+    "id": "word-183",
+    "word": "tram",
+    "translation": "有轨电车轨道；缆车",
+    "ipa": "/tram/",
+    "cefr": "A2",
+    "category": "旅游",
+    "page": 6
+  },
+  {
+    "id": "word-184",
+    "word": "underground",
+    "translation": "地铁（英）",
+    "ipa": "/..n.da graund/",
+    "cefr": "B2",
+    "category": "旅游",
+    "page": 6
+  },
+  {
+    "id": "word-185",
+    "word": "voyage",
+    "translation": "航海旅行",
+    "ipa": "",
+    "cefr": "B2",
+    "category": "旅游",
+    "page": 6
+  },
+  {
+    "id": "word-186",
+    "word": "acrobat",
+    "translation": "杂技演员",
+    "ipa": "",
+    "cefr": "",
+    "category": "旅游",
+    "page": 7
+  },
+  {
+    "id": "word-187",
+    "word": "art festival",
+    "translation": "艺术节",
+    "ipa": "",
+    "cefr": "",
+    "category": "旅游",
+    "page": 7
+  },
+  {
+    "id": "word-188",
+    "word": "audience",
+    "translation": "观众",
+    "ipa": "",
+    "cefr": "",
+    "category": "旅游",
+    "page": 7
+  },
+  {
+    "id": "word-189",
+    "word": "ballet",
+    "translation": "芭蕾",
+    "ipa": "",
+    "cefr": "",
+    "category": "旅游",
+    "page": 7
+  },
+  {
+    "id": "word-190",
+    "word": "band",
+    "translation": "乐队",
+    "ipa": "",
+    "cefr": "",
+    "category": "旅游",
+    "page": 7
+  },
+  {
+    "id": "word-191",
+    "word": "ceramics",
+    "translation": "陶瓷",
+    "ipa": "",
+    "cefr": "",
+    "category": "旅游",
+    "page": 7
+  },
+  {
+    "id": "word-192",
+    "word": "circus",
+    "translation": "马戏团",
+    "ipa": "",
+    "cefr": "",
+    "category": "旅游",
+    "page": 7
+  },
+  {
+    "id": "word-193",
+    "word": "conductor",
+    "translation": "指挥家",
+    "ipa": "/kan dnk.tar/",
+    "cefr": "",
+    "category": "旅游",
+    "page": 7
+  },
+  {
+    "id": "word-194",
+    "word": "orchestra",
+    "translation": "管弦乐队",
+    "ipa": "",
+    "cefr": "",
+    "category": "旅游",
+    "page": 7
+  },
+  {
+    "id": "word-195",
+    "word": "performance",
+    "translation": "表演",
+    "ipa": "",
+    "cefr": "",
+    "category": "旅游",
+    "page": 7
+  },
+  {
+    "id": "word-196",
+    "word": "puppet",
+    "translation": "木偶",
+    "ipa": "",
+    "cefr": "",
+    "category": "旅游",
+    "page": 7
+  },
+  {
+    "id": "word-197",
+    "word": "sculpture",
+    "translation": "雕刻作品",
+    "ipa": "",
+    "cefr": "",
+    "category": "旅游",
+    "page": 7
+  },
+  {
+    "id": "word-198",
+    "word": "solo",
+    "translation": "独奏；独唱",
+    "ipa": "",
+    "cefr": "",
+    "category": "旅游",
+    "page": 7
+  },
+  {
+    "id": "word-199",
+    "word": "work of art",
+    "translation": "艺术作品",
+    "ipa": "",
+    "cefr": "",
+    "category": "旅游",
+    "page": 7
+  },
+  {
+    "id": "word-200",
+    "word": "badminton",
+    "translation": "羽毛球运动",
+    "ipa": "/ bad.m/n.ten/",
+    "cefr": "A2",
+    "category": "课程与运动",
+    "page": 8
+  },
+  {
+    "id": "word-201",
+    "word": "basketball",
+    "translation": "篮球；篮球运动",
+    "ipa": "",
+    "cefr": "A1",
+    "category": "课程与运动",
+    "page": 8
+  },
+  {
+    "id": "word-202",
+    "word": "court",
+    "translation": "（网球、篮球等运动的）球场，赛场",
+    "ipa": "/ko :t/",
+    "cefr": "B1",
+    "category": "课程与运动",
+    "page": 8
+  },
+  {
+    "id": "word-203",
+    "word": "cycle",
+    "translation": "骑脚踏车/ 脚踏车",
+    "ipa": "/ sar.kal/",
+    "cefr": "B1",
+    "category": "课程与运动",
+    "page": 8
+  },
+  {
+    "id": "word-204",
+    "word": "field",
+    "translation": "（有草坪的）运动场",
+    "ipa": "/fi:ld/",
+    "cefr": "B1",
+    "category": "课程与运动",
+    "page": 8
+  },
+  {
+    "id": "word-205",
+    "word": "football",
+    "translation": "足球；足球运动",
+    "ipa": "/' fut.bo :l/",
+    "cefr": "A1",
+    "category": "课程与运动",
+    "page": 8
+  },
+  {
+    "id": "word-206",
+    "word": "golf",
+    "translation": "高尔夫球运动",
+    "ipa": "/go lf/",
+    "cefr": "A2",
+    "category": "课程与运动",
+    "page": 8
+  },
+  {
+    "id": "word-207",
+    "word": "gym",
+    "translation": "体操馆；健身房",
+    "ipa": "/dgim/",
+    "cefr": "A2",
+    "category": "课程与运动",
+    "page": 8
+  },
+  {
+    "id": "word-208",
+    "word": "gymnastics",
+    "translation": "体操",
+    "ipa": "/dzim'næs.toks/",
+    "cefr": "B1",
+    "category": "课程与运动",
+    "page": 8
+  },
+  {
+    "id": "word-209",
+    "word": "jog",
+    "translation": "慢跑",
+    "ipa": "/d30 g/",
+    "cefr": "",
+    "category": "课程与运动",
+    "page": 8
+  },
+  {
+    "id": "word-210",
+    "word": "judo",
+    "translation": "柔道",
+    "ipa": "/ dgu: dau/",
+    "cefr": "",
+    "category": "课程与运动",
+    "page": 8
+  },
+  {
+    "id": "word-211",
+    "word": "karate",
+    "translation": "空手道",
+    "ipa": "/ke ra:.ti/",
+    "cefr": "",
+    "category": "课程与运动",
+    "page": 8
+  },
+  {
+    "id": "word-212",
+    "word": "net",
+    "translation": "球网",
+    "ipa": "/net/",
+    "cefr": "B1",
+    "category": "课程与运动",
+    "page": 8
+  },
+  {
+    "id": "word-213",
+    "word": "pitch",
+    "translation": "（尤指）足球场",
+    "ipa": "/pitf/",
+    "cefr": "B2",
+    "category": "课程与运动",
+    "page": 8
+  },
+  {
+    "id": "word-214",
+    "word": "playground",
+    "translation": "（尤指学校里的）操场",
+    "ipa": "/ pler.graund/",
+    "cefr": "A2",
+    "category": "课程与运动",
+    "page": 8
+  },
+  {
+    "id": "word-215",
+    "word": "sprint",
+    "translation": "沖刺/短跑",
+    "ipa": "/spr/nt/",
+    "cefr": "",
+    "category": "课程与运动",
+    "page": 8
+  },
+  {
+    "id": "word-216",
+    "word": "squash",
+    "translation": "壁球",
+    "ipa": "/skwo f/",
+    "cefr": "B1",
+    "category": "课程与运动",
+    "page": 8
+  },
+  {
+    "id": "word-217",
+    "word": "table tennis",
+    "translation": "乒乓球运动",
+    "ipa": "/'ter.bal , ten.rs/",
+    "cefr": "A1",
+    "category": "课程与运动",
+    "page": 8
+  },
+  {
+    "id": "word-218",
+    "word": "tennis",
+    "translation": "网球运动",
+    "ipa": "/ ten.rs/",
+    "cefr": "A1",
+    "category": "课程与运动",
+    "page": 8
+  },
+  {
+    "id": "word-219",
+    "word": "volleyball",
+    "translation": "排球；排球运动",
+    "ipa": "/ vo li.bo :l/",
+    "cefr": "A2",
+    "category": "课程与运动",
+    "page": 8
+  },
+  {
+    "id": "word-220",
+    "word": "weightlifting",
+    "translation": "举重",
+    "ipa": "/wert, lif.tag/",
+    "cefr": "",
+    "category": "课程与运动",
+    "page": 8
+  },
+  {
+    "id": "word-221",
+    "word": "ankle",
+    "translation": "踝关节",
+    "ipa": "/æn.kal/",
+    "cefr": "B1",
+    "category": "课程与运动",
+    "page": 9
+  },
+  {
+    "id": "word-222",
+    "word": "barbell",
+    "translation": "杠铃",
+    "ipa": "/ ba: bel/",
+    "cefr": "",
+    "category": "课程与运动",
+    "page": 9
+  },
+  {
+    "id": "word-223",
+    "word": "compulsory course",
+    "translation": "必修课",
+    "ipa": "/kem p/ l.sar.i/",
+    "cefr": "",
+    "category": "课程与运动",
+    "page": 9
+  },
+  {
+    "id": "word-224",
+    "word": "elbow",
+    "translation": "肘部",
+    "ipa": "/ el.beu/",
+    "cefr": "B1",
+    "category": "课程与运动",
+    "page": 9
+  },
+  {
+    "id": "word-225",
+    "word": "extensive course",
+    "translation": "非强化课程",
+    "ipa": "/ik'sten.sv/",
+    "cefr": "",
+    "category": "课程与运动",
+    "page": 9
+  },
+  {
+    "id": "word-226",
+    "word": "fracture",
+    "translation": "断裂；骨折",
+    "ipa": "/ frak.tfer/",
+    "cefr": "",
+    "category": "课程与运动",
+    "page": 9
+  },
+  {
+    "id": "word-227",
+    "word": "helmet",
+    "translation": "头盔；安全帽",
+    "ipa": "/'hel.mat/",
+    "cefr": "B2",
+    "category": "课程与运动",
+    "page": 9
+  },
+  {
+    "id": "word-228",
+    "word": "injury",
+    "translation": "损伤",
+    "ipa": "/'m.dgar.i/",
+    "cefr": "B2",
+    "category": "课程与运动",
+    "page": 9
+  },
+  {
+    "id": "word-229",
+    "word": "intensive course",
+    "translation": "强化课程",
+    "ipa": "/in'ten.sv/",
+    "cefr": "",
+    "category": "课程与运动",
+    "page": 9
+  },
+  {
+    "id": "word-230",
+    "word": "knee",
+    "translation": "膝盖",
+    "ipa": "/ni:/",
+    "cefr": "B1",
+    "category": "课程与运动",
+    "page": 9
+  },
+  {
+    "id": "word-231",
+    "word": "modular course",
+    "translation": "模块课",
+    "ipa": "/ mo dz..lar/",
+    "cefr": "",
+    "category": "课程与运动",
+    "page": 9
+  },
+  {
+    "id": "word-232",
+    "word": "optional course",
+    "translation": "选修课",
+    "ipa": "/'o p.fan.al/",
+    "cefr": "",
+    "category": "课程与运动",
+    "page": 9
+  },
+  {
+    "id": "word-233",
+    "word": "racquet/racket",
+    "translation": "球拍",
+    "ipa": "/ rak.it/",
+    "cefr": "A2",
+    "category": "课程与运动",
+    "page": 9
+  },
+  {
+    "id": "word-234",
+    "word": "selective course",
+    "translation": "选修课",
+    "ipa": "/si lek.tv/",
+    "cefr": "",
+    "category": "课程与运动",
+    "page": 9
+  },
+  {
+    "id": "word-235",
+    "word": "shuttlecock",
+    "translation": "羽毛球",
+    "ipa": "/ fat.al.ko k/",
+    "cefr": "",
+    "category": "课程与运动",
+    "page": 9
+  },
+  {
+    "id": "word-236",
+    "word": "sneaker",
+    "translation": "运动鞋",
+    "ipa": "/' sni: kar/",
+    "cefr": "A2",
+    "category": "课程与运动",
+    "page": 9
+  },
+  {
+    "id": "word-237",
+    "word": "trainer",
+    "translation": "教练",
+    "ipa": "/trei.nar/",
+    "cefr": "B1",
+    "category": "课程与运动",
+    "page": 9
+  },
+  {
+    "id": "word-238",
+    "word": "waist",
+    "translation": "腰部",
+    "ipa": "/weist/",
+    "cefr": "B2",
+    "category": "课程与运动",
+    "page": 9
+  },
+  {
+    "id": "word-239",
+    "word": "weight",
+    "translation": "砝码",
+    "ipa": "/wert/",
+    "cefr": "B1",
+    "category": "课程与运动",
+    "page": 9
+  },
+  {
+    "id": "word-240",
+    "word": "accounting",
+    "translation": "会计",
+    "ipa": "/a kaun.t/n/",
+    "cefr": "",
+    "category": "课程与运动",
+    "page": 10
+  },
+  {
+    "id": "word-241",
+    "word": "anthropology",
+    "translation": "人类学",
+    "ipa": "/. an.Ora po l.a.dzi/",
+    "cefr": "",
+    "category": "课程与运动",
+    "page": 10
+  },
+  {
+    "id": "word-242",
+    "word": "archaeology",
+    "translation": "考古学",
+    "ipa": "/. a: ki'o l.a.dzi/",
+    "cefr": "C1",
+    "category": "课程与运动",
+    "page": 10
+  },
+  {
+    "id": "word-243",
+    "word": "biology",
+    "translation": "生物学",
+    "ipa": "/ba/'o l.a.dzi/",
+    "cefr": "A2",
+    "category": "课程与运动",
+    "page": 10
+  },
+  {
+    "id": "word-244",
+    "word": "botany",
+    "translation": "植物学",
+    "ipa": "/ bo t.an.i/",
+    "cefr": "",
+    "category": "课程与运动",
+    "page": 10
+  },
+  {
+    "id": "word-245",
+    "word": "chemistry",
+    "translation": "化学",
+    "ipa": "/ kem./.stri/",
+    "cefr": "A2",
+    "category": "课程与运动",
+    "page": 10
+  },
+  {
+    "id": "word-246",
+    "word": "civil engineering",
+    "translation": "土木工程",
+    "ipa": "/. sv.al en.dgine.rm/ noun",
+    "cefr": "",
+    "category": "课程与运动",
+    "page": 10
+  },
+  {
+    "id": "word-247",
+    "word": "computer science",
+    "translation": "计算机",
+    "ipa": "/kam, pju: te 'sal.ens/ noun",
+    "cefr": "",
+    "category": "课程与运动",
+    "page": 10
+  },
+  {
+    "id": "word-248",
+    "word": "ecology",
+    "translation": "生态学",
+    "ipa": "/i kD l.a.dzi/",
+    "cefr": "C1",
+    "category": "课程与运动",
+    "page": 10
+  },
+  {
+    "id": "word-249",
+    "word": "economics",
+    "translation": "经济学",
+    "ipa": "/, i: ka'no m.rks/",
+    "cefr": "B1",
+    "category": "课程与运动",
+    "page": 10
+  },
+  {
+    "id": "word-250",
+    "word": "engineering",
+    "translation": "工程",
+    "ipa": "/. en.dzin/a.rn/",
+    "cefr": "B1",
+    "category": "课程与运动",
+    "page": 10
+  },
+  {
+    "id": "word-251",
+    "word": "finance",
+    "translation": "金融",
+    "ipa": "'far.næns/",
+    "cefr": "B2",
+    "category": "课程与运动",
+    "page": 10
+  },
+  {
+    "id": "word-252",
+    "word": "geography",
+    "translation": "地理学",
+    "ipa": "/dzi o g.ra.fi/",
+    "cefr": "A2",
+    "category": "课程与运动",
+    "page": 10
+  },
+  {
+    "id": "word-253",
+    "word": "humanities",
+    "translation": "人文学",
+    "ipa": "/hju' mæn/tiz/",
+    "cefr": "",
+    "category": "课程与运动",
+    "page": 10
+  },
+  {
+    "id": "word-254",
+    "word": "law",
+    "translation": "法律",
+    "ipa": "/lo :/",
+    "cefr": "B1",
+    "category": "课程与运动",
+    "page": 10
+  },
+  {
+    "id": "word-255",
+    "word": "linguistics",
+    "translation": "语言学",
+    "ipa": "/mg gwis.t/ks/",
+    "cefr": "",
+    "category": "课程与运动",
+    "page": 10
+  },
+  {
+    "id": "word-256",
+    "word": "literature",
+    "translation": "文学",
+    "ipa": "/Iit.re.tfer/",
+    "cefr": "B1",
+    "category": "课程与运动",
+    "page": 10
+  },
+  {
+    "id": "word-257",
+    "word": "major",
+    "translation": "专业",
+    "ipa": "/mer.dzer/",
+    "cefr": "",
+    "category": "课程与运动",
+    "page": 10
+  },
+  {
+    "id": "word-258",
+    "word": "mathematics",
+    "translation": "数学",
+    "ipa": "/. mæl mæt.iks/",
+    "cefr": "A2",
+    "category": "课程与运动",
+    "page": 10
+  },
+  {
+    "id": "word-259",
+    "word": "media studies",
+    "translation": "媒体学",
+    "ipa": "/ mi:.di.e/",
+    "cefr": "",
+    "category": "课程与运动",
+    "page": 10
+  },
+  {
+    "id": "word-260",
+    "word": "philosophy",
+    "translation": "哲学",
+    "ipa": "/fr' lo s.a.fi/",
+    "cefr": "B2",
+    "category": "课程与运动",
+    "page": 10
+  },
+  {
+    "id": "word-261",
+    "word": "physics",
+    "translation": "物理学",
+    "ipa": "/ fiz.iks/",
+    "cefr": "A2",
+    "category": "课程与运动",
+    "page": 10
+  },
+  {
+    "id": "word-262",
+    "word": "politics",
+    "translation": "政治学",
+    "ipa": "/pol.a.trks/",
+    "cefr": "B1",
+    "category": "课程与运动",
+    "page": 10
+  },
+  {
+    "id": "word-263",
+    "word": "programming",
+    "translation": "编程",
+    "ipa": "/prau.græm.g/",
+    "cefr": "B2",
+    "category": "课程与运动",
+    "page": 10
+  },
+  {
+    "id": "word-264",
+    "word": "sociology",
+    "translation": "社会学",
+    "ipa": "/. sou.si'o l.a.dzi/",
+    "cefr": "",
+    "category": "课程与运动",
+    "page": 10
+  },
+  {
+    "id": "word-265",
+    "word": "tourism and hospitality",
+    "translation": "旅游管理专业",
+    "ipa": "/. ho s.p/ tæel.a.ti/",
+    "cefr": "",
+    "category": "课程与运动",
+    "page": 10
+  },
+  {
+    "id": "word-266",
+    "word": "advanced",
+    "translation": "高级的",
+    "ipa": "/ad va:nst/",
+    "cefr": "B1",
+    "category": "课程与运动",
+    "page": 11
+  },
+  {
+    "id": "word-267",
+    "word": "assessment",
+    "translation": "考核",
+    "ipa": "/a' ses.mant/",
+    "cefr": "B2",
+    "category": "课程与运动",
+    "page": 11
+  },
+  {
+    "id": "word-268",
+    "word": "assignment",
+    "translation": "作业",
+    "ipa": "/e sarn.ment/",
+    "cefr": "B1",
+    "category": "课程与运动",
+    "page": 11
+  },
+  {
+    "id": "word-269",
+    "word": "astronomy",
+    "translation": "天文学",
+    "ipa": "/a stro n.a.mi/",
+    "cefr": "C2",
+    "category": "课程与运动",
+    "page": 11
+  },
+  {
+    "id": "word-270",
+    "word": "bachelor",
+    "translation": "学士学位",
+    "ipa": "/batf.al.er/",
+    "cefr": "",
+    "category": "课程与运动",
+    "page": 11
+  },
+  {
+    "id": "word-271",
+    "word": "beginner",
+    "translation": "初学者",
+    "ipa": "/b/ gmn.er/",
+    "cefr": "A2",
+    "category": "课程与运动",
+    "page": 11
+  },
+  {
+    "id": "word-272",
+    "word": "certificate",
+    "translation": "证书",
+    "ipa": "/So'tff./.kat/",
+    "cefr": "B1",
+    "category": "课程与运动",
+    "page": 11
+  },
+  {
+    "id": "word-273",
+    "word": "degree",
+    "translation": "学位",
+    "ipa": "/a ses.mant/",
+    "cefr": "B2",
+    "category": "课程与运动",
+    "page": 11
+  },
+  {
+    "id": "word-274",
+    "word": "diploma",
+    "translation": "文凭",
+    "ipa": "/d/ plau.me/",
+    "cefr": "A2",
+    "category": "课程与运动",
+    "page": 11
+  },
+  {
+    "id": "word-275",
+    "word": "dissertation",
+    "translation": "论文（毕业论文）",
+    "ipa": "/. dis.a' tel.fen/",
+    "cefr": "C1",
+    "category": "课程与运动",
+    "page": 11
+  },
+  {
+    "id": "word-276",
+    "word": "doctor",
+    "translation": "博士学位",
+    "ipa": "/ do k.ter/",
+    "cefr": "A1",
+    "category": "课程与运动",
+    "page": 11
+  },
+  {
+    "id": "word-277",
+    "word": "elementary",
+    "translation": "初级的",
+    "ipa": "/ el./' men.tar.i/",
+    "cefr": "B1",
+    "category": "课程与运动",
+    "page": 11
+  },
+  {
+    "id": "word-278",
+    "word": "essay",
+    "translation": "论文",
+    "ipa": "/'es.el/",
+    "cefr": "B1",
+    "category": "课程与运动",
+    "page": 11
+  },
+  {
+    "id": "word-279",
+    "word": "field trip",
+    "translation": "户外见习",
+    "ipa": "/'fi:ld , trip/",
+    "cefr": "",
+    "category": "课程与运动",
+    "page": 11
+  },
+  {
+    "id": "word-280",
+    "word": "full-time",
+    "translation": "全日制的",
+    "ipa": "/ ful' tarm/",
+    "cefr": "B1",
+    "category": "课程与运动",
+    "page": 11
+  },
+  {
+    "id": "word-281",
+    "word": "fundamental",
+    "translation": "基础的",
+    "ipa": "/. fr n.da men.tal/",
+    "cefr": "C2",
+    "category": "课程与运动",
+    "page": 11
+  },
+  {
+    "id": "word-282",
+    "word": "intermediate",
+    "translation": "中级的",
+    "ipa": "/. /n.ta mi:.di.at/",
+    "cefr": "B1",
+    "category": "课程与运动",
+    "page": 11
+  },
+  {
+    "id": "word-283",
+    "word": "introductory",
+    "translation": "预备的",
+    "ipa": "/. m.tra dak.tar.i/",
+    "cefr": "",
+    "category": "课程与运动",
+    "page": 11
+  },
+  {
+    "id": "word-284",
+    "word": "lecture",
+    "translation": "讲座",
+    "ipa": "/ lek.tfar/",
+    "cefr": "B1",
+    "category": "课程与运动",
+    "page": 11
+  },
+  {
+    "id": "word-285",
+    "word": "master",
+    "translation": "硕士学位",
+    "ipa": "/ ma:.ster/",
+    "cefr": "B2",
+    "category": "课程与运动",
+    "page": 11
+  },
+  {
+    "id": "word-286",
+    "word": "nursery",
+    "translation": "育婴室",
+    "ipa": "/ n3: sar.i",
+    "cefr": "B2",
+    "category": "课程与运动",
+    "page": 11
+  },
+  {
+    "id": "word-287",
+    "word": "part-time",
+    "translation": "兼职的",
+    "ipa": "/. pa :t'ta/m/",
+    "cefr": "B1",
+    "category": "课程与运动",
+    "page": 11
+  },
+  {
+    "id": "word-288",
+    "word": "presentation",
+    "translation": "演讲",
+    "ipa": "/. prezon'tel.fon/",
+    "cefr": "B1",
+    "category": "课程与运动",
+    "page": 11
+  },
+  {
+    "id": "word-289",
+    "word": "primary",
+    "translation": "初级的",
+    "ipa": "/prar.mar.i/",
+    "cefr": "B2",
+    "category": "课程与运动",
+    "page": 11
+  },
+  {
+    "id": "word-290",
+    "word": "project",
+    "translation": "项目",
+    "ipa": "/pro dz.ekt/",
+    "cefr": "B2",
+    "category": "课程与运动",
+    "page": 11
+  },
+  {
+    "id": "word-291",
+    "word": "secondary",
+    "translation": "次高级的",
+    "ipa": "/ sek.en.dri/",
+    "cefr": "",
+    "category": "课程与运动",
+    "page": 11
+  },
+  {
+    "id": "word-292",
+    "word": "speech",
+    "translation": "演讲",
+    "ipa": "/spi:tf/",
+    "cefr": "B1",
+    "category": "课程与运动",
+    "page": 11
+  },
+  {
+    "id": "word-293",
+    "word": "tutorial",
+    "translation": "辅导课",
+    "ipa": "/tfu: to:.ri.al/",
+    "cefr": "",
+    "category": "课程与运动",
+    "page": 11
+  },
+  {
+    "id": "word-294",
+    "word": "course arrangement",
+    "translation": "课程安排",
+    "ipa": "/e reindz.ment/",
+    "cefr": "B1",
+    "category": "课程与运动",
+    "page": 12
+  },
+  {
+    "id": "word-295",
+    "word": "course outline",
+    "translation": "课程大纲",
+    "ipa": "/'aut.lain/",
+    "cefr": "",
+    "category": "课程与运动",
+    "page": 12
+  },
+  {
+    "id": "word-296",
+    "word": "enrollment/enrolment",
+    "translation": "入读",
+    "ipa": "/in'raulment/",
+    "cefr": "",
+    "category": "课程与运动",
+    "page": 12
+  },
+  {
+    "id": "word-297",
+    "word": "layout",
+    "translation": "排版",
+    "ipa": "/'ler.aut/",
+    "cefr": "C1",
+    "category": "课程与运动",
+    "page": 12
+  },
+  {
+    "id": "word-298",
+    "word": "letter of acceptance",
+    "translation": "接收信",
+    "ipa": "/ak' sep.tans/",
+    "cefr": "",
+    "category": "课程与运动",
+    "page": 12
+  },
+  {
+    "id": "word-299",
+    "word": "letter of recommendation",
+    "translation": "推荐信",
+    "ipa": "/. rek.e.men' del.fen/",
+    "cefr": "",
+    "category": "课程与运动",
+    "page": 12
+  },
+  {
+    "id": "word-300",
+    "word": "registration",
+    "translation": "注册",
+    "ipa": "/ redg./ strel.fan/",
+    "cefr": "B1",
+    "category": "课程与运动",
+    "page": 12
+  },
+  {
+    "id": "word-301",
+    "word": "timetable",
+    "translation": "时间表",
+    "ipa": "/ tarm, ter.bel/",
+    "cefr": "B1",
+    "category": "课程与运动",
+    "page": 12
+  },
+  {
+    "id": "word-302",
+    "word": "tuition",
+    "translation": "学位",
+    "ipa": "/tfu: 'IF.an/",
+    "cefr": "C1",
+    "category": "课程与运动",
+    "page": 12
+  },
+  {
+    "id": "word-303",
+    "word": "agency",
+    "translation": "代理机构",
+    "ipa": "/'er.dzan.si/",
+    "cefr": "B1",
+    "category": "银行与工作",
+    "page": 13
+  },
+  {
+    "id": "word-304",
+    "word": "applicant",
+    "translation": "申请人",
+    "ipa": "/'æplik(a)nt/",
+    "cefr": "",
+    "category": "银行与工作",
+    "page": 13
+  },
+  {
+    "id": "word-305",
+    "word": "application",
+    "translation": "（通常指书面的）申请；请求",
+    "ipa": "/æp. lI ker.fen/",
+    "cefr": "B1",
+    "category": "银行与工作",
+    "page": 13
+  },
+  {
+    "id": "word-306",
+    "word": "apply",
+    "translation": "请求",
+    "ipa": "/a plai/",
+    "cefr": "B1",
+    "category": "银行与工作",
+    "page": 13
+  },
+  {
+    "id": "word-307",
+    "word": "appointment",
+    "translation": "约会；预约；约定",
+    "ipa": "/e point.mant/",
+    "cefr": "A2",
+    "category": "银行与工作",
+    "page": 13
+  },
+  {
+    "id": "word-308",
+    "word": "candidate",
+    "translation": "申请人；候选人",
+    "ipa": "/ kan.di.det/",
+    "cefr": "B2",
+    "category": "银行与工作",
+    "page": 13
+  },
+  {
+    "id": "word-309",
+    "word": "career",
+    "translation": "生涯；职业；事业",
+    "ipa": "/ke rier/",
+    "cefr": "B1",
+    "category": "银行与工作",
+    "page": 13
+  },
+  {
+    "id": "word-310",
+    "word": "contact",
+    "translation": "（尤指经常通过交谈、书信的）联",
+    "ipa": "/kon.tækt/",
+    "cefr": "B1",
+    "category": "银行与工作",
+    "page": 13
+  },
+  {
+    "id": "word-311",
+    "word": "employee",
+    "translation": "受雇者，雇员，员工",
+    "ipa": "/Implori:/",
+    "cefr": "B1",
+    "category": "银行与工作",
+    "page": 13
+  },
+  {
+    "id": "word-312",
+    "word": "FT",
+    "translation": "词汇",
+    "ipa": "",
+    "cefr": "",
+    "category": "银行与工作",
+    "page": 13
+  },
+  {
+    "id": "word-313",
+    "word": "full name",
+    "translation": "全名",
+    "ipa": "/ful neim/",
+    "cefr": "",
+    "category": "银行与工作",
+    "page": 13
+  },
+  {
+    "id": "word-314",
+    "word": "history",
+    "translation": "历史；历史学",
+    "ipa": "/his.tar.i/",
+    "cefr": "A2",
+    "category": "银行与工作",
+    "page": 13
+  },
+  {
+    "id": "word-315",
+    "word": "ID) identification card",
+    "translation": "身份证",
+    "ipa": "/ar'den.ti.ti ka:d/",
+    "cefr": "B1",
+    "category": "银行与工作",
+    "page": 13
+  },
+  {
+    "id": "word-316",
+    "word": "interviewee",
+    "translation": "被面试者",
+    "ipa": "/ In.ta.vju'i:/",
+    "cefr": "",
+    "category": "银行与工作",
+    "page": 13
+  },
+  {
+    "id": "word-317",
+    "word": "interviewer",
+    "translation": "面试考官",
+    "ipa": "/In.ta.vju:.ar/",
+    "cefr": "",
+    "category": "银行与工作",
+    "page": 13
+  },
+  {
+    "id": "word-318",
+    "word": "job enquiry",
+    "translation": "工作咨询",
+    "ipa": "/dzob in'kware.ri/",
+    "cefr": "",
+    "category": "银行与工作",
+    "page": 13
+  },
+  {
+    "id": "word-319",
+    "word": "occupation",
+    "translation": "职业；工作",
+    "ipa": "/ ok.ja per.fen/",
+    "cefr": "A2",
+    "category": "银行与工作",
+    "page": 13
+  },
+  {
+    "id": "word-320",
+    "word": "position",
+    "translation": "工作；职务",
+    "ipa": "/pa zij.an/",
+    "cefr": "B2",
+    "category": "银行与工作",
+    "page": 13
+  },
+  {
+    "id": "word-321",
+    "word": "profession",
+    "translation": "（尤指需要特殊训练或专业技能的）",
+    "ipa": "/pra'fef.an/",
+    "cefr": "B1",
+    "category": "银行与工作",
+    "page": 13
+  },
+  {
+    "id": "word-322",
+    "word": "recommendation",
+    "translation": "推荐，介绍",
+    "ipa": "/. rek.e.men dei.fen/",
+    "cefr": "B2",
+    "category": "银行与工作",
+    "page": 13
+  },
+  {
+    "id": "word-323",
+    "word": "resume",
+    "translation": "简历，履历",
+    "ipa": "/rez.ju: mer/",
+    "cefr": "",
+    "category": "银行与工作",
+    "page": 13
+  },
+  {
+    "id": "word-324",
+    "word": "surname",
+    "translation": "姓，姓氏",
+    "ipa": "/'s. neim/",
+    "cefr": "A2",
+    "category": "银行与工作",
+    "page": 13
+  },
+  {
+    "id": "word-325",
+    "word": "vacancy",
+    "translation": "（职位）空缺",
+    "ipa": "/ver.kan.si/",
+    "cefr": "C1",
+    "category": "银行与工作",
+    "page": 13
+  },
+  {
+    "id": "word-326",
+    "word": "administrative",
+    "translation": "管理的；行政的",
+    "ipa": "/ad min.I.stra.tiv/",
+    "cefr": "C1",
+    "category": "银行与工作",
+    "page": 14
+  },
+  {
+    "id": "word-327",
+    "word": "challenging",
+    "translation": "有难度的；具有挑战性的；考验人的",
+    "ipa": "/tal.in.d gin/",
+    "cefr": "B1",
+    "category": "银行与工作",
+    "page": 14
+  },
+  {
+    "id": "word-328",
+    "word": "college",
+    "translation": "大学",
+    "ipa": "/ kol.id3/",
+    "cefr": "",
+    "category": "银行与工作",
+    "page": 14
+  },
+  {
+    "id": "word-329",
+    "word": "cooperative",
+    "translation": "乐于合作的；协作的；配合的",
+    "ipa": "/kaw'op.ar.a.tiv/",
+    "cefr": "B2",
+    "category": "银行与工作",
+    "page": 14
+  },
+  {
+    "id": "word-330",
+    "word": "dress code",
+    "translation": "着装规范，穿着要求",
+    "ipa": "/ dres kaud/",
+    "cefr": "",
+    "category": "银行与工作",
+    "page": 14
+  },
+  {
+    "id": "word-331",
+    "word": "duty",
+    "translation": "责任；义务",
+    "ipa": "/ du: ti/",
+    "cefr": "B1",
+    "category": "银行与工作",
+    "page": 14
+  },
+  {
+    "id": "word-332",
+    "word": "education background",
+    "translation": "教育背景；学历",
+    "ipa": "/ edg.u'ker.fan 'bak.g",
+    "cefr": "",
+    "category": "银行与工作",
+    "page": 14
+  },
+  {
+    "id": "word-333",
+    "word": "experience",
+    "translation": "经验；经历；实践",
+    "ipa": "/ik'spre.ri.ens/",
+    "cefr": "B1",
+    "category": "银行与工作",
+    "page": 14
+  },
+  {
+    "id": "word-334",
+    "word": "management",
+    "translation": "管理；经营",
+    "ipa": "/mæn.id3.ment/",
+    "cefr": "B2",
+    "category": "银行与工作",
+    "page": 14
+  },
+  {
+    "id": "word-335",
+    "word": "medicine",
+    "translation": "医学",
+    "ipa": "/ med.i.san/",
+    "cefr": "B1",
+    "category": "银行与工作",
+    "page": 14
+  },
+  {
+    "id": "word-336",
+    "word": "requirement",
+    "translation": "要求；规定",
+    "ipa": "/ri kwara.mant/",
+    "cefr": "B2",
+    "category": "银行与工作",
+    "page": 14
+  },
+  {
+    "id": "word-337",
+    "word": "responsibility",
+    "translation": "职责；责任",
+    "ipa": "/rI,spon.st bil.e.ti/",
+    "cefr": "B2",
+    "category": "银行与工作",
+    "page": 14
+  },
+  {
+    "id": "word-338",
+    "word": "shift",
+    "translation": "轮班职工；班；轮班",
+    "ipa": "/fift/",
+    "cefr": "B2",
+    "category": "银行与工作",
+    "page": 14
+  },
+  {
+    "id": "word-339",
+    "word": "skill",
+    "translation": "技能，技巧",
+    "ipa": "/skil/",
+    "cefr": "B1",
+    "category": "银行与工作",
+    "page": 14
+  },
+  {
+    "id": "word-340",
+    "word": "teamwork",
+    "translation": "配合，合作，协作",
+    "ipa": "/'ti:m.w3: k/",
+    "cefr": "C2",
+    "category": "银行与工作",
+    "page": 14
+  },
+  {
+    "id": "word-341",
+    "word": "training",
+    "translation": "训练；培训",
+    "ipa": "/trer.nin/",
+    "cefr": "B1",
+    "category": "银行与工作",
+    "page": 14
+  },
+  {
+    "id": "word-342",
+    "word": "work permit",
+    "translation": "（允许外国人工作的）工作许可证",
+    "ipa": "/ w3:k pa, mit/",
+    "cefr": "",
+    "category": "银行与工作",
+    "page": 14
+  },
+  {
+    "id": "word-343",
+    "word": "workload",
+    "translation": "工作量，工作负荷",
+    "ipa": "/ w3:k.laud/",
+    "cefr": "",
+    "category": "银行与工作",
+    "page": 14
+  },
+  {
+    "id": "word-344",
+    "word": "assistant",
+    "translation": "助手；帮手；助理/店员；营业员；",
+    "ipa": "/a'sis.tant/",
+    "cefr": "",
+    "category": "银行与工作",
+    "page": 15
+  },
+  {
+    "id": "word-345",
+    "word": "benefit",
+    "translation": "医疗保险、人寿保险、病假补助方案",
+    "ipa": "/ben.i.fit/",
+    "cefr": "",
+    "category": "银行与工作",
+    "page": 15
+  },
+  {
+    "id": "word-346",
+    "word": "break",
+    "translation": "（中断工作或日常活动的）休息时",
+    "ipa": "/breik/",
+    "cefr": "B1",
+    "category": "银行与工作",
+    "page": 15
+  },
+  {
+    "id": "word-347",
+    "word": "chef",
+    "translation": "（酒店或餐馆的）厨师；（尤指） 厨",
+    "ipa": "/Jef/",
+    "cefr": "A2",
+    "category": "银行与工作",
+    "page": 15
+  },
+  {
+    "id": "word-348",
+    "word": "clerical",
+    "translation": "办公室工作的；办事员工作的；文书",
+    "ipa": "/kler.r.kel/",
+    "cefr": "",
+    "category": "银行与工作",
+    "page": 15
+  },
+  {
+    "id": "word-349",
+    "word": "colleague",
+    "translation": "同事；同僚",
+    "ipa": "/ kol.i:g/",
+    "cefr": "A2",
+    "category": "银行与工作",
+    "page": 15
+  },
+  {
+    "id": "word-350",
+    "word": "culture",
+    "translation": "文化",
+    "ipa": "/ kal.tfer/",
+    "cefr": "B1",
+    "category": "银行与工作",
+    "page": 15
+  },
+  {
+    "id": "word-351",
+    "word": "current account",
+    "translation": "活期存款账户",
+    "ipa": "/ kar.ant a,kaunt/",
+    "cefr": "",
+    "category": "银行与工作",
+    "page": 15
+  },
+  {
+    "id": "word-352",
+    "word": "discount",
+    "translation": "減价，打折",
+    "ipa": "/dis.kaunt/",
+    "cefr": "A2",
+    "category": "银行与工作",
+    "page": 15
+  },
+  {
+    "id": "word-353",
+    "word": "holiday",
+    "translation": "假期，假日",
+    "ipa": "/hol.a.dei/",
+    "cefr": "A1",
+    "category": "银行与工作",
+    "page": 15
+  },
+  {
+    "id": "word-354",
+    "word": "human resources",
+    "translation": "人事部，人力资源部",
+    "ipa": "/.hju: man ri'zo: siz/",
+    "cefr": "",
+    "category": "银行与工作",
+    "page": 15
+  },
+  {
+    "id": "word-355",
+    "word": "income",
+    "translation": "收入，收益",
+    "ipa": "/'In.kлm/",
+    "cefr": "B2",
+    "category": "银行与工作",
+    "page": 15
+  },
+  {
+    "id": "word-356",
+    "word": "leader",
+    "translation": "领导，领导人",
+    "ipa": "/li: der/",
+    "cefr": "B1",
+    "category": "银行与工作",
+    "page": 15
+  },
+  {
+    "id": "word-357",
+    "word": "pay",
+    "translation": "工资，薪金",
+    "ipa": "/pei/",
+    "cefr": "B1",
+    "category": "银行与工作",
+    "page": 15
+  },
+  {
+    "id": "word-358",
+    "word": "promotion",
+    "translation": "提升，晋升",
+    "ipa": "/pramau.fan/",
+    "cefr": "B2",
+    "category": "银行与工作",
+    "page": 15
+  },
+  {
+    "id": "word-359",
+    "word": "qualification",
+    "translation": "合格证明，资格证书/资历，资格；",
+    "ipa": "/.kwol.i.fi'ker.fen/",
+    "cefr": "",
+    "category": "银行与工作",
+    "page": 15
+  },
+  {
+    "id": "word-360",
+    "word": "receptionist",
+    "translation": "接待员；招待员",
+    "ipa": "/rI sep.fan.ist/",
+    "cefr": "A2",
+    "category": "银行与工作",
+    "page": 15
+  },
+  {
+    "id": "word-361",
+    "word": "salary",
+    "translation": "薪金；薪水",
+    "ipa": "/'sæl.er.i/",
+    "cefr": "B1",
+    "category": "银行与工作",
+    "page": 15
+  },
+  {
+    "id": "word-362",
+    "word": "secretary",
+    "translation": "秘书",
+    "ipa": "/'sek.re.tar.i/",
+    "cefr": "A2",
+    "category": "银行与工作",
+    "page": 15
+  },
+  {
+    "id": "word-363",
+    "word": "welfare",
+    "translation": "福利救济；社会福利",
+    "ipa": "/wel.fear/",
+    "cefr": "C2",
+    "category": "银行与工作",
+    "page": 15
+  },
+  {
+    "id": "word-364",
+    "word": "well-paid",
+    "translation": "薪水高的，工资高的，报酬高的",
+    "ipa": "/ wel 'perd/",
+    "cefr": "",
+    "category": "银行与工作",
+    "page": 15
+  },
+  {
+    "id": "word-365",
+    "word": "account",
+    "translation": "账户，户头",
+    "ipa": "/a' kaunt/",
+    "cefr": "B1",
+    "category": "银行与工作",
+    "page": 16
+  },
+  {
+    "id": "word-366",
+    "word": "bank statement",
+    "translation": "（银行）对账单",
+    "ipa": "/'bank stert.mant/",
+    "cefr": "",
+    "category": "银行与工作",
+    "page": 16
+  },
+  {
+    "id": "word-367",
+    "word": "cheque(UK)/check(US)",
+    "translation": "支票",
+    "ipa": "/tfek/",
+    "cefr": "A2",
+    "category": "银行与工作",
+    "page": 16
+  },
+  {
+    "id": "word-368",
+    "word": "currency",
+    "translation": "货币，通货",
+    "ipa": "/kar.an.si/",
+    "cefr": "B1",
+    "category": "银行与工作",
+    "page": 16
+  },
+  {
+    "id": "word-369",
+    "word": "debit card",
+    "translation": "借记卡",
+    "ipa": "/ deb.it ka:d/",
+    "cefr": "B2",
+    "category": "银行与工作",
+    "page": 16
+  },
+  {
+    "id": "word-370",
+    "word": "dollar",
+    "translation": "（美国、加拿大、澳大利亚、新西兰",
+    "ipa": "/ dol.ar/",
+    "cefr": "A1",
+    "category": "银行与工作",
+    "page": 16
+  },
+  {
+    "id": "word-371",
+    "word": "driving licence",
+    "translation": "驾驶执照，驾驶证",
+    "ipa": "/drai.vin lar.sens/",
+    "cefr": "A2",
+    "category": "银行与工作",
+    "page": 16
+  },
+  {
+    "id": "word-372",
+    "word": "euro",
+    "translation": "欧元",
+    "ipa": "/jua.rau/",
+    "cefr": "A2",
+    "category": "银行与工作",
+    "page": 16
+  },
+  {
+    "id": "word-373",
+    "word": "financial",
+    "translation": "财务的；财政的；金融的",
+    "ipa": "/far næn.fel/",
+    "cefr": "B1",
+    "category": "银行与工作",
+    "page": 16
+  },
+  {
+    "id": "word-374",
+    "word": "interest",
+    "translation": "（借款的/存款的）利息",
+    "ipa": "/ In.trast/",
+    "cefr": "C1",
+    "category": "银行与工作",
+    "page": 16
+  },
+  {
+    "id": "word-375",
+    "word": "joint account",
+    "translation": "联合账户；共同账户",
+    "ipa": "/d goInt a, kaunt/",
+    "cefr": "",
+    "category": "银行与工作",
+    "page": 16
+  },
+  {
+    "id": "word-376",
+    "word": "mortgage",
+    "translation": "（尤指购房的）按揭，抵押贷款",
+    "ipa": "/ mo: gid3/",
+    "cefr": "",
+    "category": "银行与工作",
+    "page": 16
+  },
+  {
+    "id": "word-377",
+    "word": "password",
+    "translation": "口令；密码",
+    "ipa": "/ pa:s.w3:d/",
+    "cefr": "B1",
+    "category": "银行与工作",
+    "page": 16
+  },
+  {
+    "id": "word-378",
+    "word": "pound",
+    "translation": "镑（英国等国家的货币单位）",
+    "ipa": "/paund/",
+    "cefr": "A2",
+    "category": "银行与工作",
+    "page": 16
+  },
+  {
+    "id": "word-379",
+    "word": "refund",
+    "translation": "退还；退（款）；偿付",
+    "ipa": "/ ri: fand/",
+    "cefr": "C1",
+    "category": "银行与工作",
+    "page": 16
+  },
+  {
+    "id": "word-380",
+    "word": "savings account",
+    "translation": "储蓄账户",
+    "ipa": "/'ser.vinz a kaunt/",
+    "cefr": "",
+    "category": "银行与工作",
+    "page": 16
+  },
+  {
+    "id": "word-381",
+    "word": "transfer",
+    "translation": "转移；转账",
+    "ipa": "/træns'f3:r/",
+    "cefr": "B1",
+    "category": "银行与工作",
+    "page": 16
+  },
+  {
+    "id": "word-382",
+    "word": "withdraw",
+    "translation": "提取",
+    "ipa": "/wIõ dro:/",
+    "cefr": "C1",
+    "category": "银行与工作",
+    "page": 16
+  },
+  {
+    "id": "word-383",
+    "word": "debt",
+    "translation": "借款，欠款；债务",
+    "ipa": "/det/",
+    "cefr": "B2",
+    "category": "银行与工作",
+    "page": 17
+  },
+  {
+    "id": "word-384",
+    "word": "document",
+    "translation": "（尤指正式的）文件，公文",
+    "ipa": "/dok.ja.mant/",
+    "cefr": "A2",
+    "category": "银行与工作",
+    "page": 17
+  },
+  {
+    "id": "word-385",
+    "word": "holder",
+    "translation": "持有人，拥有者",
+    "ipa": "/ haul.dar/",
+    "cefr": "",
+    "category": "银行与工作",
+    "page": 17
+  },
+  {
+    "id": "word-386",
+    "word": "internet service",
+    "translation": "互联网服务",
+    "ipa": "/'in.ta.net 'S3: VIs/",
+    "cefr": "",
+    "category": "银行与工作",
+    "page": 17
+  },
+  {
+    "id": "word-387",
+    "word": "access to",
+    "translation": "有权使用",
+    "ipa": "/ æk.ses/",
+    "cefr": "B1",
+    "category": "图书馆",
+    "page": 18
+  },
+  {
+    "id": "word-388",
+    "word": "available",
+    "translation": "可以借到的",
+    "ipa": "/a verla.bal/",
+    "cefr": "A2",
+    "category": "图书馆",
+    "page": 18
+  },
+  {
+    "id": "word-389",
+    "word": "bibliography",
+    "translation": "参考书目",
+    "ipa": "/, babli 'Dg.ra.fi/",
+    "cefr": "",
+    "category": "图书馆",
+    "page": 18
+  },
+  {
+    "id": "word-390",
+    "word": "category",
+    "translation": "种类",
+    "ipa": "/ kæt.a.gri/",
+    "cefr": "B2",
+    "category": "图书馆",
+    "page": 18
+  },
+  {
+    "id": "word-391",
+    "word": "check out",
+    "translation": "借出",
+    "ipa": "/t/ek/",
+    "cefr": "B1",
+    "category": "图书馆",
+    "page": 18
+  },
+  {
+    "id": "word-392",
+    "word": "classification",
+    "translation": "分类",
+    "ipa": "/, klas.r.fz ker.fan/",
+    "cefr": "C2",
+    "category": "图书馆",
+    "page": 18
+  },
+  {
+    "id": "word-393",
+    "word": "content",
+    "translation": "目录",
+    "ipa": "/kan tent/",
+    "cefr": "B2",
+    "category": "图书馆",
+    "page": 18
+  },
+  {
+    "id": "word-394",
+    "word": "current issue",
+    "translation": "现刊",
+    "ipa": "/ 'kmr.ant/ /'IJ.u:/",
+    "cefr": "",
+    "category": "图书馆",
+    "page": 18
+  },
+  {
+    "id": "word-395",
+    "word": "deadline",
+    "translation": "期限",
+    "ipa": "/ ded.lam/",
+    "cefr": "B2",
+    "category": "图书馆",
+    "page": 18
+  },
+  {
+    "id": "word-396",
+    "word": "dictionary",
+    "translation": "字典",
+    "ipa": "/ dik./an.ar.i/",
+    "cefr": "A1",
+    "category": "图书馆",
+    "page": 18
+  },
+  {
+    "id": "word-397",
+    "word": "fine",
+    "translation": "罚款",
+    "ipa": "/fam/",
+    "cefr": "B1",
+    "category": "图书馆",
+    "page": 18
+  },
+  {
+    "id": "word-398",
+    "word": "glossary",
+    "translation": "词汇表",
+    "ipa": "/glds.ar.i/",
+    "cefr": "",
+    "category": "图书馆",
+    "page": 18
+  },
+  {
+    "id": "word-399",
+    "word": "handout",
+    "translation": "讲义",
+    "ipa": "/ hænd.aot/",
+    "cefr": "B2",
+    "category": "图书馆",
+    "page": 18
+  },
+  {
+    "id": "word-400",
+    "word": "journal",
+    "translation": "杂志",
+    "ipa": "/'d33.:nal/",
+    "cefr": "C1",
+    "category": "图书馆",
+    "page": 18
+  },
+  {
+    "id": "word-401",
+    "word": "magazine",
+    "translation": "杂志",
+    "ipa": "/, mæg.a zin/",
+    "cefr": "",
+    "category": "图书馆",
+    "page": 18
+  },
+  {
+    "id": "word-402",
+    "word": "multimedia materials",
+    "translation": "多媒体资料",
+    "ipa": "/, m1l.ti mi.:di.a/",
+    "cefr": "",
+    "category": "图书馆",
+    "page": 18
+  },
+  {
+    "id": "word-403",
+    "word": "newspaper",
+    "translation": "报纸",
+    "ipa": "/ 'nju.z, per.par/",
+    "cefr": "",
+    "category": "图书馆",
+    "page": 18
+  },
+  {
+    "id": "word-404",
+    "word": "oenui",
+    "translation": "小册子",
+    "ipa": "/ 'brau.far/",
+    "cefr": "B1",
+    "category": "图书馆",
+    "page": 18
+  },
+  {
+    "id": "word-405",
+    "word": "overdue",
+    "translation": "超期",
+    "ipa": "",
+    "cefr": "",
+    "category": "图书馆",
+    "page": 18
+  },
+  {
+    "id": "word-406",
+    "word": "press",
+    "translation": "出版社",
+    "ipa": "/pres/",
+    "cefr": "B1",
+    "category": "图书馆",
+    "page": 18
+  },
+  {
+    "id": "word-407",
+    "word": "publication",
+    "translation": "出版物",
+    "ipa": "/, pab. lIke./an/",
+    "cefr": "B2",
+    "category": "图书馆",
+    "page": 18
+  },
+  {
+    "id": "word-408",
+    "word": "reference book",
+    "translation": "参考书",
+    "ipa": "/'ref.ar.ans ,buk/",
+    "cefr": "",
+    "category": "图书馆",
+    "page": 18
+  },
+  {
+    "id": "word-409",
+    "word": "renew",
+    "translation": "续借",
+    "ipa": "/rinju:/",
+    "cefr": "B2",
+    "category": "图书馆",
+    "page": 18
+  },
+  {
+    "id": "word-410",
+    "word": "supplementary material",
+    "translation": "补充材料",
+    "ipa": "/, sap.l/ men.tar.i/",
+    "cefr": "",
+    "category": "图书馆",
+    "page": 18
+  },
+  {
+    "id": "word-411",
+    "word": "variety",
+    "translation": "多样化；变化",
+    "ipa": "/va rara.ti/",
+    "cefr": "B1",
+    "category": "图书馆",
+    "page": 18
+  },
+  {
+    "id": "word-412",
+    "word": "videotape",
+    "translation": "录像带",
+    "ipa": "/vid.i.av.terp/",
+    "cefr": "",
+    "category": "图书馆",
+    "page": 18
+  },
+  {
+    "id": "word-413",
+    "word": "volume",
+    "translation": "卷",
+    "ipa": "/ vo.ju m/",
+    "cefr": "B2",
+    "category": "图书馆",
+    "page": 18
+  },
+  {
+    "id": "word-414",
+    "word": "button",
+    "translation": "按钮",
+    "ipa": "/ 'brt.an/",
+    "cefr": "B1",
+    "category": "图书馆",
+    "page": 19
+  },
+  {
+    "id": "word-415",
+    "word": "keyboard",
+    "translation": "键盘",
+    "ipa": "/ 'ki:bo:d/",
+    "cefr": "",
+    "category": "图书馆",
+    "page": 19
+  },
+  {
+    "id": "word-416",
+    "word": "monitor",
+    "translation": "显示器",
+    "ipa": "/'mon.r.tar/",
+    "cefr": "B2",
+    "category": "图书馆",
+    "page": 19
+  },
+  {
+    "id": "word-417",
+    "word": "recorder",
+    "translation": "灵音机",
+    "ipa": "/rr ko..dar/",
+    "cefr": "",
+    "category": "图书馆",
+    "page": 19
+  },
+  {
+    "id": "word-418",
+    "word": "software",
+    "translation": "软件",
+    "ipa": "/ soft.wear/",
+    "cefr": "",
+    "category": "图书馆",
+    "page": 19
+  },
+  {
+    "id": "word-419",
+    "word": "type",
+    "translation": "打字",
+    "ipa": "/taxp/",
+    "cefr": "A2",
+    "category": "图书馆",
+    "page": 19
+  },
+  {
+    "id": "word-420",
+    "word": "website",
+    "translation": "网页",
+    "ipa": "/ web.sart/",
+    "cefr": "A1",
+    "category": "图书馆",
+    "page": 19
+  },
+  {
+    "id": "word-421",
+    "word": "across the street",
+    "translation": "在马路对面",
+    "ipa": "/a'kros Ja stri:t/",
+    "cefr": "A1",
+    "category": "地图",
+    "page": 20
+  },
+  {
+    "id": "word-422",
+    "word": "adjacent to",
+    "translation": "相邻的",
+    "ipa": "/e'dersent tu:/",
+    "cefr": "C2",
+    "category": "地图",
+    "page": 20
+  },
+  {
+    "id": "word-423",
+    "word": "at the back of",
+    "translation": "在⋯.后面",
+    "ipa": "/at Ja bak ov/",
+    "cefr": "A1",
+    "category": "地图",
+    "page": 20
+  },
+  {
+    "id": "word-424",
+    "word": "at the end of",
+    "translation": "尽头",
+    "ipa": "/at oi end Dv/",
+    "cefr": "A1",
+    "category": "地图",
+    "page": 20
+  },
+  {
+    "id": "word-425",
+    "word": "at the far side",
+    "translation": "在….的远端",
+    "ipa": "/æt a fa: said/",
+    "cefr": "A1",
+    "category": "地图",
+    "page": 20
+  },
+  {
+    "id": "word-426",
+    "word": "at the other end",
+    "translation": "在另一端",
+    "ipa": "/at oi noar and/",
+    "cefr": "A1",
+    "category": "地图",
+    "page": 20
+  },
+  {
+    "id": "word-427",
+    "word": "be located behind",
+    "translation": "位于..后面",
+    "ipa": "/bi: lau'kertid br'haind/",
+    "cefr": "A1",
+    "category": "地图",
+    "page": 20
+  },
+  {
+    "id": "word-428",
+    "word": "be on the corner of",
+    "translation": "在⋯.转角",
+    "ipa": "/bi: on Ja ko:nar v/",
+    "cefr": "A1",
+    "category": "地图",
+    "page": 20
+  },
+  {
+    "id": "word-429",
+    "word": "behind",
+    "translation": "在..后面",
+    "ipa": "/brhand/",
+    "cefr": "A1",
+    "category": "地图",
+    "page": 20
+  },
+  {
+    "id": "word-430",
+    "word": "beside",
+    "translation": "在⋯.隔壁",
+    "ipa": "/bi'said/",
+    "cefr": "A1",
+    "category": "地图",
+    "page": 20
+  },
+  {
+    "id": "word-431",
+    "word": "close to",
+    "translation": "临近",
+    "ipa": "/klaus tu:/",
+    "cefr": "A1",
+    "category": "地图",
+    "page": 20
+  },
+  {
+    "id": "word-432",
+    "word": "cross (over)",
+    "translation": "通过",
+    "ipa": "/krDs (auve) /",
+    "cefr": "A2",
+    "category": "地图",
+    "page": 20
+  },
+  {
+    "id": "word-433",
+    "word": "directly opposite",
+    "translation": "正对面",
+    "ipa": "/direktli 'opazit/",
+    "cefr": "B1",
+    "category": "地图",
+    "page": 20
+  },
+  {
+    "id": "word-434",
+    "word": "face",
+    "translation": "面向⋯",
+    "ipa": "/fersin/",
+    "cefr": "A2",
+    "category": "地图",
+    "page": 20
+  },
+  {
+    "id": "word-435",
+    "word": "go across/through",
+    "translation": "穿过",
+    "ipa": "/gau a'kros / Gru:/",
+    "cefr": "A1",
+    "category": "地图",
+    "page": 20
+  },
+  {
+    "id": "word-436",
+    "word": "go along",
+    "translation": "一直走",
+    "ipa": "",
+    "cefr": "A1",
+    "category": "地图",
+    "page": 20
+  },
+  {
+    "id": "word-437",
+    "word": "go back",
+    "translation": "后退",
+    "ipa": "/gau bak/",
+    "cefr": "A1",
+    "category": "地图",
+    "page": 20
+  },
+  {
+    "id": "word-438",
+    "word": "go east/west/south/north",
+    "translation": "向东/西/南/北走",
+    "ipa": "/gau i:st/west/sau0/no:0",
+    "cefr": "A1",
+    "category": "地图",
+    "page": 20
+  },
+  {
+    "id": "word-439",
+    "word": "go up/down the street",
+    "translation": "顺着路往前走",
+    "ipa": "/gau sp/daun a strist /",
+    "cefr": "A1",
+    "category": "地图",
+    "page": 20
+  },
+  {
+    "id": "word-440",
+    "word": "in front of",
+    "translation": "在⋯.前面",
+    "ipa": "/in frant Dv/",
+    "cefr": "A1",
+    "category": "地图",
+    "page": 20
+  },
+  {
+    "id": "word-441",
+    "word": "near",
+    "translation": "在附近",
+    "ipa": "/nia/",
+    "cefr": "A1",
+    "category": "地图",
+    "page": 20
+  },
+  {
+    "id": "word-442",
+    "word": "nearby",
+    "translation": "在附近",
+    "ipa": "/ niabai/",
+    "cefr": "B1",
+    "category": "地图",
+    "page": 20
+  },
+  {
+    "id": "word-443",
+    "word": "next to",
+    "translation": "在旁边",
+    "ipa": "/nakst tu: /",
+    "cefr": "A1",
+    "category": "地图",
+    "page": 20
+  },
+  {
+    "id": "word-444",
+    "word": "on one's left/right",
+    "translation": "在左/右边",
+    "ipa": "/on wanz left/ rait/",
+    "cefr": "A1",
+    "category": "地图",
+    "page": 20
+  },
+  {
+    "id": "word-445",
+    "word": "opposite",
+    "translation": "在对面",
+    "ipa": "/opazit/",
+    "cefr": "B1",
+    "category": "地图",
+    "page": 20
+  },
+  {
+    "id": "word-446",
+    "word": "parallel to",
+    "translation": "和..平行",
+    "ipa": "/ paralal tu:/",
+    "cefr": "C1",
+    "category": "地图",
+    "page": 20
+  },
+  {
+    "id": "word-447",
+    "word": "right next to",
+    "translation": "紧挨着",
+    "ipa": "/rait nakst tu:/",
+    "cefr": "A1",
+    "category": "地图",
+    "page": 20
+  },
+  {
+    "id": "word-448",
+    "word": "turn left/right",
+    "translation": "向左/右转",
+    "ipa": "/ta:n left/rait/",
+    "cefr": "A2",
+    "category": "地图",
+    "page": 20
+  },
+  {
+    "id": "word-449",
+    "word": "wheelchair access",
+    "translation": "轮椅专用道",
+    "ipa": "/wi Itfear akses/",
+    "cefr": "A2",
+    "category": "地图",
+    "page": 20
+  },
+  {
+    "id": "word-450",
+    "word": "a T-road",
+    "translation": "丁字路口",
+    "ipa": "/a ti:-raud/",
+    "cefr": "A1",
+    "category": "地图",
+    "page": 21
+  },
+  {
+    "id": "word-451",
+    "word": "aisle",
+    "translation": "过道",
+    "ipa": "/ail/",
+    "cefr": "B1",
+    "category": "地图",
+    "page": 21
+  },
+  {
+    "id": "word-452",
+    "word": "bend",
+    "translation": "弯",
+    "ipa": "/bend/",
+    "cefr": "B1",
+    "category": "地图",
+    "page": 21
+  },
+  {
+    "id": "word-453",
+    "word": "branch",
+    "translation": "分叉路",
+    "ipa": "/bra:ntf/",
+    "cefr": "B1",
+    "category": "地图",
+    "page": 21
+  },
+  {
+    "id": "word-454",
+    "word": "carry on",
+    "translation": "直走",
+    "ipa": "/kæri n/",
+    "cefr": "A2",
+    "category": "地图",
+    "page": 21
+  },
+  {
+    "id": "word-455",
+    "word": "crossroad",
+    "translation": "十字路口",
+    "ipa": "/kros raud/",
+    "cefr": "B2",
+    "category": "地图",
+    "page": 21
+  },
+  {
+    "id": "word-456",
+    "word": "curve",
+    "translation": "弯",
+    "ipa": "/k3:v/",
+    "cefr": "B2",
+    "category": "地图",
+    "page": 21
+  },
+  {
+    "id": "word-457",
+    "word": "cyclists only",
+    "translation": "仅自行车通行",
+    "ipa": "/'saiklists 'aunli/",
+    "cefr": "A2",
+    "category": "地图",
+    "page": 21
+  },
+  {
+    "id": "word-458",
+    "word": "go beyond",
+    "translation": "经过/走过/驶过",
+    "ipa": "/gau brjund/",
+    "cefr": "B1",
+    "category": "地图",
+    "page": 21
+  },
+  {
+    "id": "word-459",
+    "word": "go by",
+    "translation": "经过/走过/驶过",
+    "ipa": "/gau bai/",
+    "cefr": "A1",
+    "category": "地图",
+    "page": 21
+  },
+  {
+    "id": "word-460",
+    "word": "go past",
+    "translation": "经过/走过/驶过",
+    "ipa": "/gau pa:st/",
+    "cefr": "A2",
+    "category": "地图",
+    "page": 21
+  },
+  {
+    "id": "word-461",
+    "word": "go straight",
+    "translation": "直走",
+    "ipa": "/gau streit/",
+    "cefr": "A1",
+    "category": "地图",
+    "page": 21
+  },
+  {
+    "id": "word-462",
+    "word": "guide post",
+    "translation": "路标",
+    "ipa": "/gard paust /",
+    "cefr": "A2",
+    "category": "地图",
+    "page": 21
+  },
+  {
+    "id": "word-463",
+    "word": "intersection",
+    "translation": "十字路口",
+    "ipa": "/ Inta(:) 'sekfan/",
+    "cefr": "B2",
+    "category": "地图",
+    "page": 21
+  },
+  {
+    "id": "word-464",
+    "word": "junction",
+    "translation": "连接路口",
+    "ipa": "/dgankfan/",
+    "cefr": "B2",
+    "category": "地图",
+    "page": 21
+  },
+  {
+    "id": "word-465",
+    "word": "milestone",
+    "translation": "里程碑",
+    "ipa": "/mailstaun/",
+    "cefr": "C1",
+    "category": "地图",
+    "page": 21
+  },
+  {
+    "id": "word-466",
+    "word": "narrow road",
+    "translation": "窄路",
+    "ipa": "/'nærau raud/",
+    "cefr": "B1",
+    "category": "地图",
+    "page": 21
+  },
+  {
+    "id": "word-467",
+    "word": "no entry",
+    "translation": "禁止驶入",
+    "ipa": "/nau 'entri/",
+    "cefr": "B1",
+    "category": "地图",
+    "page": 21
+  },
+  {
+    "id": "word-468",
+    "word": "no turns",
+    "translation": "禁止掉头",
+    "ipa": "/nau t3:nz/",
+    "cefr": "A1",
+    "category": "地图",
+    "page": 21
+  },
+  {
+    "id": "word-469",
+    "word": "one way only",
+    "translation": "单行道",
+    "ipa": "/wan wer 'aunli/",
+    "cefr": "A1",
+    "category": "地图",
+    "page": 21
+  },
+  {
+    "id": "word-470",
+    "word": "overhead bridge",
+    "translation": "过街天桥",
+    "ipa": "/'auvehed brid3/",
+    "cefr": "B2",
+    "category": "地图",
+    "page": 21
+  },
+  {
+    "id": "word-471",
+    "word": "restricted stop",
+    "translation": "禁止停车",
+    "ipa": "/ris triktid stop/",
+    "cefr": "B2",
+    "category": "地图",
+    "page": 21
+  },
+  {
+    "id": "word-472",
+    "word": "restricted waiting",
+    "translation": "禁止滞留",
+    "ipa": "/ns triktid wertin/",
+    "cefr": "B2",
+    "category": "地图",
+    "page": 21
+  },
+  {
+    "id": "word-473",
+    "word": "rough road",
+    "translation": "不平整的路",
+    "ipa": "/raf raud/",
+    "cefr": "A2",
+    "category": "地图",
+    "page": 21
+  },
+  {
+    "id": "word-474",
+    "word": "roundabout",
+    "translation": "环岛",
+    "ipa": "/raundabaut/",
+    "cefr": "C1",
+    "category": "地图",
+    "page": 21
+  },
+  {
+    "id": "word-475",
+    "word": "speed limit",
+    "translation": "速度上线",
+    "ipa": "/spi:d limit/",
+    "cefr": "B1",
+    "category": "地图",
+    "page": 21
+  },
+  {
+    "id": "word-476",
+    "word": "traffic regulation",
+    "translation": "交通规则",
+    "ipa": "/'trafik regju'lerfan/",
+    "cefr": "C2",
+    "category": "地图",
+    "page": 21
+  },
+  {
+    "id": "word-477",
+    "word": "two-way traffic",
+    "translation": "双车道",
+    "ipa": "/'tu: wer 'trafik/",
+    "cefr": "A1",
+    "category": "地图",
+    "page": 21
+  },
+  {
+    "id": "word-478",
+    "word": "winding road",
+    "translation": "连续弯路",
+    "ipa": "/windin raud/",
+    "cefr": "B2",
+    "category": "地图",
+    "page": 21
+  },
+  {
+    "id": "word-479",
+    "word": "zebra crossing",
+    "translation": "斑马线",
+    "ipa": "/'zi bra krosin/",
+    "cefr": "",
+    "category": "地图",
+    "page": 21
+  },
+  {
+    "id": "word-480",
+    "word": "basement",
+    "translation": "地下室",
+    "ipa": "/bersmant/",
+    "cefr": "",
+    "category": "地图",
+    "page": 22
+  },
+  {
+    "id": "word-481",
+    "word": "block",
+    "translation": "街区；大楼",
+    "ipa": "",
+    "cefr": "",
+    "category": "地图",
+    "page": 22
+  },
+  {
+    "id": "word-482",
+    "word": "corner",
+    "translation": "拐角",
+    "ipa": "",
+    "cefr": "",
+    "category": "地图",
+    "page": 22
+  },
+  {
+    "id": "word-483",
+    "word": "entrance",
+    "translation": "入口",
+    "ipa": "/'entrans/",
+    "cefr": "",
+    "category": "地图",
+    "page": 22
+  },
+  {
+    "id": "word-484",
+    "word": "flyover",
+    "translation": "高架桥",
+    "ipa": "/ flai,auva/",
+    "cefr": "C1",
+    "category": "地图",
+    "page": 22
+  },
+  {
+    "id": "word-485",
+    "word": "foyer",
+    "translation": "门厅",
+    "ipa": "/'forer/",
+    "cefr": "",
+    "category": "地图",
+    "page": 22
+  },
+  {
+    "id": "word-486",
+    "word": "hall",
+    "translation": "大厅",
+    "ipa": "/hэ:1/",
+    "cefr": "",
+    "category": "地图",
+    "page": 22
+  },
+  {
+    "id": "word-487",
+    "word": "reception",
+    "translation": "接待处",
+    "ipa": "/n'sepf(a)n/",
+    "cefr": "",
+    "category": "地图",
+    "page": 22
+  },
+  {
+    "id": "word-488",
+    "word": "side road",
+    "translation": "支路",
+    "ipa": "/ said roud/",
+    "cefr": "A1",
+    "category": "地图",
+    "page": 22
+  },
+  {
+    "id": "word-489",
+    "word": "stair",
+    "translation": "楼梯",
+    "ipa": "",
+    "cefr": "",
+    "category": "地图",
+    "page": 22
+  },
+  {
+    "id": "word-490",
+    "word": "step",
+    "translation": "台阶",
+    "ipa": "",
+    "cefr": "",
+    "category": "地图",
+    "page": 22
+  },
+  {
+    "id": "word-491",
+    "word": "traffic lights",
+    "translation": "交通信号灯",
+    "ipa": "/trafik laits/",
+    "cefr": "A2",
+    "category": "地图",
+    "page": 22
+  },
+  {
+    "id": "word-492",
+    "word": "turning",
+    "translation": "转弯处",
+    "ipa": "",
+    "cefr": "",
+    "category": "地图",
+    "page": 22
+  },
+  {
+    "id": "word-493",
+    "word": "charity",
+    "translation": "慈善",
+    "ipa": "",
+    "cefr": "B1",
+    "category": "课程作业",
+    "page": 23
+  },
+  {
+    "id": "word-494",
+    "word": "coursework",
+    "translation": "作业",
+    "ipa": "",
+    "cefr": "",
+    "category": "课程作业",
+    "page": 23
+  },
+  {
+    "id": "word-495",
+    "word": "homework",
+    "translation": "作业",
+    "ipa": "",
+    "cefr": "A1",
+    "category": "课程作业",
+    "page": 23
+  },
+  {
+    "id": "word-496",
+    "word": "internship",
+    "translation": "实习期",
+    "ipa": "",
+    "cefr": "B1",
+    "category": "课程作业",
+    "page": 23
+  },
+  {
+    "id": "word-497",
+    "word": "thesis",
+    "translation": "作业",
+    "ipa": "",
+    "cefr": "B2",
+    "category": "课程作业",
+    "page": 23
+  },
+  {
+    "id": "word-498",
+    "word": "abstract",
+    "translation": "摘要",
+    "ipa": "",
+    "cefr": "B2",
+    "category": "课程作业",
+    "page": 24
+  },
+  {
+    "id": "word-499",
+    "word": "chapter",
+    "translation": "章",
+    "ipa": "",
+    "cefr": "B1",
+    "category": "课程作业",
+    "page": 24
+  },
+  {
+    "id": "word-500",
+    "word": "draft",
+    "translation": "草稿",
+    "ipa": "",
+    "cefr": "B2",
+    "category": "课程作业",
+    "page": 24
+  },
+  {
+    "id": "word-501",
+    "word": "experiment",
+    "translation": "实验",
+    "ipa": "",
+    "cefr": "B1",
+    "category": "课程作业",
+    "page": 24
+  },
+  {
+    "id": "word-502",
+    "word": "explanation",
+    "translation": "解释；说明",
+    "ipa": "",
+    "cefr": "B1",
+    "category": "课程作业",
+    "page": 24
+  },
+  {
+    "id": "word-503",
+    "word": "exploration",
+    "translation": "探索；研究",
+    "ipa": "",
+    "cefr": "",
+    "category": "课程作业",
+    "page": 24
+  },
+  {
+    "id": "word-504",
+    "word": "extension",
+    "translation": "延期",
+    "ipa": "",
+    "cefr": "B2",
+    "category": "课程作业",
+    "page": 24
+  },
+  {
+    "id": "word-505",
+    "word": "grammar",
+    "translation": "语法",
+    "ipa": "",
+    "cefr": "A2",
+    "category": "课程作业",
+    "page": 24
+  },
+  {
+    "id": "word-506",
+    "word": "group discussion",
+    "translation": "小组讨论",
+    "ipa": "",
+    "cefr": "",
+    "category": "课程作业",
+    "page": 24
+  },
+  {
+    "id": "word-507",
+    "word": "length",
+    "translation": "长度",
+    "ipa": "",
+    "cefr": "",
+    "category": "课程作业",
+    "page": 24
+  },
+  {
+    "id": "word-508",
+    "word": "PowerPoint",
+    "translation": "演示文稿文件",
+    "ipa": "",
+    "cefr": "",
+    "category": "课程作业",
+    "page": 24
+  },
+  {
+    "id": "word-509",
+    "word": "profile",
+    "translation": "简介",
+    "ipa": "",
+    "cefr": "B2",
+    "category": "课程作业",
+    "page": 24
+  },
+  {
+    "id": "word-510",
+    "word": "proofreading",
+    "translation": "校对",
+    "ipa": "",
+    "cefr": "",
+    "category": "课程作业",
+    "page": 24
+  },
+  {
+    "id": "word-511",
+    "word": "publicity",
+    "translation": "宣传活动",
+    "ipa": "",
+    "cefr": "B2",
+    "category": "课程作业",
+    "page": 24
+  },
+  {
+    "id": "word-512",
+    "word": "revise",
+    "translation": "修改；复习",
+    "ipa": "",
+    "cefr": "B2",
+    "category": "课程作业",
+    "page": 24
+  },
+  {
+    "id": "word-513",
+    "word": "seminar",
+    "translation": "专题讨论会；研讨会",
+    "ipa": "",
+    "cefr": "B2",
+    "category": "课程作业",
+    "page": 24
+  },
+  {
+    "id": "word-514",
+    "word": "slide",
+    "translation": "幻灯片",
+    "ipa": "",
+    "cefr": "B2",
+    "category": "课程作业",
+    "page": 24
+  },
+  {
+    "id": "word-515",
+    "word": "submit",
+    "translation": "提交",
+    "ipa": "",
+    "cefr": "",
+    "category": "课程作业",
+    "page": 24
+  },
+  {
+    "id": "word-516",
+    "word": "summary",
+    "translation": "总结",
+    "ipa": "",
+    "cefr": "B2",
+    "category": "课程作业",
+    "page": 24
+  },
+  {
+    "id": "word-517",
+    "word": "syllabus",
+    "translation": "教学大纲",
+    "ipa": "",
+    "cefr": "C2",
+    "category": "课程作业",
+    "page": 24
+  },
+  {
+    "id": "word-518",
+    "word": "venue",
+    "translation": "地点",
+    "ipa": "",
+    "cefr": "B2",
+    "category": "课程作业",
+    "page": 24
+  },
+  {
+    "id": "word-519",
+    "word": "virtual learning",
+    "translation": "虚拟学习",
+    "ipa": "",
+    "cefr": "",
+    "category": "课程作业",
+    "page": 24
+  },
+  {
+    "id": "word-520",
+    "word": "analysis",
+    "translation": "分析",
+    "ipa": "",
+    "cefr": "B2",
+    "category": "课程作业",
+    "page": 25
+  },
+  {
+    "id": "word-521",
+    "word": "case study",
+    "translation": "案例调查",
+    "ipa": "",
+    "cefr": "",
+    "category": "课程作业",
+    "page": 25
+  },
+  {
+    "id": "word-522",
+    "word": "criteria",
+    "translation": "标准",
+    "ipa": "",
+    "cefr": "C1",
+    "category": "课程作业",
+    "page": 25
+  },
+  {
+    "id": "word-523",
+    "word": "database",
+    "translation": "数据库",
+    "ipa": "",
+    "cefr": "B2",
+    "category": "课程作业",
+    "page": 25
+  },
+  {
+    "id": "word-524",
+    "word": "feedback",
+    "translation": "反馈",
+    "ipa": "",
+    "cefr": "B2",
+    "category": "课程作业",
+    "page": 25
+  },
+  {
+    "id": "word-525",
+    "word": "formative assessment",
+    "translation": "形成性评价",
+    "ipa": "",
+    "cefr": "",
+    "category": "课程作业",
+    "page": 25
+  },
+  {
+    "id": "word-526",
+    "word": "instruction",
+    "translation": "指引",
+    "ipa": "",
+    "cefr": "C2",
+    "category": "课程作业",
+    "page": 25
+  },
+  {
+    "id": "word-527",
+    "word": "interpretation",
+    "translation": "解释",
+    "ipa": "",
+    "cefr": "C2",
+    "category": "课程作业",
+    "page": 25
+  },
+  {
+    "id": "word-528",
+    "word": "interview",
+    "translation": "采访",
+    "ipa": "",
+    "cefr": "",
+    "category": "课程作业",
+    "page": 25
+  },
+  {
+    "id": "word-529",
+    "word": "investigation",
+    "translation": "调查",
+    "ipa": "",
+    "cefr": "B2",
+    "category": "课程作业",
+    "page": 25
+  },
+  {
+    "id": "word-530",
+    "word": "margin",
+    "translation": "页边空白",
+    "ipa": "",
+    "cefr": "C2",
+    "category": "课程作业",
+    "page": 25
+  },
+  {
+    "id": "word-531",
+    "word": "methodology",
+    "translation": "方法",
+    "ipa": "",
+    "cefr": "",
+    "category": "课程作业",
+    "page": 25
+  },
+  {
+    "id": "word-532",
+    "word": "observation",
+    "translation": "观察法",
+    "ipa": "",
+    "cefr": "B2",
+    "category": "课程作业",
+    "page": 25
+  },
+  {
+    "id": "word-533",
+    "word": "questionnaire",
+    "translation": "问卷调查",
+    "ipa": "",
+    "cefr": "B1",
+    "category": "课程作业",
+    "page": 25
+  },
+  {
+    "id": "word-534",
+    "word": "reference",
+    "translation": "参考",
+    "ipa": "",
+    "cefr": "B2",
+    "category": "课程作业",
+    "page": 25
+  },
+  {
+    "id": "word-535",
+    "word": "research approach",
+    "translation": "研究方法",
+    "ipa": "",
+    "cefr": "",
+    "category": "课程作业",
+    "page": 25
+  },
+  {
+    "id": "word-536",
+    "word": "respondent",
+    "translation": "回答者",
+    "ipa": "",
+    "cefr": "",
+    "category": "课程作业",
+    "page": 25
+  },
+  {
+    "id": "word-537",
+    "word": "review",
+    "translation": "复习",
+    "ipa": "",
+    "cefr": "C1",
+    "category": "课程作业",
+    "page": 25
+  },
+  {
+    "id": "word-538",
+    "word": "standard",
+    "translation": "标准",
+    "ipa": "",
+    "cefr": "B2",
+    "category": "课程作业",
+    "page": 25
+  },
+  {
+    "id": "word-539",
+    "word": "study aid",
+    "translation": "学习工具",
+    "ipa": "",
+    "cefr": "",
+    "category": "课程作业",
+    "page": 25
+  },
+  {
+    "id": "word-540",
+    "word": "summative assessment",
+    "translation": "总结性评价",
+    "ipa": "/ sam.a.tiv a sesmant",
+    "cefr": "",
+    "category": "课程作业",
+    "page": 25
+  },
+  {
+    "id": "word-541",
+    "word": "technical term",
+    "translation": "专业术语",
+    "ipa": "",
+    "cefr": "",
+    "category": "课程作业",
+    "page": 25
+  },
+  {
+    "id": "word-542",
+    "word": "telephone survey",
+    "translation": "电话调查",
+    "ipa": "",
+    "cefr": "",
+    "category": "课程作业",
+    "page": 25
+  },
+  {
+    "id": "word-543",
+    "word": "theory",
+    "translation": "理论",
+    "ipa": "",
+    "cefr": "B2",
+    "category": "课程作业",
+    "page": 25
+  },
+  {
+    "id": "word-544",
+    "word": "attendance",
+    "translation": "参加",
+    "ipa": "",
+    "cefr": "",
+    "category": "课程作业",
+    "page": 26
+  },
+  {
+    "id": "word-545",
+    "word": "cheating",
+    "translation": "作弊",
+    "ipa": "",
+    "cefr": "",
+    "category": "课程作业",
+    "page": 26
+  },
+  {
+    "id": "word-546",
+    "word": "credit",
+    "translation": "学分",
+    "ipa": "",
+    "cefr": "",
+    "category": "课程作业",
+    "page": 26
+  },
+  {
+    "id": "word-547",
+    "word": "dictation",
+    "translation": "口述",
+    "ipa": "",
+    "cefr": "",
+    "category": "课程作业",
+    "page": 26
+  },
+  {
+    "id": "word-548",
+    "word": "dimension",
+    "translation": "空间；尺寸",
+    "ipa": "",
+    "cefr": "",
+    "category": "课程作业",
+    "page": 26
+  },
+  {
+    "id": "word-549",
+    "word": "distinct",
+    "translation": "显著的",
+    "ipa": "",
+    "cefr": "",
+    "category": "课程作业",
+    "page": 26
+  },
+  {
+    "id": "word-550",
+    "word": "grant",
+    "translation": "补助金",
+    "ipa": "",
+    "cefr": "",
+    "category": "课程作业",
+    "page": 26
+  },
+  {
+    "id": "word-551",
+    "word": "merit",
+    "translation": "优点",
+    "ipa": "",
+    "cefr": "",
+    "category": "课程作业",
+    "page": 26
+  },
+  {
+    "id": "word-552",
+    "word": "oral test",
+    "translation": "口测",
+    "ipa": "",
+    "cefr": "",
+    "category": "课程作业",
+    "page": 26
+  },
+  {
+    "id": "word-553",
+    "word": "plagiarism",
+    "translation": "作弊",
+    "ipa": "",
+    "cefr": "",
+    "category": "课程作业",
+    "page": 26
+  },
+  {
+    "id": "word-554",
+    "word": "quiz",
+    "translation": "测验",
+    "ipa": "",
+    "cefr": "",
+    "category": "课程作业",
+    "page": 26
+  },
+  {
+    "id": "word-555",
+    "word": "resit",
+    "translation": "重考",
+    "ipa": "",
+    "cefr": "",
+    "category": "课程作业",
+    "page": 26
+  },
+  {
+    "id": "word-556",
+    "word": "scholarship",
+    "translation": "奖学金",
+    "ipa": "",
+    "cefr": "",
+    "category": "课程作业",
+    "page": 26
+  },
+  {
+    "id": "word-557",
+    "word": "score",
+    "translation": "得分",
+    "ipa": "",
+    "cefr": "",
+    "category": "课程作业",
+    "page": 26
+  },
+  {
+    "id": "word-558",
+    "word": "written test",
+    "translation": "笔试",
+    "ipa": "",
+    "cefr": "",
+    "category": "课程作业",
+    "page": 26
+  },
+  {
+    "id": "word-559",
+    "word": "access",
+    "translation": "通道；途径；（接近某地或某人的）",
+    "ipa": "/æk.ses/",
+    "cefr": "B1",
+    "category": "人文讲座",
+    "page": 27
+  },
+  {
+    "id": "word-560",
+    "word": "accurate",
+    "translation": "准确的；精确的；正确的",
+    "ipa": "/'æk.ja.rat/",
+    "cefr": "B1",
+    "category": "人文讲座",
+    "page": 27
+  },
+  {
+    "id": "word-561",
+    "word": "agricultural",
+    "translation": "农业的",
+    "ipa": "/.æg.r/ kal.tfar.al/",
+    "cefr": "",
+    "category": "人文讲座",
+    "page": 27
+  },
+  {
+    "id": "word-562",
+    "word": "ancient",
+    "translation": "古代的；古老的；年代久远的",
+    "ipa": "/'ein.fant/",
+    "cefr": "B1",
+    "category": "人文讲座",
+    "page": 27
+  },
+  {
+    "id": "word-563",
+    "word": "approach",
+    "translation": "（思考问题的）方式，方法，态度",
+    "ipa": "/a prastf/",
+    "cefr": "B2",
+    "category": "人文讲座",
+    "page": 27
+  },
+  {
+    "id": "word-564",
+    "word": "calendar",
+    "translation": "日历",
+    "ipa": "/'kæl.an.der/",
+    "cefr": "",
+    "category": "人文讲座",
+    "page": 27
+  },
+  {
+    "id": "word-565",
+    "word": "century",
+    "translation": "世纪",
+    "ipa": "/'sen.tfar.i/",
+    "cefr": "",
+    "category": "人文讲座",
+    "page": 27
+  },
+  {
+    "id": "word-566",
+    "word": "ceremony",
+    "translation": "典礼；仪式",
+    "ipa": "/'ser./.ma.ni/",
+    "cefr": "B1",
+    "category": "人文讲座",
+    "page": 27
+  },
+  {
+    "id": "word-567",
+    "word": "development",
+    "translation": "成长，发育；发展",
+    "ipa": "/d/ vel.ap.mant/",
+    "cefr": "B1",
+    "category": "人文讲座",
+    "page": 27
+  },
+  {
+    "id": "word-568",
+    "word": "evaluation",
+    "translation": "估价，评价；估算",
+    "ipa": "/.væl.ju, er. fen/",
+    "cefr": "",
+    "category": "人文讲座",
+    "page": 27
+  },
+  {
+    "id": "word-569",
+    "word": "evolution",
+    "translation": "演化；进化；发展；演变",
+    "ipa": "T.i: va lu: fan/ /,ev.a lu",
+    "cefr": "B2",
+    "category": "人文讲座",
+    "page": 27
+  },
+  {
+    "id": "word-570",
+    "word": "fertiliser",
+    "translation": "肥料",
+    "ipa": "/'fa. tr.lar.zar/",
+    "cefr": "",
+    "category": "人文讲座",
+    "page": 27
+  },
+  {
+    "id": "word-571",
+    "word": "forecast",
+    "translation": "预测；预报",
+    "ipa": "/'fo. ka:st/",
+    "cefr": "",
+    "category": "人文讲座",
+    "page": 27
+  },
+  {
+    "id": "word-572",
+    "word": "innovation",
+    "translation": "新观念；新方法；（新观念或方法",
+    "ipa": "/, n.a ver.fan/",
+    "cefr": "C1",
+    "category": "人文讲座",
+    "page": 27
+  },
+  {
+    "id": "word-573",
+    "word": "invent",
+    "translation": "发明，创造",
+    "ipa": "/in vent/",
+    "cefr": "B1",
+    "category": "人文讲座",
+    "page": 27
+  },
+  {
+    "id": "word-574",
+    "word": "involve",
+    "translation": "使参与，牵涉",
+    "ipa": "/in volv/",
+    "cefr": "B1",
+    "category": "人文讲座",
+    "page": 27
+  },
+  {
+    "id": "word-575",
+    "word": "labour",
+    "translation": "（尤指干体力活儿的）工人，劳工",
+    "ipa": "/ler.bar/",
+    "cefr": "C1",
+    "category": "人文讲座",
+    "page": 27
+  },
+  {
+    "id": "word-576",
+    "word": "observe",
+    "translation": "观察：观测；监视",
+    "ipa": "/ab'za v/",
+    "cefr": "B2",
+    "category": "人文讲座",
+    "page": 27
+  },
+  {
+    "id": "word-577",
+    "word": "occurrence",
+    "translation": "发生的事；事件；遭遇",
+    "ipa": "/a kar.ans/",
+    "cefr": "C1",
+    "category": "人文讲座",
+    "page": 27
+  },
+  {
+    "id": "word-578",
+    "word": "phenomenon",
+    "translation": "（尤指不寻常的或有趣的）现象",
+    "ipa": "/fe'nom.z.nan/",
+    "cefr": "C1",
+    "category": "人文讲座",
+    "page": 27
+  },
+  {
+    "id": "word-579",
+    "word": "possession",
+    "translation": "拥有，占有；具有",
+    "ipa": "/pa zef.an/",
+    "cefr": "C2",
+    "category": "人文讲座",
+    "page": 27
+  },
+  {
+    "id": "word-580",
+    "word": "prehistoric",
+    "translation": "史前的，有文字记载的历史以前的",
+    "ipa": "/.pri:.h/'stor.rk/",
+    "cefr": "",
+    "category": "人文讲座",
+    "page": 27
+  },
+  {
+    "id": "word-581",
+    "word": "production",
+    "translation": "生产；制造",
+    "ipa": "/pra dak. fan/",
+    "cefr": "B2",
+    "category": "人文讲座",
+    "page": 27
+  },
+  {
+    "id": "word-582",
+    "word": "programme",
+    "translation": "计划，方案",
+    "ipa": "/pra.græm/",
+    "cefr": "B2",
+    "category": "人文讲座",
+    "page": 27
+  },
+  {
+    "id": "word-583",
+    "word": "retail",
+    "translation": "零售，零卖",
+    "ipa": "/risterl/",
+    "cefr": "C1",
+    "category": "人文讲座",
+    "page": 27
+  },
+  {
+    "id": "word-584",
+    "word": "revolution",
+    "translation": "（通常指改变政治体制的）革命",
+    "ipa": "/, rev.a lu: fan/",
+    "cefr": "B2",
+    "category": "人文讲座",
+    "page": 27
+  },
+  {
+    "id": "word-585",
+    "word": "substance",
+    "translation": "物质；材料",
+    "ipa": "/'sab.stans/",
+    "cefr": "B2",
+    "category": "人文讲座",
+    "page": 27
+  },
+  {
+    "id": "word-586",
+    "word": "attitude",
+    "translation": "心态；看法；态度",
+    "ipa": "/'at..tfu:d/",
+    "cefr": "B1",
+    "category": "人文讲座",
+    "page": 28
+  },
+  {
+    "id": "word-587",
+    "word": "bar",
+    "translation": "条状物",
+    "ipa": "/ba:r/",
+    "cefr": "B1",
+    "category": "人文讲座",
+    "page": 28
+  },
+  {
+    "id": "word-588",
+    "word": "depression",
+    "translation": "忧郁，抑郁；消沉，沮丧",
+    "ipa": "/d/ pref.an/",
+    "cefr": "B2",
+    "category": "人文讲座",
+    "page": 28
+  },
+  {
+    "id": "word-589",
+    "word": "efficiency",
+    "translation": "效率；效能；功效",
+    "ipa": "/1'fif.an.si/",
+    "cefr": "B2",
+    "category": "人文讲座",
+    "page": 28
+  },
+  {
+    "id": "word-590",
+    "word": "externall",
+    "translation": "外面的；外表的；来自外部的",
+    "ipa": "/ik'st3:.nal/",
+    "cefr": "B2",
+    "category": "人文讲座",
+    "page": 28
+  },
+  {
+    "id": "word-591",
+    "word": "gender",
+    "translation": "性别",
+    "ipa": "/dgen.der/",
+    "cefr": "B2",
+    "category": "人文讲座",
+    "page": 28
+  },
+  {
+    "id": "word-592",
+    "word": "industry",
+    "translation": "工业；产业；生产制造；行业",
+    "ipa": "/ in.de.stri/",
+    "cefr": "B2",
+    "category": "人文讲座",
+    "page": 28
+  },
+  {
+    "id": "word-593",
+    "word": "leading",
+    "translation": "主要的；顶级的，尖端的",
+    "ipa": "/li: din/",
+    "cefr": "B2",
+    "category": "人文讲座",
+    "page": 28
+  },
+  {
+    "id": "word-594",
+    "word": "liquid",
+    "translation": "液态的",
+    "ipa": "/lik.wid/",
+    "cefr": "",
+    "category": "人文讲座",
+    "page": 28
+  },
+  {
+    "id": "word-595",
+    "word": "maintenance",
+    "translation": "养护（保持道路、建筑、机器设备等",
+    "ipa": "/me/n.tan.ans/",
+    "cefr": "B2",
+    "category": "人文讲座",
+    "page": 28
+  },
+  {
+    "id": "word-596",
+    "word": "manufacture",
+    "translation": "生产",
+    "ipa": "/.mæn.ja'fæk.t far/",
+    "cefr": "B2",
+    "category": "人文讲座",
+    "page": 28
+  },
+  {
+    "id": "word-597",
+    "word": "memory",
+    "translation": "记忆力，记性",
+    "ipa": "/mem.ar.i/",
+    "cefr": "B1",
+    "category": "人文讲座",
+    "page": 28
+  },
+  {
+    "id": "word-598",
+    "word": "mirror",
+    "translation": "镜，镜子",
+    "ipa": "/'m/r.ar/",
+    "cefr": "A2",
+    "category": "人文讲座",
+    "page": 28
+  },
+  {
+    "id": "word-599",
+    "word": "mobility",
+    "translation": "活动性；流动性",
+    "ipa": "/mas 'bil.a.ti/",
+    "cefr": "",
+    "category": "人文讲座",
+    "page": 28
+  },
+  {
+    "id": "word-600",
+    "word": "monument",
+    "translation": "纪念碑；纪念塔；纪念馆",
+    "ipa": "/mon.ja.mant/",
+    "cefr": "B2",
+    "category": "人文讲座",
+    "page": 28
+  },
+  {
+    "id": "word-601",
+    "word": "movement",
+    "translation": "（有特定目标的）运动",
+    "ipa": "/mu.v.mant/",
+    "cefr": "C1",
+    "category": "人文讲座",
+    "page": 28
+  },
+  {
+    "id": "word-602",
+    "word": "pattern",
+    "translation": "方式，形式；模式",
+    "ipa": "/pat.en/",
+    "cefr": "B2",
+    "category": "人文讲座",
+    "page": 28
+  },
+  {
+    "id": "word-603",
+    "word": "scenario",
+    "translation": "可能发生的事态；设想",
+    "ipa": "/sina:.ri.au/",
+    "cefr": "C2",
+    "category": "人文讲座",
+    "page": 28
+  },
+  {
+    "id": "word-604",
+    "word": "shipping",
+    "translation": "运输；（尤指）船运，海运",
+    "ipa": "/'Sip.in/",
+    "cefr": "",
+    "category": "人文讲座",
+    "page": 28
+  },
+  {
+    "id": "word-605",
+    "word": "significance",
+    "translation": "重要性，重要意义",
+    "ipa": "/signif. .kans/",
+    "cefr": "C1",
+    "category": "人文讲座",
+    "page": 28
+  },
+  {
+    "id": "word-606",
+    "word": "sociable",
+    "translation": "好交际的；善于社交的；合群的",
+    "ipa": "/'sa.fa.bal/",
+    "cefr": "B1",
+    "category": "人文讲座",
+    "page": 28
+  },
+  {
+    "id": "word-607",
+    "word": "solar",
+    "translation": "太阳的；来自太阳的；使用太阳能的",
+    "ipa": "/'sau.lar/",
+    "cefr": "B2",
+    "category": "人文讲座",
+    "page": 28
+  },
+  {
+    "id": "word-608",
+    "word": "solid",
+    "translation": "固体的，固态的",
+    "ipa": "/'sol.d/",
+    "cefr": "C1",
+    "category": "人文讲座",
+    "page": 28
+  },
+  {
+    "id": "word-609",
+    "word": "survey",
+    "translation": "调查",
+    "ipa": "/'s3: ver/",
+    "cefr": "B2",
+    "category": "人文讲座",
+    "page": 28
+  },
+  {
+    "id": "word-610",
+    "word": "talent",
+    "translation": "天分，天赋；天才，有天分者",
+    "ipa": "/tæl.ant/",
+    "cefr": "B1",
+    "category": "人文讲座",
+    "page": 28
+  },
+  {
+    "id": "word-611",
+    "word": "transport",
+    "translation": "交通工具；运输，运送，输送",
+    "ipa": "/'træn.spo.t/",
+    "cefr": "",
+    "category": "人文讲座",
+    "page": 28
+  },
+  {
+    "id": "word-612",
+    "word": "value",
+    "translation": "珍视，重视",
+    "ipa": "/val.ju:/",
+    "cefr": "B2",
+    "category": "人文讲座",
+    "page": 28
+  },
+  {
+    "id": "word-613",
+    "word": "weapon",
+    "translation": "武器，兵器；凶器",
+    "ipa": "/wep.an/",
+    "cefr": "B2",
+    "category": "人文讲座",
+    "page": 28
+  },
+  {
+    "id": "word-614",
+    "word": "affect",
+    "translation": "影响；侵袭；感染；打动",
+    "ipa": "/a fekt/",
+    "cefr": "B2",
+    "category": "人文讲座",
+    "page": 29
+  },
+  {
+    "id": "word-615",
+    "word": "air condition",
+    "translation": "空气状况",
+    "ipa": "/'ea.kan d/f.an/",
+    "cefr": "",
+    "category": "人文讲座",
+    "page": 29
+  },
+  {
+    "id": "word-616",
+    "word": "analyse",
+    "translation": "分析",
+    "ipa": "/'æn.al.aiz/",
+    "cefr": "B2",
+    "category": "人文讲座",
+    "page": 29
+  },
+  {
+    "id": "word-617",
+    "word": "consolidation",
+    "translation": "巩固，加强，强化",
+    "ipa": "/kan sol./'der.fan/",
+    "cefr": "",
+    "category": "人文讲座",
+    "page": 29
+  },
+  {
+    "id": "word-618",
+    "word": "discover",
+    "translation": "（尤指首次）发现，找到",
+    "ipa": "/disknv.er/",
+    "cefr": "B1",
+    "category": "人文讲座",
+    "page": 29
+  },
+  {
+    "id": "word-619",
+    "word": "effect",
+    "translation": "效果；影响；结果",
+    "ipa": "/1 fekt/",
+    "cefr": "B1",
+    "category": "人文讲座",
+    "page": 29
+  },
+  {
+    "id": "word-620",
+    "word": "establish",
+    "translation": "建立；设立；创立",
+    "ipa": "/i'stæb.l,f/",
+    "cefr": "B2",
+    "category": "人文讲座",
+    "page": 29
+  },
+  {
+    "id": "word-621",
+    "word": "feature",
+    "translation": "特色，特征，特点",
+    "ipa": "/'fi: tfar/",
+    "cefr": "B2",
+    "category": "人文讲座",
+    "page": 29
+  },
+  {
+    "id": "word-622",
+    "word": "function",
+    "translation": "功能，用途；职责",
+    "ipa": "/'fank.fan/",
+    "cefr": "B2",
+    "category": "人文讲座",
+    "page": 29
+  },
+  {
+    "id": "word-623",
+    "word": "hypothesis",
+    "translation": "假设，假说",
+    "ipa": "/ha/'pol.a.s/s/",
+    "cefr": "C2",
+    "category": "人文讲座",
+    "page": 29
+  },
+  {
+    "id": "word-624",
+    "word": "interaction",
+    "translation": "交流，交往；相互作用，相互影响",
+    "ipa": "/ in.ta rak.fan/",
+    "cefr": "C1",
+    "category": "人文讲座",
+    "page": 29
+  },
+  {
+    "id": "word-625",
+    "word": "investigate",
+    "translation": "（尤指为揭开真相）调查，审查",
+    "ipa": "/in ves.t/.gert/",
+    "cefr": "B2",
+    "category": "人文讲座",
+    "page": 29
+  },
+  {
+    "id": "word-626",
+    "word": "method",
+    "translation": "方法，方式",
+    "ipa": "/'me0.ad/",
+    "cefr": "B1",
+    "category": "人文讲座",
+    "page": 29
+  },
+  {
+    "id": "word-627",
+    "word": "physical",
+    "translation": "实物的；物质的；有形的；按自然规",
+    "ipa": "/'fiz.r.kal/",
+    "cefr": "C2",
+    "category": "人文讲座",
+    "page": 29
+  },
+  {
+    "id": "word-628",
+    "word": "poverty",
+    "translation": "贫困，贫穷",
+    "ipa": "/pov.a.ti/",
+    "cefr": "B2",
+    "category": "人文讲座",
+    "page": 29
+  },
+  {
+    "id": "word-629",
+    "word": "resource",
+    "translation": "资源；财力；素质",
+    "ipa": "/ri zo:s/ /'ri:so.s/",
+    "cefr": "B2",
+    "category": "人文讲座",
+    "page": 29
+  },
+  {
+    "id": "word-630",
+    "word": "retrieval",
+    "translation": "重获，取回，检索，挽回，恢复",
+    "ipa": "/r/ tri.val/",
+    "cefr": "",
+    "category": "人文讲座",
+    "page": 29
+  },
+  {
+    "id": "word-631",
+    "word": "social",
+    "translation": "社会的；群居的",
+    "ipa": "/'sau.fal/",
+    "cefr": "B1",
+    "category": "人文讲座",
+    "page": 29
+  },
+  {
+    "id": "word-632",
+    "word": "wealthy",
+    "translation": "富有的，有钱的",
+    "ipa": "/wel.ei/",
+    "cefr": "B2",
+    "category": "人文讲座",
+    "page": 29
+  },
+  {
+    "id": "word-633",
+    "word": "board",
+    "translation": "董事会",
+    "ipa": "baid/",
+    "cefr": "B2",
+    "category": "商务讲座",
+    "page": 30
+  },
+  {
+    "id": "word-634",
+    "word": "call center",
+    "translation": "呼叫中心",
+    "ipa": "/ ka:1 , sen.ta/",
+    "cefr": "",
+    "category": "商务讲座",
+    "page": 30
+  },
+  {
+    "id": "word-635",
+    "word": "company",
+    "translation": "公司",
+    "ipa": "/ kam.pa.ni/",
+    "cefr": "A2",
+    "category": "商务讲座",
+    "page": 30
+  },
+  {
+    "id": "word-636",
+    "word": "corporation",
+    "translation": "大公司",
+    "ipa": "/, ka:par 'ez.fan/",
+    "cefr": "B2",
+    "category": "商务讲座",
+    "page": 30
+  },
+  {
+    "id": "word-637",
+    "word": "department",
+    "translation": "部门",
+    "ipa": "/di pa.t.mant/",
+    "cefr": "A2",
+    "category": "商务讲座",
+    "page": 30
+  },
+  {
+    "id": "word-638",
+    "word": "employ",
+    "translation": "雇佣",
+    "ipa": "/im plai/",
+    "cefr": "B1",
+    "category": "商务讲座",
+    "page": 30
+  },
+  {
+    "id": "word-639",
+    "word": "employer",
+    "translation": "雇主",
+    "ipa": "/mm plar.ar/",
+    "cefr": "B1",
+    "category": "商务讲座",
+    "page": 30
+  },
+  {
+    "id": "word-640",
+    "word": "employment",
+    "translation": "雇佣",
+    "ipa": "/m plar.mant/",
+    "cefr": "B1",
+    "category": "商务讲座",
+    "page": 30
+  },
+  {
+    "id": "word-641",
+    "word": "enterprise",
+    "translation": "企（事）业单位",
+    "ipa": "/ en.tapraiz/",
+    "cefr": "C1",
+    "category": "商务讲座",
+    "page": 30
+  },
+  {
+    "id": "word-642",
+    "word": "firm",
+    "translation": "公司",
+    "ipa": "/fз.m/",
+    "cefr": "B2",
+    "category": "商务讲座",
+    "page": 30
+  },
+  {
+    "id": "word-643",
+    "word": "human resource",
+    "translation": "人事，人力资源",
+    "ipa": "/'hju:man ri so.s/",
+    "cefr": "",
+    "category": "商务讲座",
+    "page": 30
+  },
+  {
+    "id": "word-644",
+    "word": "junior",
+    "translation": "初级的",
+    "ipa": "/ dzu:.ni.ar/",
+    "cefr": "",
+    "category": "商务讲座",
+    "page": 30
+  },
+  {
+    "id": "word-645",
+    "word": "manage",
+    "translation": "管理",
+    "ipa": "/ man.r.d3/",
+    "cefr": "B1",
+    "category": "商务讲座",
+    "page": 30
+  },
+  {
+    "id": "word-646",
+    "word": "manager",
+    "translation": "经理",
+    "ipa": "/'mæn.z.d zer/",
+    "cefr": "B1",
+    "category": "商务讲座",
+    "page": 30
+  },
+  {
+    "id": "word-647",
+    "word": "manufacturer",
+    "translation": "制造商",
+    "ipa": "/, mæn.ja fak.t/ar.ar/",
+    "cefr": "B2",
+    "category": "商务讲座",
+    "page": 30
+  },
+  {
+    "id": "word-648",
+    "word": "marketing",
+    "translation": "市场营销",
+    "ipa": "/'ma.:kx.tin/",
+    "cefr": "B2",
+    "category": "商务讲座",
+    "page": 30
+  },
+  {
+    "id": "word-649",
+    "word": "parent organization",
+    "translation": "母公司",
+    "ipa": "/, pearant ti.t far",
+    "cefr": "",
+    "category": "商务讲座",
+    "page": 30
+  },
+  {
+    "id": "word-650",
+    "word": "Research and",
+    "translation": "研发",
+    "ipa": "/n's3:tf ænd",
+    "cefr": "",
+    "category": "商务讲座",
+    "page": 30
+  },
+  {
+    "id": "word-651",
+    "word": "sales",
+    "translation": "销售",
+    "ipa": "/senz/",
+    "cefr": "",
+    "category": "商务讲座",
+    "page": 30
+  },
+  {
+    "id": "word-652",
+    "word": "sector",
+    "translation": "部门，行业，领域",
+    "ipa": "/'sek.tar/",
+    "cefr": "C1",
+    "category": "商务讲座",
+    "page": 30
+  },
+  {
+    "id": "word-653",
+    "word": "senior",
+    "translation": "高级的，资深的",
+    "ipa": "/'si.:ni.ar/",
+    "cefr": "B2",
+    "category": "商务讲座",
+    "page": 30
+  },
+  {
+    "id": "word-654",
+    "word": "staff",
+    "translation": "（全体）员工",
+    "ipa": "/sta.f/",
+    "cefr": "A2",
+    "category": "商务讲座",
+    "page": 30
+  },
+  {
+    "id": "word-655",
+    "word": "subsidiary",
+    "translation": "子公司",
+    "ipa": "/sab sid.i.a.ri/",
+    "cefr": "",
+    "category": "商务讲座",
+    "page": 30
+  },
+  {
+    "id": "word-656",
+    "word": "workforce",
+    "translation": "全体劳动力",
+    "ipa": "/ w3.k.fo:s/",
+    "cefr": "C2",
+    "category": "商务讲座",
+    "page": 30
+  },
+  {
+    "id": "word-657",
+    "word": "administrator",
+    "translation": "管理者",
+    "ipa": "",
+    "cefr": "C1",
+    "category": "商务讲座",
+    "page": 31
+  },
+  {
+    "id": "word-658",
+    "word": "compete",
+    "translation": "竞争",
+    "ipa": "/kam pi.t/",
+    "cefr": "B2",
+    "category": "商务讲座",
+    "page": 31
+  },
+  {
+    "id": "word-659",
+    "word": "competition",
+    "translation": "竞争",
+    "ipa": "/, kbm.pa tif.an/",
+    "cefr": "B2",
+    "category": "商务讲座",
+    "page": 31
+  },
+  {
+    "id": "word-660",
+    "word": "competitive",
+    "translation": "有竞争力的",
+    "ipa": "/kam pet.z.tv/",
+    "cefr": "B2",
+    "category": "商务讲座",
+    "page": 31
+  },
+  {
+    "id": "word-661",
+    "word": "competitor",
+    "translation": "竞争对手",
+    "ipa": "/, kdm.pa tif.an/",
+    "cefr": "B2",
+    "category": "商务讲座",
+    "page": 31
+  },
+  {
+    "id": "word-662",
+    "word": "consultant",
+    "translation": "顾问",
+    "ipa": "/kan sal.tant/",
+    "cefr": "B2",
+    "category": "商务讲座",
+    "page": 31
+  },
+  {
+    "id": "word-663",
+    "word": "consumer",
+    "translation": "消费者",
+    "ipa": "/kan sju.:mar/",
+    "cefr": "B2",
+    "category": "商务讲座",
+    "page": 31
+  },
+  {
+    "id": "word-664",
+    "word": "copy",
+    "translation": "复制",
+    "ipa": "/ 'kDp.i/",
+    "cefr": "A2",
+    "category": "商务讲座",
+    "page": 31
+  },
+  {
+    "id": "word-665",
+    "word": "copyright",
+    "translation": "版权",
+    "ipa": "/'kdp.i.rart/",
+    "cefr": "",
+    "category": "商务讲座",
+    "page": 31
+  },
+  {
+    "id": "word-666",
+    "word": "customer",
+    "translation": "客户",
+    "ipa": "/ 'kms.ta.mar/",
+    "cefr": "A2",
+    "category": "商务讲座",
+    "page": 31
+  },
+  {
+    "id": "word-667",
+    "word": "demand",
+    "translation": "需求",
+    "ipa": "/di ma.nd/",
+    "cefr": "B1",
+    "category": "商务讲座",
+    "page": 31
+  },
+  {
+    "id": "word-668",
+    "word": "director",
+    "translation": "主任，总监",
+    "ipa": "/dar rek.tar/",
+    "cefr": "B1",
+    "category": "商务讲座",
+    "page": 31
+  },
+  {
+    "id": "word-669",
+    "word": "expert",
+    "translation": "专家",
+    "ipa": "/ 'ek.sp3.t/",
+    "cefr": "B1",
+    "category": "商务讲座",
+    "page": 31
+  },
+  {
+    "id": "word-670",
+    "word": "hierarchy",
+    "translation": "等级制度",
+    "ipa": "/'hara.ra.:ki/",
+    "cefr": "C2",
+    "category": "商务讲座",
+    "page": 31
+  },
+  {
+    "id": "word-671",
+    "word": "mediator",
+    "translation": "调停者；调解人",
+    "ipa": "/ mi.di.ezt/",
+    "cefr": "",
+    "category": "商务讲座",
+    "page": 31
+  },
+  {
+    "id": "word-672",
+    "word": "operation",
+    "translation": "经营",
+    "ipa": "/, sp.ar er./an/",
+    "cefr": "C1",
+    "category": "商务讲座",
+    "page": 31
+  },
+  {
+    "id": "word-673",
+    "word": "patent",
+    "translation": "专利",
+    "ipa": "/ pertant/",
+    "cefr": "",
+    "category": "商务讲座",
+    "page": 31
+  },
+  {
+    "id": "word-674",
+    "word": "product",
+    "translation": "产品",
+    "ipa": "/ prod.1kt/",
+    "cefr": "B1",
+    "category": "商务讲座",
+    "page": 31
+  },
+  {
+    "id": "word-675",
+    "word": "profit",
+    "translation": "利润",
+    "ipa": "/ prof.t/",
+    "cefr": "B2",
+    "category": "商务讲座",
+    "page": 31
+  },
+  {
+    "id": "word-676",
+    "word": "promote",
+    "translation": "推广",
+    "ipa": "/pra'mart/",
+    "cefr": "B2",
+    "category": "商务讲座",
+    "page": 31
+  },
+  {
+    "id": "word-677",
+    "word": "rival",
+    "translation": "对手，竞争者",
+    "ipa": "/ rar.val/",
+    "cefr": "C1",
+    "category": "商务讲座",
+    "page": 31
+  },
+  {
+    "id": "word-678",
+    "word": "service",
+    "translation": "服务",
+    "ipa": "/ s3.:vIs/",
+    "cefr": "B1",
+    "category": "商务讲座",
+    "page": 31
+  },
+  {
+    "id": "word-679",
+    "word": "strategic",
+    "translation": "战略性的",
+    "ipa": "/stra ti.:d31k/",
+    "cefr": "C1",
+    "category": "商务讲座",
+    "page": 31
+  },
+  {
+    "id": "word-680",
+    "word": "strategy",
+    "translation": "策略，战略",
+    "ipa": "/'strat.a.dgi/",
+    "cefr": "B2",
+    "category": "商务讲座",
+    "page": 31
+  },
+  {
+    "id": "word-681",
+    "word": "structure",
+    "translation": "结构",
+    "ipa": "/ strak.t/ar/",
+    "cefr": "B2",
+    "category": "商务讲座",
+    "page": 31
+  },
+  {
+    "id": "word-682",
+    "word": "supply",
+    "translation": "供应，供给",
+    "ipa": "/sa plai/",
+    "cefr": "B2",
+    "category": "商务讲座",
+    "page": 31
+  },
+  {
+    "id": "word-683",
+    "word": "workplace",
+    "translation": "工作场所",
+    "ipa": "/ w3:k.pleis/",
+    "cefr": "C1",
+    "category": "商务讲座",
+    "page": 31
+  },
+  {
+    "id": "word-684",
+    "word": "absence from work",
+    "translation": "矿工",
+    "ipa": "/'absens from w3:k /",
+    "cefr": "",
+    "category": "商务讲座",
+    "page": 32
+  },
+  {
+    "id": "word-685",
+    "word": "advert",
+    "translation": "广告",
+    "ipa": "/ 'ad.v3.t/",
+    "cefr": "B1",
+    "category": "商务讲座",
+    "page": 32
+  },
+  {
+    "id": "word-686",
+    "word": "advertise",
+    "translation": "做广告，宣传",
+    "ipa": "/ 'ad.va.taiz/",
+    "cefr": "B1",
+    "category": "商务讲座",
+    "page": 32
+  },
+  {
+    "id": "word-687",
+    "word": "autocratic",
+    "translation": "专制的",
+    "ipa": "/o: 'tok.ra.si/",
+    "cefr": "B2",
+    "category": "商务讲座",
+    "page": 32
+  },
+  {
+    "id": "word-688",
+    "word": "bully",
+    "translation": "欺负，恐吓；",
+    "ipa": "/ 'but.i/",
+    "cefr": "C1",
+    "category": "商务讲座",
+    "page": 32
+  },
+  {
+    "id": "word-689",
+    "word": "business opportunities",
+    "translation": "商业机会",
+    "ipa": "/biznis opa'tju:nitiz/",
+    "cefr": "",
+    "category": "商务讲座",
+    "page": 32
+  },
+  {
+    "id": "word-690",
+    "word": "campaign",
+    "translation": "一系列的活动",
+    "ipa": "/kam pem/",
+    "cefr": "C1",
+    "category": "商务讲座",
+    "page": 32
+  },
+  {
+    "id": "word-691",
+    "word": "collaborative",
+    "translation": "合作的",
+    "ipa": "/ka lab.a.rext/",
+    "cefr": "C1",
+    "category": "商务讲座",
+    "page": 32
+  },
+  {
+    "id": "word-692",
+    "word": "conflict",
+    "translation": "冲突",
+    "ipa": "/ 'konflzkt /",
+    "cefr": "B2",
+    "category": "商务讲座",
+    "page": 32
+  },
+  {
+    "id": "word-693",
+    "word": "consultative",
+    "translation": "今间日",
+    "ipa": "/kan 'sl.ta.tv/",
+    "cefr": "",
+    "category": "商务讲座",
+    "page": 32
+  },
+  {
+    "id": "word-694",
+    "word": "cooperation",
+    "translation": "合作",
+    "ipa": "/kau sp.ar.ert/",
+    "cefr": "B2",
+    "category": "商务讲座",
+    "page": 32
+  },
+  {
+    "id": "word-695",
+    "word": "customers' needs",
+    "translation": "客户的需求",
+    "ipa": "/ kustamaz ni:dz/",
+    "cefr": "",
+    "category": "商务讲座",
+    "page": 32
+  },
+  {
+    "id": "word-696",
+    "word": "democratic",
+    "translation": "民主的",
+    "ipa": "/, dem.a krat.Jk/",
+    "cefr": "B2",
+    "category": "商务讲座",
+    "page": 32
+  },
+  {
+    "id": "word-697",
+    "word": "duplicate",
+    "translation": "复制，复制品",
+    "ipa": "",
+    "cefr": "",
+    "category": "商务讲座",
+    "page": 32
+  },
+  {
+    "id": "word-698",
+    "word": "effective",
+    "translation": "有效的",
+    "ipa": "/ I fek.tv/",
+    "cefr": "B2",
+    "category": "商务讲座",
+    "page": 32
+  },
+  {
+    "id": "word-699",
+    "word": "efficient",
+    "translation": "高效的",
+    "ipa": "/I 'frf.ant/",
+    "cefr": "B1",
+    "category": "商务讲座",
+    "page": 32
+  },
+  {
+    "id": "word-700",
+    "word": "flexible",
+    "translation": "有弹性的，灵活的",
+    "ipa": "/ 'flek.sa.bal/",
+    "cefr": "B2",
+    "category": "商务讲座",
+    "page": 32
+  },
+  {
+    "id": "word-701",
+    "word": "follower",
+    "translation": "跟随者",
+    "ipa": "/ 'fbl.aw.ar/",
+    "cefr": "",
+    "category": "商务讲座",
+    "page": 32
+  },
+  {
+    "id": "word-702",
+    "word": "incompatible",
+    "translation": "不兼容的",
+    "ipa": "/, In.kam pat.a.bal/",
+    "cefr": "C1",
+    "category": "商务讲座",
+    "page": 32
+  },
+  {
+    "id": "word-703",
+    "word": "launch",
+    "translation": "上市",
+    "ipa": "/aint //",
+    "cefr": "C1",
+    "category": "商务讲座",
+    "page": 32
+  },
+  {
+    "id": "word-704",
+    "word": "market share",
+    "translation": "市场占有率",
+    "ipa": "/'ma:ket, fear/",
+    "cefr": "",
+    "category": "商务讲座",
+    "page": 32
+  },
+  {
+    "id": "word-705",
+    "word": "merger",
+    "translation": "兼并，兼购",
+    "ipa": "/ m3: dzar/",
+    "cefr": "C2",
+    "category": "商务讲座",
+    "page": 32
+  },
+  {
+    "id": "word-706",
+    "word": "pessimistic",
+    "translation": "悲观的",
+    "ipa": "/, pes.I mrs.tzk/",
+    "cefr": "B2",
+    "category": "商务讲座",
+    "page": 32
+  },
+  {
+    "id": "word-707",
+    "word": "pioneer",
+    "translation": "开拓者",
+    "ipa": "/parentar",
+    "cefr": "C2",
+    "category": "商务讲座",
+    "page": 32
+  },
+  {
+    "id": "word-708",
+    "word": "replicate",
+    "translation": "复制；（精确地）仿制",
+    "ipa": "/ rep.Ir.kert/",
+    "cefr": "",
+    "category": "商务讲座",
+    "page": 32
+  },
+  {
+    "id": "word-709",
+    "word": "resolve conflicts",
+    "translation": "解决冲突",
+    "ipa": "/ri' zolv konflikts/",
+    "cefr": "",
+    "category": "商务讲座",
+    "page": 32
+  },
+  {
+    "id": "word-710",
+    "word": "superiority",
+    "translation": "优越性",
+    "ipa": "/su:, pia.ri br.a.ti/",
+    "cefr": "C2",
+    "category": "商务讲座",
+    "page": 32
+  },
+  {
+    "id": "word-711",
+    "word": "takeover",
+    "translation": "收购，接管",
+    "ipa": "",
+    "cefr": "C1",
+    "category": "商务讲座",
+    "page": 32
+  },
+  {
+    "id": "word-712",
+    "word": "target",
+    "translation": "以..为目标/目标",
+    "ipa": "",
+    "cefr": "B2",
+    "category": "商务讲座",
+    "page": 32
+  },
+  {
+    "id": "word-713",
+    "word": "victim",
+    "translation": "受害者",
+    "ipa": "/ vIk.tm/",
+    "cefr": "B2",
+    "category": "商务讲座",
+    "page": 32
+  },
+  {
+    "id": "word-714",
+    "word": "anxiety",
+    "translation": "焦虑",
+    "ipa": "/æn zar.a.ti/",
+    "cefr": "B2",
+    "category": "商务讲座",
+    "page": 33
+  },
+  {
+    "id": "word-715",
+    "word": "argument",
+    "translation": "争吵",
+    "ipa": "/'a:g.ja.mant/",
+    "cefr": "B1",
+    "category": "商务讲座",
+    "page": 33
+  },
+  {
+    "id": "word-716",
+    "word": "business model",
+    "translation": "商业模式",
+    "ipa": "/ biznis modal/",
+    "cefr": "",
+    "category": "商务讲座",
+    "page": 33
+  },
+  {
+    "id": "word-717",
+    "word": "collaboration",
+    "translation": "协作，合作",
+    "ipa": "/ka læb.a.rert/",
+    "cefr": "C1",
+    "category": "商务讲座",
+    "page": 33
+  },
+  {
+    "id": "word-718",
+    "word": "combination",
+    "translation": "联合，结合",
+    "ipa": "/, kom.bIner.fan/",
+    "cefr": "B2",
+    "category": "商务讲座",
+    "page": 33
+  },
+  {
+    "id": "word-719",
+    "word": "communication",
+    "translation": "沟通",
+    "ipa": "/ka, mju:nz ker.fan/",
+    "cefr": "B1",
+    "category": "商务讲座",
+    "page": 33
+  },
+  {
+    "id": "word-720",
+    "word": "company value",
+    "translation": "企业文化",
+    "ipa": "/ kampani valju: /",
+    "cefr": "",
+    "category": "商务讲座",
+    "page": 33
+  },
+  {
+    "id": "word-721",
+    "word": "compromise",
+    "translation": "妥协，让步",
+    "ipa": "/'kbm.pra.maiz/",
+    "cefr": "B2",
+    "category": "商务讲座",
+    "page": 33
+  },
+  {
+    "id": "word-722",
+    "word": "confusion",
+    "translation": "混乱局面，困惑",
+    "ipa": "/kan fju: zan/",
+    "cefr": "B2",
+    "category": "商务讲座",
+    "page": 33
+  },
+  {
+    "id": "word-723",
+    "word": "creative",
+    "translation": "有创意的",
+    "ipa": "/kri 'er.tv/",
+    "cefr": "B1",
+    "category": "商务讲座",
+    "page": 33
+  },
+  {
+    "id": "word-724",
+    "word": "creativity",
+    "translation": "创意",
+    "ipa": "/kri er.tv/",
+    "cefr": "B1",
+    "category": "商务讲座",
+    "page": 33
+  },
+  {
+    "id": "word-725",
+    "word": "excellence",
+    "translation": "优秀，卓越",
+    "ipa": "/'ek.sal.ans/",
+    "cefr": "",
+    "category": "商务讲座",
+    "page": 33
+  },
+  {
+    "id": "word-726",
+    "word": "incompatible personality",
+    "translation": "性格不相容",
+    "ipa": "sanaliti /",
+    "cefr": "",
+    "category": "商务讲座",
+    "page": 33
+  },
+  {
+    "id": "word-727",
+    "word": "industriousness",
+    "translation": "勤劳",
+    "ipa": "/m dss.tri.as.nas/",
+    "cefr": "",
+    "category": "商务讲座",
+    "page": 33
+  },
+  {
+    "id": "word-728",
+    "word": "innovative",
+    "translation": "创新的",
+    "ipa": "/ 'm.a.va.tv/",
+    "cefr": "C1",
+    "category": "商务讲座",
+    "page": 33
+  },
+  {
+    "id": "word-729",
+    "word": "operational",
+    "translation": "经营的",
+    "ipa": "/, sp.ar 'er.fan. al/",
+    "cefr": "",
+    "category": "商务讲座",
+    "page": 33
+  },
+  {
+    "id": "word-730",
+    "word": "organizational",
+    "translation": "组织的",
+    "ipa": "/.:gan.ar zer.fan.al/",
+    "cefr": "",
+    "category": "商务讲座",
+    "page": 33
+  },
+  {
+    "id": "word-731",
+    "word": "original",
+    "translation": "原创的",
+    "ipa": "/arrd 3.an.al/",
+    "cefr": "B1",
+    "category": "商务讲座",
+    "page": 33
+  },
+  {
+    "id": "word-732",
+    "word": "physical violence",
+    "translation": "身体暴力",
+    "ipa": "",
+    "cefr": "",
+    "category": "商务讲座",
+    "page": 33
+  },
+  {
+    "id": "word-733",
+    "word": "practice",
+    "translation": "习俗，操作",
+    "ipa": "/ prak.trs/",
+    "cefr": "B2",
+    "category": "商务讲座",
+    "page": 33
+  },
+  {
+    "id": "word-734",
+    "word": "realistic",
+    "translation": "现实的",
+    "ipa": "/, ria lis.tik/",
+    "cefr": "B2",
+    "category": "商务讲座",
+    "page": 33
+  },
+  {
+    "id": "word-735",
+    "word": "rights",
+    "translation": "权力",
+    "ipa": "/rarts/",
+    "cefr": "",
+    "category": "商务讲座",
+    "page": 33
+  },
+  {
+    "id": "word-736",
+    "word": "safety",
+    "translation": "安全",
+    "ipa": "/ serf.ti/",
+    "cefr": "B2",
+    "category": "商务讲座",
+    "page": 33
+  },
+  {
+    "id": "word-737",
+    "word": "set up",
+    "translation": "创立，创建",
+    "ipa": "/ set 1p/",
+    "cefr": "",
+    "category": "商务讲座",
+    "page": 33
+  },
+  {
+    "id": "word-738",
+    "word": "system",
+    "translation": "制度，系统",
+    "ipa": "/ sistam/",
+    "cefr": "B1",
+    "category": "商务讲座",
+    "page": 33
+  },
+  {
+    "id": "word-739",
+    "word": "time-consuming",
+    "translation": "耗时的",
+    "ipa": "/tazm.kan, sjumin/",
+    "cefr": "C1",
+    "category": "商务讲座",
+    "page": 33
+  },
+  {
+    "id": "word-740",
+    "word": "uncertainty",
+    "translation": "不确定性",
+    "ipa": "/an s3: tan.ti/",
+    "cefr": "C1",
+    "category": "商务讲座",
+    "page": 33
+  },
+  {
+    "id": "word-741",
+    "word": "vision",
+    "translation": "远见卓识",
+    "ipa": "/ vI3.an/",
+    "cefr": "B2",
+    "category": "商务讲座",
+    "page": 33
+  },
+  {
+    "id": "word-742",
+    "word": "consistency",
+    "translation": "一致性",
+    "ipa": "/kan sis.tan.si/",
+    "cefr": "",
+    "category": "商务讲座",
+    "page": 34
+  },
+  {
+    "id": "word-743",
+    "word": "external",
+    "translation": "外部的",
+    "ipa": "/ik 'st3.:.nal/",
+    "cefr": "B2",
+    "category": "商务讲座",
+    "page": 34
+  },
+  {
+    "id": "word-744",
+    "word": "internal",
+    "translation": "内部的",
+    "ipa": "/m t3:.nal/",
+    "cefr": "B2",
+    "category": "商务讲座",
+    "page": 34
+  },
+  {
+    "id": "word-745",
+    "word": "amphibian",
+    "translation": "两栖类的；",
+    "ipa": "adj./no",
+    "cefr": "B2",
+    "category": "动物讲座",
+    "page": 35
+  },
+  {
+    "id": "word-746",
+    "word": "ape",
+    "translation": "猿；模仿者；无教养的人；夏威",
+    "ipa": "",
+    "cefr": "B1",
+    "category": "动物讲座",
+    "page": 35
+  },
+  {
+    "id": "word-747",
+    "word": "backbone",
+    "translation": "支柱；毅力；骨干；脊椎；决心",
+    "ipa": "",
+    "cefr": "C1",
+    "category": "动物讲座",
+    "page": 35
+  },
+  {
+    "id": "word-748",
+    "word": "beast",
+    "translation": "野兽；",
+    "ipa": "",
+    "cefr": "B2",
+    "category": "动物讲座",
+    "page": 35
+  },
+  {
+    "id": "word-749",
+    "word": "calf",
+    "translation": "小牛；小牛皮；小腿肚；牛犊；",
+    "ipa": "",
+    "cefr": "B1",
+    "category": "动物讲座",
+    "page": 35
+  },
+  {
+    "id": "word-750",
+    "word": "carnivorous",
+    "translation": "食肉的；肉食性的",
+    "ipa": "",
+    "cefr": "B2",
+    "category": "动物讲座",
+    "page": 35
+  },
+  {
+    "id": "word-751",
+    "word": "cattle",
+    "translation": "牛：家畜；",
+    "ipa": "",
+    "cefr": "B2",
+    "category": "动物讲座",
+    "page": 35
+  },
+  {
+    "id": "word-752",
+    "word": "crocodile",
+    "translation": "鳄鱼；鳄鱼皮革",
+    "ipa": "",
+    "cefr": "B1",
+    "category": "动物讲座",
+    "page": 35
+  },
+  {
+    "id": "word-753",
+    "word": "dairy",
+    "translation": "奶制品；",
+    "ipa": "noun/a",
+    "cefr": "B1",
+    "category": "动物讲座",
+    "page": 35
+  },
+  {
+    "id": "word-754",
+    "word": "deteriorate",
+    "translation": "变坏；恶化，使.恶化",
+    "ipa": "",
+    "cefr": "C1",
+    "category": "动物讲座",
+    "page": 35
+  },
+  {
+    "id": "word-755",
+    "word": "ecological balance",
+    "translation": "生态平衡",
+    "ipa": "",
+    "cefr": "C1",
+    "category": "动物讲座",
+    "page": 35
+  },
+  {
+    "id": "word-756",
+    "word": "food chain",
+    "translation": "食物链",
+    "ipa": "",
+    "cefr": "A2",
+    "category": "动物讲座",
+    "page": 35
+  },
+  {
+    "id": "word-757",
+    "word": "herbivorous",
+    "translation": "食草的",
+    "ipa": "",
+    "cefr": "C1",
+    "category": "动物讲座",
+    "page": 35
+  },
+  {
+    "id": "word-758",
+    "word": "herd",
+    "translation": "兽群；",
+    "ipa": "",
+    "cefr": "B2",
+    "category": "动物讲座",
+    "page": 35
+  },
+  {
+    "id": "word-759",
+    "word": "livestock",
+    "translation": "牲畜；家畜",
+    "ipa": "",
+    "cefr": "B2",
+    "category": "动物讲座",
+    "page": 35
+  },
+  {
+    "id": "word-760",
+    "word": "mammal",
+    "translation": "哺乳动物",
+    "ipa": "",
+    "cefr": "B2",
+    "category": "动物讲座",
+    "page": 35
+  },
+  {
+    "id": "word-761",
+    "word": "omnivorous",
+    "translation": "杂食的；兴趣广泛的；什么书都",
+    "ipa": "",
+    "cefr": "B2",
+    "category": "动物讲座",
+    "page": 35
+  },
+  {
+    "id": "word-762",
+    "word": "pine",
+    "translation": "菠萝；松木",
+    "ipa": "",
+    "cefr": "B2",
+    "category": "动物讲座",
+    "page": 35
+  },
+  {
+    "id": "word-763",
+    "word": "poultry",
+    "translation": "家禽",
+    "ipa": "",
+    "cefr": "B2",
+    "category": "动物讲座",
+    "page": 35
+  },
+  {
+    "id": "word-764",
+    "word": "preservation",
+    "translation": "保存；保留；维护；保护；储藏",
+    "ipa": "",
+    "cefr": "C1",
+    "category": "动物讲座",
+    "page": 35
+  },
+  {
+    "id": "word-765",
+    "word": "reptile",
+    "translation": "爬行动物；",
+    "ipa": "adj./no",
+    "cefr": "B2",
+    "category": "动物讲座",
+    "page": 35
+  },
+  {
+    "id": "word-766",
+    "word": "species",
+    "translation": "种类；类型；种：物种；个体；",
+    "ipa": "",
+    "cefr": "A2",
+    "category": "动物讲座",
+    "page": 35
+  },
+  {
+    "id": "word-767",
+    "word": "vertebrate",
+    "translation": "脊椎动物的；有脊椎的，脊椎",
+    "ipa": "noun./a",
+    "cefr": "C1",
+    "category": "动物讲座",
+    "page": 35
+  },
+  {
+    "id": "word-768",
+    "word": "wildlife",
+    "translation": "野生动植物",
+    "ipa": "",
+    "cefr": "B2",
+    "category": "动物讲座",
+    "page": 35
+  },
+  {
+    "id": "word-769",
+    "word": "zoology",
+    "translation": "动物学；动物区系",
+    "ipa": "",
+    "cefr": "B2",
+    "category": "动物讲座",
+    "page": 35
+  },
+  {
+    "id": "word-770",
+    "word": "butterfly",
+    "translation": "摊平",
+    "ipa": "",
+    "cefr": "B1",
+    "category": "动物讲座",
+    "page": 36
+  },
+  {
+    "id": "word-771",
+    "word": "camel",
+    "translation": "驼色的",
+    "ipa": "",
+    "cefr": "A2",
+    "category": "动物讲座",
+    "page": 36
+  },
+  {
+    "id": "word-772",
+    "word": "chimpanzee",
+    "translation": "黑猩猩",
+    "ipa": "",
+    "cefr": "B1",
+    "category": "动物讲座",
+    "page": 36
+  },
+  {
+    "id": "word-773",
+    "word": "cocoon",
+    "translation": "盖住（...）；包",
+    "ipa": "",
+    "cefr": "B1",
+    "category": "动物讲座",
+    "page": 36
+  },
+  {
+    "id": "word-774",
+    "word": "dinosaur",
+    "translation": "恐龙；过时落后的东西；守旧落",
+    "ipa": "",
+    "cefr": "B1",
+    "category": "动物讲座",
+    "page": 36
+  },
+  {
+    "id": "word-775",
+    "word": "dolphin",
+    "translation": "海豚",
+    "ipa": "",
+    "cefr": "B1",
+    "category": "动物讲座",
+    "page": 36
+  },
+  {
+    "id": "word-776",
+    "word": "donkey",
+    "translation": "傻瓜；毛驴；驴；笨蛋",
+    "ipa": "",
+    "cefr": "B1",
+    "category": "动物讲座",
+    "page": 36
+  },
+  {
+    "id": "word-777",
+    "word": "elephant",
+    "translation": "大象；象",
+    "ipa": "",
+    "cefr": "B1",
+    "category": "动物讲座",
+    "page": 36
+  },
+  {
+    "id": "word-778",
+    "word": "falcon",
+    "translation": "猎鹰；隼",
+    "ipa": "",
+    "cefr": "B1",
+    "category": "动物讲座",
+    "page": 36
+  },
+  {
+    "id": "word-779",
+    "word": "giraffe",
+    "translation": "长颈鹿",
+    "ipa": "",
+    "cefr": "B1",
+    "category": "动物讲座",
+    "page": 36
+  },
+  {
+    "id": "word-780",
+    "word": "gorilla",
+    "translation": "大猩猩",
+    "ipa": "",
+    "cefr": "B1",
+    "category": "动物讲座",
+    "page": 36
+  },
+  {
+    "id": "word-781",
+    "word": "hare",
+    "translation": "野兔，",
+    "ipa": "",
+    "cefr": "B1",
+    "category": "动物讲座",
+    "page": 36
+  },
+  {
+    "id": "word-782",
+    "word": "insect",
+    "translation": "昆虫；卑鄙的人，",
+    "ipa": "",
+    "cefr": "B1",
+    "category": "动物讲座",
+    "page": 36
+  },
+  {
+    "id": "word-783",
+    "word": "jaguar",
+    "translation": "美洲虎；美洲豹",
+    "ipa": "",
+    "cefr": "B1",
+    "category": "动物讲座",
+    "page": 36
+  },
+  {
+    "id": "word-784",
+    "word": "jellyfish",
+    "translation": "志薄弱的人",
+    "ipa": "",
+    "cefr": "B1",
+    "category": "动物讲座",
+    "page": 36
+  },
+  {
+    "id": "word-785",
+    "word": "kangaroo",
+    "translation": "袋鼠",
+    "ipa": "",
+    "cefr": "B1",
+    "category": "动物讲座",
+    "page": 36
+  },
+  {
+    "id": "word-786",
+    "word": "koala",
+    "translation": "树袋熊；考拉",
+    "ipa": "",
+    "cefr": "B1",
+    "category": "动物讲座",
+    "page": 36
+  },
+  {
+    "id": "word-787",
+    "word": "leopard",
+    "translation": "美洲豹；豹；花豹；金钱豹",
+    "ipa": "",
+    "cefr": "B1",
+    "category": "动物讲座",
+    "page": 36
+  },
+  {
+    "id": "word-788",
+    "word": "lizard",
+    "translation": "蜥蜴",
+    "ipa": "",
+    "cefr": "B1",
+    "category": "动物讲座",
+    "page": 36
+  },
+  {
+    "id": "word-789",
+    "word": "ostrich",
+    "translation": "鸵鸟；逃避现实的人",
+    "ipa": "",
+    "cefr": "B1",
+    "category": "动物讲座",
+    "page": 36
+  },
+  {
+    "id": "word-790",
+    "word": "parrot",
+    "translation": "鹦鹉；",
+    "ipa": "",
+    "cefr": "B1",
+    "category": "动物讲座",
+    "page": 36
+  },
+  {
+    "id": "word-791",
+    "word": "pigeon",
+    "translation": "鸽子",
+    "ipa": "",
+    "cefr": "B1",
+    "category": "动物讲座",
+    "page": 36
+  },
+  {
+    "id": "word-792",
+    "word": "seal",
+    "translation": "海豹；印章；封条；标志，",
+    "ipa": "",
+    "cefr": "B1",
+    "category": "动物讲座",
+    "page": 36
+  },
+  {
+    "id": "word-793",
+    "word": "silkworm",
+    "translation": "蚕",
+    "ipa": "",
+    "cefr": "B1",
+    "category": "动物讲座",
+    "page": 36
+  },
+  {
+    "id": "word-794",
+    "word": "squirrel",
+    "translation": "、松鼠；松鼠毛皮",
+    "ipa": "",
+    "cefr": "B1",
+    "category": "动物讲座",
+    "page": 36
+  },
+  {
+    "id": "word-795",
+    "word": "swallow",
+    "translation": "燕子",
+    "ipa": "",
+    "cefr": "B1",
+    "category": "动物讲座",
+    "page": 36
+  },
+  {
+    "id": "word-796",
+    "word": "termite",
+    "translation": "白蚁",
+    "ipa": "",
+    "cefr": "B1",
+    "category": "动物讲座",
+    "page": 36
+  },
+  {
+    "id": "word-797",
+    "word": "toad",
+    "translation": "蟾蜍；癞蛤蟆；讨厌的家伙",
+    "ipa": "",
+    "cefr": "B1",
+    "category": "动物讲座",
+    "page": 36
+  },
+  {
+    "id": "word-798",
+    "word": "whale",
+    "translation": "Vi.捕鲸， 鲸；鲸鱼",
+    "ipa": "",
+    "cefr": "B1",
+    "category": "动物讲座",
+    "page": 36
+  },
+  {
+    "id": "word-799",
+    "word": "beak",
+    "translation": "鹰钩鼻；地方执法官；鸟喙",
+    "ipa": "",
+    "cefr": "B2",
+    "category": "动物讲座",
+    "page": 37
+  },
+  {
+    "id": "word-800",
+    "word": "bug",
+    "translation": "窃听器；臭虫；虫子：故障；瑕",
+    "ipa": "",
+    "cefr": "B1",
+    "category": "动物讲座",
+    "page": 37
+  },
+  {
+    "id": "word-801",
+    "word": "claw",
+    "translation": "钳；螯；爪；爪形器具，用爪",
+    "ipa": "",
+    "cefr": "B2",
+    "category": "动物讲座",
+    "page": 37
+  },
+  {
+    "id": "word-802",
+    "word": "fin",
+    "translation": "鳍状物；散热片：鳍；鱼鳍，",
+    "ipa": "",
+    "cefr": "B2",
+    "category": "动物讲座",
+    "page": 37
+  },
+  {
+    "id": "word-803",
+    "word": "hatch",
+    "translation": "孵（.....）",
+    "ipa": "",
+    "cefr": "B2",
+    "category": "动物讲座",
+    "page": 37
+  },
+  {
+    "id": "word-804",
+    "word": "insecticide",
+    "translation": "杀虫剂；杀虫药",
+    "ipa": "",
+    "cefr": "C1",
+    "category": "动物讲座",
+    "page": 37
+  },
+  {
+    "id": "word-805",
+    "word": "jaw",
+    "translation": "下巴；颌；唠叨；狭窄入口，vi.",
+    "ipa": "",
+    "cefr": "B2",
+    "category": "动物讲座",
+    "page": 37
+  },
+  {
+    "id": "word-806",
+    "word": "mosquito",
+    "translation": "蚊子",
+    "ipa": "",
+    "cefr": "B1",
+    "category": "动物讲座",
+    "page": 37
+  },
+  {
+    "id": "word-807",
+    "word": "pesticide",
+    "translation": "杀虫剂；农药",
+    "ipa": "",
+    "cefr": "B2",
+    "category": "动物讲座",
+    "page": 37
+  },
+  {
+    "id": "word-808",
+    "word": "scale",
+    "translation": "；鳞；",
+    "ipa": "",
+    "cefr": "B2",
+    "category": "动物讲座",
+    "page": 37
+  },
+  {
+    "id": "word-809",
+    "word": "scen",
+    "translation": "香味；气味；嗅觉：察觉能",
+    "ipa": "",
+    "cefr": "B2",
+    "category": "动物讲座",
+    "page": 37
+  },
+  {
+    "id": "word-810",
+    "word": "spider",
+    "translation": "蜘蛛；三脚架；设圈套者；十字",
+    "ipa": "",
+    "cefr": "B1",
+    "category": "动物讲座",
+    "page": 37
+  },
+  {
+    "id": "word-811",
+    "word": "tongue",
+    "translation": "舌头；语言；方言，vi.说话；发",
+    "ipa": "",
+    "cefr": "B2",
+    "category": "动物讲座",
+    "page": 37
+  },
+  {
+    "id": "word-812",
+    "word": "worm",
+    "translation": "蠕虫；虫；小人物；蜗杆，",
+    "ipa": "",
+    "cefr": "B2",
+    "category": "动物讲座",
+    "page": 37
+  },
+  {
+    "id": "word-813",
+    "word": "asteroid",
+    "translation": "小行星",
+    "ipa": "",
+    "cefr": "B2",
+    "category": "科技讲座",
+    "page": 38
+  },
+  {
+    "id": "word-814",
+    "word": "calculation",
+    "translation": "计算",
+    "ipa": "",
+    "cefr": "B2",
+    "category": "科技讲座",
+    "page": 38
+  },
+  {
+    "id": "word-815",
+    "word": "capacity",
+    "translation": "能力",
+    "ipa": "",
+    "cefr": "B2",
+    "category": "科技讲座",
+    "page": 38
+  },
+  {
+    "id": "word-816",
+    "word": "comet",
+    "translation": "［天］彗星；彗星",
+    "ipa": "",
+    "cefr": "B2",
+    "category": "科技讲座",
+    "page": 38
+  },
+  {
+    "id": "word-817",
+    "word": "constellation",
+    "translation": "星座",
+    "ipa": "",
+    "cefr": "C1",
+    "category": "科技讲座",
+    "page": 38
+  },
+  {
+    "id": "word-818",
+    "word": "crisis",
+    "translation": "危机；",
+    "ipa": "",
+    "cefr": "B2",
+    "category": "科技讲座",
+    "page": 38
+  },
+  {
+    "id": "word-819",
+    "word": "definition",
+    "translation": "定义；解释；清晰度；明确",
+    "ipa": "",
+    "cefr": "B2",
+    "category": "科技讲座",
+    "page": 38
+  },
+  {
+    "id": "word-820",
+    "word": "galaxy",
+    "translation": "星系；银河系；银河",
+    "ipa": "",
+    "cefr": "B2",
+    "category": "科技讲座",
+    "page": 38
+  },
+  {
+    "id": "word-821",
+    "word": "intergalactic",
+    "translation": "银河间的；星系间的",
+    "ipa": "",
+    "cefr": "C1",
+    "category": "科技讲座",
+    "page": 38
+  },
+  {
+    "id": "word-822",
+    "word": "investment",
+    "translation": "投资",
+    "ipa": "",
+    "cefr": "B2",
+    "category": "科技讲座",
+    "page": 38
+  },
+  {
+    "id": "word-823",
+    "word": "meteoroid",
+    "translation": "流星体",
+    "ipa": "",
+    "cefr": "C1",
+    "category": "科技讲座",
+    "page": 38
+  },
+  {
+    "id": "word-824",
+    "word": "planet",
+    "translation": "行星",
+    "ipa": "",
+    "cefr": "B1",
+    "category": "科技讲座",
+    "page": 38
+  },
+  {
+    "id": "word-825",
+    "word": "productivity",
+    "translation": "生产率；生产力",
+    "ipa": "",
+    "cefr": "",
+    "category": "科技讲座",
+    "page": 38
+  },
+  {
+    "id": "word-826",
+    "word": "quantitative",
+    "translation": "定量的；数量的；用数量表示的",
+    "ipa": "",
+    "cefr": "B2",
+    "category": "科技讲座",
+    "page": 38
+  },
+  {
+    "id": "word-827",
+    "word": "quantity",
+    "translation": "数量",
+    "ipa": "",
+    "cefr": "B2",
+    "category": "科技讲座",
+    "page": 38
+  },
+  {
+    "id": "word-828",
+    "word": "satellite",
+    "translation": "人造卫星",
+    "ipa": "",
+    "cefr": "B2",
+    "category": "科技讲座",
+    "page": 38
+  },
+  {
+    "id": "word-829",
+    "word": "solar system",
+    "translation": "太阳系",
+    "ipa": "",
+    "cefr": "B1",
+    "category": "科技讲座",
+    "page": 38
+  },
+  {
+    "id": "word-830",
+    "word": "space",
+    "translation": "空间；太空；",
+    "ipa": "",
+    "cefr": "A2",
+    "category": "科技讲座",
+    "page": 38
+  },
+  {
+    "id": "word-831",
+    "word": "aircraft",
+    "translation": "飞机",
+    "ipa": "",
+    "cefr": "",
+    "category": "科技讲座",
+    "page": 39
+  },
+  {
+    "id": "word-832",
+    "word": "meteorite",
+    "translation": "陨石；陨星；流星",
+    "ipa": "",
+    "cefr": "B2",
+    "category": "科技讲座",
+    "page": 39
+  },
+  {
+    "id": "word-833",
+    "word": "navigation",
+    "translation": "导航",
+    "ipa": "",
+    "cefr": "",
+    "category": "科技讲座",
+    "page": 39
+  },
+  {
+    "id": "word-834",
+    "word": "orbit",
+    "translation": "盘旋；绕轨道运行，",
+    "ipa": "",
+    "cefr": "",
+    "category": "科技讲座",
+    "page": 39
+  },
+  {
+    "id": "word-835",
+    "word": "radar",
+    "translation": "邵达",
+    "ipa": "",
+    "cefr": "",
+    "category": "科技讲座",
+    "page": 39
+  },
+  {
+    "id": "word-836",
+    "word": "rocket",
+    "translation": "邵达",
+    "ipa": "",
+    "cefr": "",
+    "category": "科技讲座",
+    "page": 39
+  },
+  {
+    "id": "word-837",
+    "word": "acid rain",
+    "translation": "酸雨",
+    "ipa": "/'asid rein/",
+    "cefr": "B2",
+    "category": "环境讲座",
+    "page": 40
+  },
+  {
+    "id": "word-838",
+    "word": "air pollution",
+    "translation": "空气污染",
+    "ipa": "/ea pa lu: fan/",
+    "cefr": "",
+    "category": "环境讲座",
+    "page": 40
+  },
+  {
+    "id": "word-839",
+    "word": "atmosphere",
+    "translation": "大气层",
+    "ipa": "/'ætmasfia /",
+    "cefr": "B2",
+    "category": "环境讲座",
+    "page": 40
+  },
+  {
+    "id": "word-840",
+    "word": "Carbon dioxide",
+    "translation": "二氧化碳",
+    "ipa": "/'ka: ban dar'oksaid/",
+    "cefr": "B2",
+    "category": "环境讲座",
+    "page": 40
+  },
+  {
+    "id": "word-841",
+    "word": "Carbon monoxide",
+    "translation": "一氧化碳",
+    "ipa": "/'ka: ban mo'noksaid/",
+    "cefr": "B2",
+    "category": "环境讲座",
+    "page": 40
+  },
+  {
+    "id": "word-842",
+    "word": "chemicals",
+    "translation": "化学药品",
+    "ipa": "/'kemikalz /",
+    "cefr": "B1",
+    "category": "环境讲座",
+    "page": 40
+  },
+  {
+    "id": "word-843",
+    "word": "coal",
+    "translation": "煤",
+    "ipa": "/kaul/",
+    "cefr": "B1",
+    "category": "环境讲座",
+    "page": 40
+  },
+  {
+    "id": "word-844",
+    "word": "contaminant",
+    "translation": "污染物",
+    "ipa": "/kan'tæminant/",
+    "cefr": "C1",
+    "category": "环境讲座",
+    "page": 40
+  },
+  {
+    "id": "word-845",
+    "word": "contaminated water",
+    "translation": "被污染的水",
+    "ipa": "ta/",
+    "cefr": "B2",
+    "category": "环境讲座",
+    "page": 40
+  },
+  {
+    "id": "word-846",
+    "word": "deforestation",
+    "translation": "滥伐森林",
+    "ipa": "/di, fori'ster/(a)n/",
+    "cefr": "C1",
+    "category": "环境讲座",
+    "page": 40
+  },
+  {
+    "id": "word-847",
+    "word": "desertification",
+    "translation": "荒漠化",
+    "ipa": "/di,z3:tift' keifan/",
+    "cefr": "C1",
+    "category": "环境讲座",
+    "page": 40
+  },
+  {
+    "id": "word-848",
+    "word": "drought",
+    "translation": "旱灾",
+    "ipa": "/draut/",
+    "cefr": "B2",
+    "category": "环境讲座",
+    "page": 40
+  },
+  {
+    "id": "word-849",
+    "word": "energy",
+    "translation": "活力",
+    "ipa": "/'enadzi/",
+    "cefr": "B1",
+    "category": "环境讲座",
+    "page": 40
+  },
+  {
+    "id": "word-850",
+    "word": "floods",
+    "translation": "洪水",
+    "ipa": "/fladz/",
+    "cefr": "B2",
+    "category": "环境讲座",
+    "page": 40
+  },
+  {
+    "id": "word-851",
+    "word": "fossil fuels",
+    "translation": "化石燃料",
+    "ipa": "/'fosl fjualz/",
+    "cefr": "B2",
+    "category": "环境讲座",
+    "page": 40
+  },
+  {
+    "id": "word-852",
+    "word": "gas",
+    "translation": "气体",
+    "ipa": "/gas/",
+    "cefr": "A2",
+    "category": "环境讲座",
+    "page": 40
+  },
+  {
+    "id": "word-853",
+    "word": "Geographical",
+    "translation": "地理的",
+    "ipa": "/dia grafikal /",
+    "cefr": "C1",
+    "category": "环境讲座",
+    "page": 40
+  },
+  {
+    "id": "word-854",
+    "word": "Hydrogen",
+    "translation": "氢",
+    "ipa": "/'hadridgan/",
+    "cefr": "B2",
+    "category": "环境讲座",
+    "page": 40
+  },
+  {
+    "id": "word-855",
+    "word": "Nitrogen",
+    "translation": "氮",
+    "ipa": "/nartradgan/",
+    "cefr": "C1",
+    "category": "环境讲座",
+    "page": 40
+  },
+  {
+    "id": "word-856",
+    "word": "over-felling",
+    "translation": "过度砍伐",
+    "ipa": "/'auva- felin",
+    "cefr": "B2",
+    "category": "环境讲座",
+    "page": 40
+  },
+  {
+    "id": "word-857",
+    "word": "overfishing",
+    "translation": "过度捞捕",
+    "ipa": "/, auva fifin/",
+    "cefr": "C1",
+    "category": "环境讲座",
+    "page": 40
+  },
+  {
+    "id": "word-858",
+    "word": "Oxygen",
+    "translation": "氧",
+    "ipa": "/oksidzan/",
+    "cefr": "B1",
+    "category": "环境讲座",
+    "page": 40
+  },
+  {
+    "id": "word-859",
+    "word": "Ozone",
+    "translation": "臭氧",
+    "ipa": "/'auzaun/",
+    "cefr": "C1",
+    "category": "环境讲座",
+    "page": 40
+  },
+  {
+    "id": "word-860",
+    "word": "petroleum",
+    "translation": "石油",
+    "ipa": "/pr'trauliam/",
+    "cefr": "C1",
+    "category": "环境讲座",
+    "page": 40
+  },
+  {
+    "id": "word-861",
+    "word": "pollutant",
+    "translation": "污染物",
+    "ipa": "/pa'lu:tant /",
+    "cefr": "C1",
+    "category": "环境讲座",
+    "page": 40
+  },
+  {
+    "id": "word-862",
+    "word": "pollution",
+    "translation": "污染",
+    "ipa": "/pa lu: fan/",
+    "cefr": "B2",
+    "category": "环境讲座",
+    "page": 40
+  },
+  {
+    "id": "word-863",
+    "word": "soil erosion",
+    "translation": "土壤侵蚀",
+    "ipa": "/soil trauzan/",
+    "cefr": "C1",
+    "category": "环境讲座",
+    "page": 40
+  },
+  {
+    "id": "word-864",
+    "word": "sulphur monoxide",
+    "translation": "一氧化硫",
+    "ipa": "/'salfa mo'noksaid/",
+    "cefr": "",
+    "category": "环境讲座",
+    "page": 40
+  },
+  {
+    "id": "word-865",
+    "word": "toxic waste",
+    "translation": "有毒废物",
+    "ipa": "/toksik weist /",
+    "cefr": "B1",
+    "category": "环境讲座",
+    "page": 40
+  },
+  {
+    "id": "word-866",
+    "word": "alluvial",
+    "translation": "冲积的",
+    "ipa": "/a'lu: vial/",
+    "cefr": "C1",
+    "category": "环境讲座",
+    "page": 41
+  },
+  {
+    "id": "word-867",
+    "word": "barren",
+    "translation": "贫瘠的",
+    "ipa": "/'baran/",
+    "cefr": "C1",
+    "category": "环境讲座",
+    "page": 41
+  },
+  {
+    "id": "word-868",
+    "word": "bottle tops",
+    "translation": "瓶盖",
+    "ipa": "/ botl tops/",
+    "cefr": "",
+    "category": "环境讲座",
+    "page": 41
+  },
+  {
+    "id": "word-869",
+    "word": "components",
+    "translation": "成分",
+    "ipa": "/kam paunants /",
+    "cefr": "C1",
+    "category": "环境讲座",
+    "page": 41
+  },
+  {
+    "id": "word-870",
+    "word": "delta",
+    "translation": "三角洲",
+    "ipa": "/ delta/",
+    "cefr": "B2",
+    "category": "环境讲座",
+    "page": 41
+  },
+  {
+    "id": "word-871",
+    "word": "deterioration",
+    "translation": "恶化",
+    "ipa": "/di, tiaria'reifan/",
+    "cefr": "C1",
+    "category": "环境讲座",
+    "page": 41
+  },
+  {
+    "id": "word-872",
+    "word": "dust-storm",
+    "translation": "沙尘暴",
+    "ipa": "/'daststo:m /",
+    "cefr": "B1",
+    "category": "环境讲座",
+    "page": 41
+  },
+  {
+    "id": "word-873",
+    "word": "embankment",
+    "translation": "筑堤",
+    "ipa": "/im bankmant /",
+    "cefr": "C1",
+    "category": "环境讲座",
+    "page": 41
+  },
+  {
+    "id": "word-874",
+    "word": "extinction",
+    "translation": "灭绝",
+    "ipa": "/iks'tinkfan /",
+    "cefr": "C1",
+    "category": "环境讲座",
+    "page": 41
+  },
+  {
+    "id": "word-875",
+    "word": "glass",
+    "translation": "玻璃",
+    "ipa": "/gla:s/",
+    "cefr": "A1",
+    "category": "环境讲座",
+    "page": 41
+  },
+  {
+    "id": "word-876",
+    "word": "greenhouse",
+    "translation": "温室",
+    "ipa": "/'gri:nhaus /",
+    "cefr": "B2",
+    "category": "环境讲座",
+    "page": 41
+  },
+  {
+    "id": "word-877",
+    "word": "inundate",
+    "translation": "淹没",
+    "ipa": "/'inandest/",
+    "cefr": "C1",
+    "category": "环境讲座",
+    "page": 41
+  },
+  {
+    "id": "word-878",
+    "word": "marsh gas",
+    "translation": "沼气",
+    "ipa": "/ma:j gæs /",
+    "cefr": "B2",
+    "category": "环境讲座",
+    "page": 41
+  },
+  {
+    "id": "word-879",
+    "word": "methane",
+    "translation": "甲烷",
+    "ipa": "/ mi: Đein /",
+    "cefr": "C1",
+    "category": "环境讲座",
+    "page": 41
+  },
+  {
+    "id": "word-880",
+    "word": "nuclear",
+    "translation": "核武器的",
+    "ipa": "/'nju:klia /",
+    "cefr": "B2",
+    "category": "环境讲座",
+    "page": 41
+  },
+  {
+    "id": "word-881",
+    "word": "ooze",
+    "translation": "渗出，渗出物",
+    "ipa": "/u:z/",
+    "cefr": "C1",
+    "category": "环境讲座",
+    "page": 41
+  },
+  {
+    "id": "word-882",
+    "word": "paper",
+    "translation": "纸",
+    "ipa": "/peipa /",
+    "cefr": "A1",
+    "category": "环境讲座",
+    "page": 41
+  },
+  {
+    "id": "word-883",
+    "word": "plastic",
+    "translation": "塑料",
+    "ipa": "/plastik/",
+    "cefr": "A2",
+    "category": "环境讲座",
+    "page": 41
+  },
+  {
+    "id": "word-884",
+    "word": "radiation",
+    "translation": "辐射",
+    "ipa": "/ reid'eifan/",
+    "cefr": "B2",
+    "category": "环境讲座",
+    "page": 41
+  },
+  {
+    "id": "word-885",
+    "word": "recurrent",
+    "translation": "反复发生的",
+    "ipa": "/n' karant /",
+    "cefr": "C1",
+    "category": "环境讲座",
+    "page": 41
+  },
+  {
+    "id": "word-886",
+    "word": "recycling",
+    "translation": "回收利用",
+    "ipa": "/ ri: saiklin/",
+    "cefr": "B1",
+    "category": "环境讲座",
+    "page": 41
+  },
+  {
+    "id": "word-887",
+    "word": "sediment",
+    "translation": "沉积（物）",
+    "ipa": "/'sedimant /",
+    "cefr": "C1",
+    "category": "环境讲座",
+    "page": 41
+  },
+  {
+    "id": "word-888",
+    "word": "spare parts",
+    "translation": "备用零件",
+    "ipa": "/spea pa:ts /",
+    "cefr": "",
+    "category": "环境讲座",
+    "page": 41
+  },
+  {
+    "id": "word-889",
+    "word": "tide",
+    "translation": "潮流",
+    "ipa": "/tard/",
+    "cefr": "B2",
+    "category": "环境讲座",
+    "page": 41
+  },
+  {
+    "id": "word-890",
+    "word": "wind power",
+    "translation": "风力",
+    "ipa": "/wind pava/",
+    "cefr": "A2",
+    "category": "环境讲座",
+    "page": 41
+  },
+  {
+    "id": "word-891",
+    "word": "attributable",
+    "translation": "归因于",
+    "ipa": "/a'tribju:tabl/",
+    "cefr": "C1",
+    "category": "环境讲座",
+    "page": 42
+  },
+  {
+    "id": "word-892",
+    "word": "Celsius",
+    "translation": "摄氏的",
+    "ipa": "/'salsias /",
+    "cefr": "B1",
+    "category": "环境讲座",
+    "page": 42
+  },
+  {
+    "id": "word-893",
+    "word": "circulation",
+    "translation": "流通，循环",
+    "ipa": "/ s3: kjuleifan/",
+    "cefr": "B2",
+    "category": "环境讲座",
+    "page": 42
+  },
+  {
+    "id": "word-894",
+    "word": "contaminate",
+    "translation": "弄脏",
+    "ipa": "/kan'tamineit/",
+    "cefr": "C1",
+    "category": "环境讲座",
+    "page": 42
+  },
+  {
+    "id": "word-895",
+    "word": "contentious",
+    "translation": "有争议的",
+    "ipa": "/kan'tenfas/",
+    "cefr": "C1",
+    "category": "环境讲座",
+    "page": 42
+  },
+  {
+    "id": "word-896",
+    "word": "counterbalance",
+    "translation": "使平衡，弥补",
+    "ipa": "/'kaunta, balans/",
+    "cefr": "C1",
+    "category": "环境讲座",
+    "page": 42
+  },
+  {
+    "id": "word-897",
+    "word": "demographic",
+    "translation": "人口统计的",
+    "ipa": "/,di: ma' grafik/",
+    "cefr": "C1",
+    "category": "环境讲座",
+    "page": 42
+  },
+  {
+    "id": "word-898",
+    "word": "dump",
+    "translation": "倾倒，倾销",
+    "ipa": "/damp/",
+    "cefr": "B1",
+    "category": "环境讲座",
+    "page": 42
+  },
+  {
+    "id": "word-899",
+    "word": "ecosystem",
+    "translation": "生态系统",
+    "ipa": "/'i: kau,sistam /",
+    "cefr": "C1",
+    "category": "环境讲座",
+    "page": 42
+  },
+  {
+    "id": "word-900",
+    "word": "eruption",
+    "translation": "喷发",
+    "ipa": "/trapfan/",
+    "cefr": "C1",
+    "category": "环境讲座",
+    "page": 42
+  },
+  {
+    "id": "word-901",
+    "word": "Fahrenheit",
+    "translation": "华氏的",
+    "ipa": "/'færanhart /",
+    "cefr": "B2",
+    "category": "环境讲座",
+    "page": 42
+  },
+  {
+    "id": "word-902",
+    "word": "glacier",
+    "translation": "冰川",
+    "ipa": "/'glasia /",
+    "cefr": "B2",
+    "category": "环境讲座",
+    "page": 42
+  },
+  {
+    "id": "word-903",
+    "word": "granite",
+    "translation": "花岗岩",
+    "ipa": "/'granit /",
+    "cefr": "B2",
+    "category": "环境讲座",
+    "page": 42
+  },
+  {
+    "id": "word-904",
+    "word": "habitat",
+    "translation": "栖息地",
+    "ipa": "/'hæbitat/",
+    "cefr": "C1",
+    "category": "环境讲座",
+    "page": 42
+  },
+  {
+    "id": "word-905",
+    "word": "irreversible",
+    "translation": "不可逆的",
+    "ipa": "/, in'v3: Sabl/",
+    "cefr": "C1",
+    "category": "环境讲座",
+    "page": 42
+  },
+  {
+    "id": "word-906",
+    "word": "latitude",
+    "translation": "纬度",
+    "ipa": "/'latitju:d /",
+    "cefr": "B2",
+    "category": "环境讲座",
+    "page": 42
+  },
+  {
+    "id": "word-907",
+    "word": "log",
+    "translation": "原木，日志伐木",
+    "ipa": "Ang /",
+    "cefr": "B2",
+    "category": "环境讲座",
+    "page": 42
+  },
+  {
+    "id": "word-908",
+    "word": "mechanism",
+    "translation": "机理，机制",
+    "ipa": "/'mekanizm/",
+    "cefr": "C1",
+    "category": "环境讲座",
+    "page": 42
+  },
+  {
+    "id": "word-909",
+    "word": "meteorology",
+    "translation": "气象（学）",
+    "ipa": "/ mi: tia'roladzi/",
+    "cefr": "B2",
+    "category": "环境讲座",
+    "page": 42
+  },
+  {
+    "id": "word-910",
+    "word": "precipitation",
+    "translation": "陡降，降水",
+    "ipa": "/pri, sipr'terfan/",
+    "cefr": "B2",
+    "category": "环境讲座",
+    "page": 42
+  },
+  {
+    "id": "word-911",
+    "word": "reclaim",
+    "translation": "开垦，改造",
+    "ipa": "/ri'kleim/",
+    "cefr": "C1",
+    "category": "环境讲座",
+    "page": 42
+  },
+  {
+    "id": "word-912",
+    "word": "recycle",
+    "translation": "回收再利用",
+    "ipa": "/ ri: sarkl/",
+    "cefr": "B2",
+    "category": "环境讲座",
+    "page": 42
+  },
+  {
+    "id": "word-913",
+    "word": "vegetation",
+    "translation": "植物，植被",
+    "ipa": "/,vedgi'terfan/",
+    "cefr": "B2",
+    "category": "环境讲座",
+    "page": 42
+  },
+  {
+    "id": "word-914",
+    "word": "volcano",
+    "translation": "火山",
+    "ipa": "/vol keinau/",
+    "cefr": "B1",
+    "category": "环境讲座",
+    "page": 42
+  }
+]
